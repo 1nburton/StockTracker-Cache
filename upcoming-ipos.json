@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-25T19:34:23.271Z",
+  "generatedAt": "2026-04-26T01:28:48.036Z",
   "graduated": [
     "BTGO",
     "SPCE",
@@ -13,7 +13,8 @@
     "CHYM",
     "CRCL",
     "CALM",
-    "BLSH"
+    "BLSH",
+    "XE"
   ],
   "pipeline": [
     {
@@ -54,20 +55,6 @@
       "sector": "Pharmaceuticals",
       "status": "S-1/A filed 2026-04-23",
       "description": "",
-      "investors": [],
-      "competitors": [],
-      "valLow": 0.1,
-      "valHigh": 0.5,
-      "prob": 55,
-      "window": "TBD"
-    },
-    {
-      "ticker": "XE",
-      "company": "X-Energy",
-      "exchange": "NYSE",
-      "sector": "—",
-      "status": "S-1/A filed 2026-04-20",
-      "description": "X-energy is a private American nuclear reactor and fuel design engineering company. It is developing a Generation IV high-temperature gas-cooled pebble-bed nuclear reactor design. It has received funding from private sources and various government grants and contracts, notably through the Department of Energy's (DOE) Advanced Reactor Concept Cooperative Agreement in 2016 and its Advanced Reactor Demonstration Program (ARDP) in 2020.",
       "investors": [],
       "competitors": [],
       "valLow": 0.1,
