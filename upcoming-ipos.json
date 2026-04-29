@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-28T06:09:09.575Z",
+  "generatedAt": "2026-04-29T06:04:27.833Z",
   "graduated": [
     "BTGO",
     "SPCE",
@@ -17,6 +17,84 @@
     "XE"
   ],
   "pipeline": [
+    {
+      "ticker": "SWRD",
+      "company": "Stewards",
+      "exchange": "NYSE",
+      "sector": "—",
+      "status": "S-1/A filed 2026-04-28",
+      "description": "The Shop Stewards Movement was a movement which brought together shop stewards from across the United Kingdom during the First World War. It originated with the Clyde Workers Committee, the first shop stewards committee in Britain, which organised against the imprisonment of three of their members in 1915. Most of them were members of the Amalgamated Society of Engineers (ASE). In November 1916 the Sheffield Workers Committee was formed when members of the ASE there went on strike against the co",
+      "investors": [],
+      "competitors": [],
+      "valLow": 0.1,
+      "valHigh": 0.5,
+      "prob": 55,
+      "window": "TBD"
+    },
+    {
+      "ticker": "COAG",
+      "company": "Hemab Therapeutics Holdings",
+      "exchange": "NYSE",
+      "sector": "Pharmaceuticals",
+      "status": "S-1/A filed 2026-04-28",
+      "description": "",
+      "investors": [],
+      "competitors": [],
+      "valLow": 0.1,
+      "valHigh": 0.5,
+      "prob": 55,
+      "window": "TBD"
+    },
+    {
+      "ticker": "REA",
+      "company": "Rare Earths Americas",
+      "exchange": "NYSE",
+      "sector": "—",
+      "status": "S-1/A filed 2026-04-28",
+      "description": "USA Rare Earth, Inc. is an American mining and manufacturing company specializing in the extraction, processing, and production of rare-earth elements (REEs), particularly heavy rare-earth elements, and permanent magnets. Headquartered in Stillwater, Oklahoma, USA Rare Earth is working on developing a domestic supply chain for REE magnets, used in industries such as defense, electric vehicles, renewable energy, consumer electronics, and advanced manufacturing.",
+      "investors": [
+        "private investment in public equity"
+      ],
+      "competitors": [],
+      "valLow": 0.1,
+      "valHigh": 0.5,
+      "prob": 55,
+      "window": "TBD"
+    },
+    {
+      "ticker": "ASFH",
+      "company": "ASIAFIN HOLDINGS",
+      "exchange": "NYSE",
+      "sector": "Business Services",
+      "status": "S-1/A filed 2026-04-28",
+      "description": "",
+      "investors": [],
+      "competitors": [],
+      "valLow": 0.1,
+      "valHigh": 0.5,
+      "prob": 55,
+      "window": "TBD"
+    },
+    {
+      "ticker": "GMRS",
+      "company": "GMR Solutions",
+      "exchange": "NYSE",
+      "sector": "—",
+      "status": "S-1/A filed 2026-04-28",
+      "description": "GMR Group is an Indian multinational conglomerate headquartered in New Delhi. The group was founded in 1978 by Grandhi Mallikarjuna Rao and comprises several companies including GMR Infrastructure, GMR Energy, GMR Airports, and GMR Enterprises. Employing the public-private partnership model, the Group has implemented several infrastructure projects in India. The Group also has a global presence with infrastructure operating assets and projects in several countries including Philippines and Greec",
+      "investors": [
+        "public-private partnership",
+        "Delhi Capitals",
+        "JSW Group",
+        "Dubai Capitals",
+        "Category:GMR Group"
+      ],
+      "competitors": [],
+      "valLow": 0.1,
+      "valHigh": 0.5,
+      "prob": 55,
+      "window": "TBD"
+    },
     {
       "ticker": "SUJA",
       "company": "SUJA LIFE",
@@ -78,20 +156,6 @@
       "company": "Tradewinds Universal",
       "exchange": "NYSE",
       "sector": "—",
-      "status": "S-1/A filed 2026-04-27",
-      "description": "",
-      "investors": [],
-      "competitors": [],
-      "valLow": 0.1,
-      "valHigh": 0.5,
-      "prob": 55,
-      "window": "TBD"
-    },
-    {
-      "ticker": "COAG",
-      "company": "Hemab Therapeutics Holdings",
-      "exchange": "NYSE",
-      "sector": "Pharmaceuticals",
       "status": "S-1/A filed 2026-04-27",
       "description": "",
       "investors": [],
@@ -243,20 +307,6 @@
       "exchange": "NYSE",
       "sector": "—",
       "status": "S-1/A filed 2026-04-14",
-      "description": "",
-      "investors": [],
-      "competitors": [],
-      "valLow": 0.1,
-      "valHigh": 0.5,
-      "prob": 55,
-      "window": "TBD"
-    },
-    {
-      "ticker": "ARXS",
-      "company": "Arxis",
-      "exchange": "NYSE",
-      "sector": "—",
-      "status": "S-1/A filed 2026-04-10",
       "description": "",
       "investors": [],
       "competitors": [],
