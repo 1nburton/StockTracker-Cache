@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-29T06:04:27.833Z",
+  "generatedAt": "2026-04-30T06:08:37.278Z",
   "graduated": [
     "BTGO",
     "SPCE",
@@ -14,16 +14,101 @@
     "CRCL",
     "CALM",
     "BLSH",
+    "PS",
     "XE"
   ],
   "pipeline": [
+    {
+      "ticker": "CCLV",
+      "company": "C2 Capital Group",
+      "exchange": "NYSE",
+      "sector": "Technology Services",
+      "status": "S-1/A filed 2026-04-29",
+      "description": "",
+      "investors": [],
+      "competitors": [],
+      "valLow": 0.1,
+      "valHigh": 0.5,
+      "prob": 55,
+      "window": "TBD"
+    },
+    {
+      "ticker": "ADBT",
+      "company": "Advasa Holdings",
+      "exchange": "NYSE",
+      "sector": "Software",
+      "status": "S-1/A filed 2026-04-29",
+      "description": "",
+      "investors": [],
+      "competitors": [],
+      "valLow": 0.1,
+      "valHigh": 0.5,
+      "prob": 55,
+      "window": "TBD"
+    },
+    {
+      "ticker": "AVLN",
+      "company": "Avalyn Pharma",
+      "exchange": "NYSE",
+      "sector": "Pharmaceuticals",
+      "status": "S-1/A filed 2026-04-29",
+      "description": "",
+      "investors": [],
+      "competitors": [],
+      "valLow": 0.1,
+      "valHigh": 0.5,
+      "prob": 55,
+      "window": "TBD"
+    },
+    {
+      "ticker": "TRWD",
+      "company": "Tradewinds Universal",
+      "exchange": "NYSE",
+      "sector": "—",
+      "status": "S-1/A filed 2026-04-29",
+      "description": "",
+      "investors": [],
+      "competitors": [],
+      "valLow": 0.1,
+      "valHigh": 0.5,
+      "prob": 55,
+      "window": "TBD"
+    },
+    {
+      "ticker": "CIMG",
+      "company": "CIMG",
+      "exchange": "NYSE",
+      "sector": "—",
+      "status": "S-1/A filed 2026-04-29",
+      "description": "CIMG-FM is a Canadian radio station being licensed to Swift Current, Saskatchewan serving the southwest Saskatchewan area broadcasting at 94.1 FM with a country music format. The station is currently owned and operated by Golden West Broadcasting, which also owns sister stations CKFI-FM and CKSW. The station had been broadcasting since October 20, 1979.",
+      "investors": [],
+      "competitors": [],
+      "valLow": 0.1,
+      "valHigh": 0.5,
+      "prob": 55,
+      "window": "TBD"
+    },
+    {
+      "ticker": "WNDW",
+      "company": "SolarWindow Technologies",
+      "exchange": "NYSE",
+      "sector": "—",
+      "status": "S-1/A filed 2026-04-29",
+      "description": "",
+      "investors": [],
+      "competitors": [],
+      "valLow": 0.1,
+      "valHigh": 0.5,
+      "prob": 55,
+      "window": "TBD"
+    },
     {
       "ticker": "SWRD",
       "company": "Stewards",
       "exchange": "NYSE",
       "sector": "—",
       "status": "S-1/A filed 2026-04-28",
-      "description": "The Shop Stewards Movement was a movement which brought together shop stewards from across the United Kingdom during the First World War. It originated with the Clyde Workers Committee, the first shop stewards committee in Britain, which organised against the imprisonment of three of their members in 1915. Most of them were members of the Amalgamated Society of Engineers (ASE). In November 1916 the Sheffield Workers Committee was formed when members of the ASE there went on strike against the co",
+      "description": "The Stewards Society is an anonymous, all-male service fraternity, often considered a secret society, at Georgetown University. The name collectively refers to a handful of loosely organizationally tied groups that have existed since the First Stewards Society's founding. The society remained largely unknown until 1988, when revelations of its existence was revealed in the university newspaper, The Hoya, and became national news. The First Steward Society still continued to operate until splitti",
       "investors": [],
       "competitors": [],
       "valLow": 0.1,
@@ -51,9 +136,9 @@
       "exchange": "NYSE",
       "sector": "—",
       "status": "S-1/A filed 2026-04-28",
-      "description": "USA Rare Earth, Inc. is an American mining and manufacturing company specializing in the extraction, processing, and production of rare-earth elements (REEs), particularly heavy rare-earth elements, and permanent magnets. Headquartered in Stillwater, Oklahoma, USA Rare Earth is working on developing a domestic supply chain for REE magnets, used in industries such as defense, electric vehicles, renewable energy, consumer electronics, and advanced manufacturing.",
+      "description": "The rare-earth elements (REE), also called rare-earth metals, or rare earths, are a set of 17 nearly indistinguishable lustrous silvery-white soft heavy metals. The 15 lanthanides, along with scandium, and yttrium, are usually included as rare earths. Compounds containing rare-earths have diverse applications in electrical and electronic components, lasers, glass, magnetic materials, and industrial processes. Rare-earths are to be distinguished from critical minerals, which are materials of stra",
       "investors": [
-        "private investment in public equity"
+        "space group"
       ],
       "competitors": [],
       "valLow": 0.1,
@@ -152,20 +237,6 @@
       "window": "TBD"
     },
     {
-      "ticker": "TRWD",
-      "company": "Tradewinds Universal",
-      "exchange": "NYSE",
-      "sector": "—",
-      "status": "S-1/A filed 2026-04-27",
-      "description": "",
-      "investors": [],
-      "competitors": [],
-      "valLow": 0.1,
-      "valHigh": 0.5,
-      "prob": 55,
-      "window": "TBD"
-    },
-    {
       "ticker": "HAWK",
       "company": "HawkEye 360",
       "exchange": "NYSE",
@@ -211,20 +282,6 @@
       "window": "TBD"
     },
     {
-      "ticker": "AVLN",
-      "company": "Avalyn Pharma",
-      "exchange": "NYSE",
-      "sector": "Pharmaceuticals",
-      "status": "S-1/A filed 2026-04-23",
-      "description": "",
-      "investors": [],
-      "competitors": [],
-      "valLow": 0.1,
-      "valHigh": 0.5,
-      "prob": 55,
-      "window": "TBD"
-    },
-    {
       "ticker": "VIDA",
       "company": "VIDA Global",
       "exchange": "NYSE",
@@ -258,52 +315,6 @@
     {
       "ticker": "BLTH",
       "company": "AMERICAN BATTERY MATERIALS",
-      "exchange": "NYSE",
-      "sector": "—",
-      "status": "S-1/A filed 2026-04-14",
-      "description": "",
-      "investors": [],
-      "competitors": [],
-      "valLow": 0.1,
-      "valHigh": 0.5,
-      "prob": 55,
-      "window": "TBD"
-    },
-    {
-      "ticker": "LILW",
-      "company": "Little West Holdings",
-      "exchange": "NYSE",
-      "sector": "—",
-      "status": "S-1/A filed 2026-04-14",
-      "description": "Little Rock is the capital and most populous city of the U.S. state of Arkansas. The population was 202,591 at the 2020 census, while the Little Rock metropolitan area with an estimated 770,000 residents is the 81st-most populous metropolitan area in the United States. The city lies on the south bank of the Arkansas River close to the state's geographic center in central Arkansas. It is the county seat of Pulaski County.",
-      "investors": [
-        "List of capitals in the United States",
-        "Timex Group",
-        "Category:State capitals in the United States"
-      ],
-      "competitors": [],
-      "valLow": 0.1,
-      "valHigh": 0.5,
-      "prob": 55,
-      "window": "TBD"
-    },
-    {
-      "ticker": "ELMT",
-      "company": "Elmet Group Co.",
-      "exchange": "NYSE",
-      "sector": "—",
-      "status": "S-1/A filed 2026-04-14",
-      "description": "",
-      "investors": [],
-      "competitors": [],
-      "valLow": 0.1,
-      "valHigh": 0.5,
-      "prob": 55,
-      "window": "TBD"
-    },
-    {
-      "ticker": "FCHS",
-      "company": "First Choice Healthcare Solutions",
       "exchange": "NYSE",
       "sector": "—",
       "status": "S-1/A filed 2026-04-14",
