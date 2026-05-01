@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-30T06:08:37.278Z",
+  "generatedAt": "2026-05-01T06:21:22.557Z",
   "graduated": [
     "BTGO",
     "SPCE",
@@ -18,6 +18,62 @@
     "XE"
   ],
   "pipeline": [
+    {
+      "ticker": "COAG",
+      "company": "Hemab Therapeutics Holdings",
+      "exchange": "NYSE",
+      "sector": "Pharmaceuticals",
+      "status": "S-1/A filed 2026-04-30",
+      "description": "",
+      "investors": [],
+      "competitors": [],
+      "valLow": 0.1,
+      "valHigh": 0.5,
+      "prob": 55,
+      "window": "TBD"
+    },
+    {
+      "ticker": "HLYK",
+      "company": "HealthLynked",
+      "exchange": "NYSE",
+      "sector": "Healthcare",
+      "status": "S-1/A filed 2026-04-30",
+      "description": "",
+      "investors": [],
+      "competitors": [],
+      "valLow": 0.1,
+      "valHigh": 0.5,
+      "prob": 55,
+      "window": "TBD"
+    },
+    {
+      "ticker": "SUJA",
+      "company": "SUJA LIFE",
+      "exchange": "NYSE",
+      "sector": "—",
+      "status": "S-1/A filed 2026-04-30",
+      "description": "Suja Varunee is an Indian former actress who has appeared in Tamil, Kannada, Telugu, and Malayalam language films. She is the winner of BB Jodigal .",
+      "investors": [],
+      "competitors": [],
+      "valLow": 0.1,
+      "valHigh": 0.5,
+      "prob": 55,
+      "window": "TBD"
+    },
+    {
+      "ticker": "AIAI",
+      "company": "AIAI Holdings",
+      "exchange": "NYSE",
+      "sector": "Technology Services",
+      "status": "S-1/A filed 2026-04-30",
+      "description": "",
+      "investors": [],
+      "competitors": [],
+      "valLow": 0.1,
+      "valHigh": 0.5,
+      "prob": 55,
+      "window": "TBD"
+    },
     {
       "ticker": "CCLV",
       "company": "C2 Capital Group",
@@ -117,28 +173,14 @@
       "window": "TBD"
     },
     {
-      "ticker": "COAG",
-      "company": "Hemab Therapeutics Holdings",
-      "exchange": "NYSE",
-      "sector": "Pharmaceuticals",
-      "status": "S-1/A filed 2026-04-28",
-      "description": "",
-      "investors": [],
-      "competitors": [],
-      "valLow": 0.1,
-      "valHigh": 0.5,
-      "prob": 55,
-      "window": "TBD"
-    },
-    {
       "ticker": "REA",
       "company": "Rare Earths Americas",
       "exchange": "NYSE",
       "sector": "—",
       "status": "S-1/A filed 2026-04-28",
-      "description": "The rare-earth elements (REE), also called rare-earth metals, or rare earths, are a set of 17 nearly indistinguishable lustrous silvery-white soft heavy metals. The 15 lanthanides, along with scandium, and yttrium, are usually included as rare earths. Compounds containing rare-earths have diverse applications in electrical and electronic components, lasers, glass, magnetic materials, and industrial processes. Rare-earths are to be distinguished from critical minerals, which are materials of stra",
+      "description": "USA Rare Earth, Inc. is an American mining and manufacturing company specializing in the extraction, processing, and production of rare-earth elements (REEs), particularly heavy rare-earth elements, and permanent magnets. Headquartered in Stillwater, Oklahoma, USA Rare Earth is working on developing a domestic supply chain for REE magnets, used in industries such as defense, electric vehicles, renewable energy, consumer electronics, and advanced manufacturing.",
       "investors": [
-        "space group"
+        "private investment in public equity"
       ],
       "competitors": [],
       "valLow": 0.1,
@@ -174,20 +216,6 @@
         "Dubai Capitals",
         "Category:GMR Group"
       ],
-      "competitors": [],
-      "valLow": 0.1,
-      "valHigh": 0.5,
-      "prob": 55,
-      "window": "TBD"
-    },
-    {
-      "ticker": "SUJA",
-      "company": "SUJA LIFE",
-      "exchange": "NYSE",
-      "sector": "—",
-      "status": "S-1/A filed 2026-04-27",
-      "description": "Suja Varunee is an Indian former actress who has appeared in Tamil, Kannada, Telugu, and Malayalam language films. She is the winner of BB Jodigal .",
-      "investors": [],
       "competitors": [],
       "valLow": 0.1,
       "valHigh": 0.5,
@@ -268,20 +296,6 @@
       "window": "TBD"
     },
     {
-      "ticker": "AIAI",
-      "company": "AIAI Holdings",
-      "exchange": "NYSE",
-      "sector": "Technology Services",
-      "status": "S-1/A filed 2026-04-24",
-      "description": "",
-      "investors": [],
-      "competitors": [],
-      "valLow": 0.1,
-      "valHigh": 0.5,
-      "prob": 55,
-      "window": "TBD"
-    },
-    {
       "ticker": "VIDA",
       "company": "VIDA Global",
       "exchange": "NYSE",
@@ -292,34 +306,6 @@
         "Grammy Award for Best Pop Performance by a Duo or Group with Vocal",
         "Category:Universal Music Group singles"
       ],
-      "competitors": [],
-      "valLow": 0.1,
-      "valHigh": 0.5,
-      "prob": 55,
-      "window": "TBD"
-    },
-    {
-      "ticker": "CTTH",
-      "company": "CTT PHARMACEUTICAL HOLDINGS",
-      "exchange": "NYSE",
-      "sector": "Pharmaceuticals",
-      "status": "S-1/A filed 2026-04-15",
-      "description": "",
-      "investors": [],
-      "competitors": [],
-      "valLow": 0.1,
-      "valHigh": 0.5,
-      "prob": 55,
-      "window": "TBD"
-    },
-    {
-      "ticker": "BLTH",
-      "company": "AMERICAN BATTERY MATERIALS",
-      "exchange": "NYSE",
-      "sector": "—",
-      "status": "S-1/A filed 2026-04-14",
-      "description": "",
-      "investors": [],
       "competitors": [],
       "valLow": 0.1,
       "valHigh": 0.5,
