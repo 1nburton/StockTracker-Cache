@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-01T06:21:22.557Z",
+  "generatedAt": "2026-05-02T05:48:45.369Z",
   "graduated": [
     "BTGO",
     "SPCE",
@@ -18,6 +18,34 @@
     "XE"
   ],
   "pipeline": [
+    {
+      "ticker": "HAWK",
+      "company": "HawkEye 360",
+      "exchange": "NYSE",
+      "sector": "Technology Services",
+      "status": "S-1/A filed 2026-05-01",
+      "description": "HawkEye 360 is an American geospatial analytics company headquartered in Herndon, Virginia. The company specializes in the collection and analysis of radio frequency (RF) signal location data using a constellation of satellites.",
+      "investors": [],
+      "competitors": [],
+      "valLow": 0.1,
+      "valHigh": 0.5,
+      "prob": 55,
+      "window": "TBD"
+    },
+    {
+      "ticker": "AIAI",
+      "company": "AIAI Holdings",
+      "exchange": "NYSE",
+      "sector": "Technology Services",
+      "status": "S-1/A filed 2026-05-01",
+      "description": "",
+      "investors": [],
+      "competitors": [],
+      "valLow": 0.1,
+      "valHigh": 0.5,
+      "prob": 55,
+      "window": "TBD"
+    },
     {
       "ticker": "COAG",
       "company": "Hemab Therapeutics Holdings",
@@ -53,20 +81,6 @@
       "sector": "—",
       "status": "S-1/A filed 2026-04-30",
       "description": "Suja Varunee is an Indian former actress who has appeared in Tamil, Kannada, Telugu, and Malayalam language films. She is the winner of BB Jodigal .",
-      "investors": [],
-      "competitors": [],
-      "valLow": 0.1,
-      "valHigh": 0.5,
-      "prob": 55,
-      "window": "TBD"
-    },
-    {
-      "ticker": "AIAI",
-      "company": "AIAI Holdings",
-      "exchange": "NYSE",
-      "sector": "Technology Services",
-      "status": "S-1/A filed 2026-04-30",
-      "description": "",
       "investors": [],
       "competitors": [],
       "valLow": 0.1,
@@ -164,7 +178,7 @@
       "exchange": "NYSE",
       "sector": "—",
       "status": "S-1/A filed 2026-04-28",
-      "description": "The Stewards Society is an anonymous, all-male service fraternity, often considered a secret society, at Georgetown University. The name collectively refers to a handful of loosely organizationally tied groups that have existed since the First Stewards Society's founding. The society remained largely unknown until 1988, when revelations of its existence was revealed in the university newspaper, The Hoya, and became national news. The First Steward Society still continued to operate until splitti",
+      "description": "The Shop Stewards Movement was a movement which brought together shop stewards from across the United Kingdom during the First World War. It originated with the Clyde Workers Committee, the first shop stewards committee in Britain, which organised against the imprisonment of three of their members in 1915. Most of them were members of the Amalgamated Society of Engineers (ASE). In November 1916 the Sheffield Workers Committee was formed when members of the ASE there went on strike against the co",
       "investors": [],
       "competitors": [],
       "valLow": 0.1,
@@ -178,9 +192,9 @@
       "exchange": "NYSE",
       "sector": "—",
       "status": "S-1/A filed 2026-04-28",
-      "description": "USA Rare Earth, Inc. is an American mining and manufacturing company specializing in the extraction, processing, and production of rare-earth elements (REEs), particularly heavy rare-earth elements, and permanent magnets. Headquartered in Stillwater, Oklahoma, USA Rare Earth is working on developing a domestic supply chain for REE magnets, used in industries such as defense, electric vehicles, renewable energy, consumer electronics, and advanced manufacturing.",
+      "description": "The rare-earth elements (REE), also called rare-earth metals, or rare earths, are a set of 17 nearly indistinguishable lustrous silvery-white soft heavy metals. The 15 lanthanides, along with scandium, and yttrium, are usually included as rare earths. Compounds containing rare-earths have diverse applications in electrical and electronic components, lasers, glass, magnetic materials, and industrial processes. Rare-earths are to be distinguished from critical minerals, which are materials of stra",
       "investors": [
-        "private investment in public equity"
+        "space group"
       ],
       "competitors": [],
       "valLow": 0.1,
@@ -265,47 +279,13 @@
       "window": "TBD"
     },
     {
-      "ticker": "HAWK",
-      "company": "HawkEye 360",
-      "exchange": "NYSE",
-      "sector": "Technology Services",
-      "status": "S-1/A filed 2026-04-27",
-      "description": "HawkEye 360 is an American geospatial analytics company headquartered in Herndon, Virginia. The company specializes in the collection and analysis of radio frequency (RF) signal location data using a constellation of satellites.",
-      "investors": [],
-      "competitors": [],
-      "valLow": 0.1,
-      "valHigh": 0.5,
-      "prob": 55,
-      "window": "TBD"
-    },
-    {
       "ticker": "SBMT",
       "company": "SILVER BOW MINING",
       "exchange": "NYSE",
       "sector": "Mining",
       "status": "S-1/A filed 2026-04-24",
-      "description": "Silver Bow Creek is a 26-mile-long (42 km) headwater stream of the Clark Fork (river) originating within the city limits of Butte, Montana, from the confluence of Little Basin and Blacktail Creeks. A former northern tributary, Yankee Doodle Creek, no longer flows directly into Silver Bow Creek as it is now captured by the Berkeley Pit. Silver Bow Creek flows northwest and north through a high mountain valley, passing east of Anaconda, Montana, where it becomes the Clark Fork at the confluence wi",
-      "investors": [
-        "Superfund",
-        "Milltown Reservoir Superfund Site"
-      ],
-      "competitors": [],
-      "valLow": 0.1,
-      "valHigh": 0.5,
-      "prob": 55,
-      "window": "TBD"
-    },
-    {
-      "ticker": "VIDA",
-      "company": "VIDA Global",
-      "exchange": "NYSE",
-      "sector": "Software",
-      "status": "S-1/A filed 2026-04-17",
-      "description": "\"Viva la Vida\" is a song by British rock band Coldplay. It was written by all members of the band for their fourth album, Viva la Vida or Death and All His Friends (2008), on which the band explored new styles. The lyrics contain historical and Christian references and the track is built around a looping string section with a digitally processed piano, while other layers are gradually added.",
-      "investors": [
-        "Grammy Award for Best Pop Performance by a Duo or Group with Vocal",
-        "Category:Universal Music Group singles"
-      ],
+      "description": "Silver Bow County is a county in the U.S. state of Montana. As of the 2020 census, the population was 35,133. Its county seat is Butte. In 1977, the city and county governments consolidated to form the single entity of Butte-Silver Bow. Additionally, the town of Walkerville is a separate municipality from Butte and is within the county.",
+      "investors": [],
       "competitors": [],
       "valLow": 0.1,
       "valHigh": 0.5,
