@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-02T05:48:45.369Z",
+  "generatedAt": "2026-05-03T06:07:55.505Z",
   "graduated": [
     "BTGO",
     "SPCE",
@@ -13,8 +13,6 @@
     "CHYM",
     "CRCL",
     "CALM",
-    "BLSH",
-    "PS",
     "XE"
   ],
   "pipeline": [
@@ -284,8 +282,11 @@
       "exchange": "NYSE",
       "sector": "Mining",
       "status": "S-1/A filed 2026-04-24",
-      "description": "Silver Bow County is a county in the U.S. state of Montana. As of the 2020 census, the population was 35,133. Its county seat is Butte. In 1977, the city and county governments consolidated to form the single entity of Butte-Silver Bow. Additionally, the town of Walkerville is a separate municipality from Butte and is within the county.",
-      "investors": [],
+      "description": "Silver Bow Creek is a 26-mile-long (42 km) headwater stream of the Clark Fork (river) originating within the city limits of Butte, Montana, from the confluence of Little Basin and Blacktail Creeks. A former northern tributary, Yankee Doodle Creek, no longer flows directly into Silver Bow Creek as it is now captured by the Berkeley Pit. Silver Bow Creek flows northwest and north through a high mountain valley, passing east of Anaconda, Montana, where it becomes the Clark Fork at the confluence wi",
+      "investors": [
+        "Superfund",
+        "Milltown Reservoir Superfund Site"
+      ],
       "competitors": [],
       "valLow": 0.1,
       "valHigh": 0.5,
