@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-04T06:12:50.313Z",
+  "generatedAt": "2026-05-05T17:21:45.301Z",
   "graduated": [
     "BTGO",
     "SPCE",
@@ -16,6 +16,112 @@
     "XE"
   ],
   "pipeline": [
+    {
+      "ticker": "LFTO",
+      "company": "Liftoff Mobile",
+      "exchange": "NYSE",
+      "sector": "Technology Services",
+      "status": "S-1/A filed 2026-05-04",
+      "description": "",
+      "investors": [],
+      "competitors": [],
+      "valLow": 0.1,
+      "valHigh": 0.5,
+      "prob": 55,
+      "window": "TBD"
+    },
+    {
+      "ticker": "FRVO",
+      "company": "Fervo Energy Co",
+      "exchange": "NYSE",
+      "sector": "Utilities",
+      "status": "S-1/A filed 2026-05-04",
+      "description": "Fervo Energy is a geothermal company based in Houston, Texas, that generates electricity through enhanced geothermal systems (EGS). Fervo Energy was co-founded in 2017 by CEO Tim Latimer, a mechanical engineer who worked as a drilling engineer at BHP until 2015, and CTO Jack Norbeck.",
+      "investors": [
+        "B Capital"
+      ],
+      "competitors": [],
+      "valLow": 0.1,
+      "valHigh": 0.5,
+      "prob": 55,
+      "window": "TBD"
+    },
+    {
+      "ticker": "MOBI",
+      "company": "Mobia Medical",
+      "exchange": "NYSE",
+      "sector": "—",
+      "status": "S-1/A filed 2026-05-04",
+      "description": "",
+      "investors": [],
+      "competitors": [],
+      "valLow": 0.1,
+      "valHigh": 0.5,
+      "prob": 55,
+      "window": "TBD"
+    },
+    {
+      "ticker": "ODTX",
+      "company": "Odyssey Therapeutics",
+      "exchange": "NYSE",
+      "sector": "Pharmaceuticals",
+      "status": "S-1/A filed 2026-05-04",
+      "description": "",
+      "investors": [],
+      "competitors": [],
+      "valLow": 0.1,
+      "valHigh": 0.5,
+      "prob": 55,
+      "window": "TBD"
+    },
+    {
+      "ticker": "AMSS",
+      "company": "AMASS BRANDS",
+      "exchange": "NYSE",
+      "sector": "—",
+      "status": "S-1/A filed 2026-05-04",
+      "description": "",
+      "investors": [],
+      "competitors": [],
+      "valLow": 0.1,
+      "valHigh": 0.5,
+      "prob": 55,
+      "window": "TBD"
+    },
+    {
+      "ticker": "EROK",
+      "company": "EagleRock Land",
+      "exchange": "NYSE",
+      "sector": "—",
+      "status": "S-1/A filed 2026-05-04",
+      "description": "",
+      "investors": [],
+      "competitors": [],
+      "valLow": 0.1,
+      "valHigh": 0.5,
+      "prob": 55,
+      "window": "TBD"
+    },
+    {
+      "ticker": "GMRS",
+      "company": "GMR Solutions",
+      "exchange": "NYSE",
+      "sector": "—",
+      "status": "S-1/A filed 2026-05-04",
+      "description": "GMR Group is an Indian multinational conglomerate headquartered in New Delhi. The group was founded in 1978 by Grandhi Mallikarjuna Rao and comprises several companies including GMR Infrastructure, GMR Energy, GMR Airports, and GMR Enterprises. Employing the public-private partnership model, the Group has implemented several infrastructure projects in India. The Group also has a global presence with infrastructure operating assets and projects in several countries including Philippines and Greec",
+      "investors": [
+        "public-private partnership",
+        "Delhi Capitals",
+        "JSW Group",
+        "Dubai Capitals",
+        "Category:GMR Group"
+      ],
+      "competitors": [],
+      "valLow": 0.1,
+      "valHigh": 0.5,
+      "prob": 55,
+      "window": "TBD"
+    },
     {
       "ticker": "HAWK",
       "company": "HawkEye 360",
@@ -78,7 +184,7 @@
       "exchange": "NYSE",
       "sector": "—",
       "status": "S-1/A filed 2026-04-30",
-      "description": "Suja Varunee is an Indian former actress who has appeared in Tamil, Kannada, Telugu, and Malayalam language films. She is the winner of BB Jodigal .",
+      "description": "Suja Juice is an organic, non-GMO, cold-pressed juice company based in San Diego, California. Suja produces cold-pressed juices, waters and drinking vinegars. It is the largest independent producer of cold-pressed juice sold in the United States.",
       "investors": [],
       "competitors": [],
       "valLow": 0.1,
@@ -105,20 +211,6 @@
       "company": "Advasa Holdings",
       "exchange": "NYSE",
       "sector": "Software",
-      "status": "S-1/A filed 2026-04-29",
-      "description": "",
-      "investors": [],
-      "competitors": [],
-      "valLow": 0.1,
-      "valHigh": 0.5,
-      "prob": 55,
-      "window": "TBD"
-    },
-    {
-      "ticker": "AVLN",
-      "company": "Avalyn Pharma",
-      "exchange": "NYSE",
-      "sector": "Pharmaceuticals",
       "status": "S-1/A filed 2026-04-29",
       "description": "",
       "investors": [],
@@ -215,26 +307,6 @@
       "window": "TBD"
     },
     {
-      "ticker": "GMRS",
-      "company": "GMR Solutions",
-      "exchange": "NYSE",
-      "sector": "—",
-      "status": "S-1/A filed 2026-04-28",
-      "description": "GMR Group is an Indian multinational conglomerate headquartered in New Delhi. The group was founded in 1978 by Grandhi Mallikarjuna Rao and comprises several companies including GMR Infrastructure, GMR Energy, GMR Airports, and GMR Enterprises. Employing the public-private partnership model, the Group has implemented several infrastructure projects in India. The Group also has a global presence with infrastructure operating assets and projects in several countries including Philippines and Greec",
-      "investors": [
-        "public-private partnership",
-        "Delhi Capitals",
-        "JSW Group",
-        "Dubai Capitals",
-        "Category:GMR Group"
-      ],
-      "competitors": [],
-      "valLow": 0.1,
-      "valHigh": 0.5,
-      "prob": 55,
-      "window": "TBD"
-    },
-    {
       "ticker": "DUKR",
       "company": "DUKE Robotics",
       "exchange": "NYSE",
@@ -253,20 +325,6 @@
       "company": "Seaport Therapeutics",
       "exchange": "NYSE",
       "sector": "Pharmaceuticals",
-      "status": "S-1/A filed 2026-04-27",
-      "description": "",
-      "investors": [],
-      "competitors": [],
-      "valLow": 0.1,
-      "valHigh": 0.5,
-      "prob": 55,
-      "window": "TBD"
-    },
-    {
-      "ticker": "MOBI",
-      "company": "Mobia Medical",
-      "exchange": "NYSE",
-      "sector": "—",
       "status": "S-1/A filed 2026-04-27",
       "description": "",
       "investors": [],
