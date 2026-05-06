@@ -1,19 +1,10 @@
 {
-  "generatedAt": "2026-05-06T13:48:47.476Z",
+  "generatedAt": "2026-05-06T13:49:24.301Z",
   "graduated": [
     "BTGO",
     "SPCE",
     "FPS",
-    "STRV",
-    "ANDR",
-    "BOLT",
-    "ANTH",
-    "COHR",
-    "KLAR",
-    "CHYM",
-    "CRCL",
-    "CALM",
-    "XE"
+    "STRV"
   ],
   "pipeline": [
     {
