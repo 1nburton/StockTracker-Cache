@@ -1,10 +1,19 @@
 {
-  "generatedAt": "2026-05-06T13:49:24.301Z",
+  "generatedAt": "2026-05-07T06:09:52.700Z",
   "graduated": [
     "BTGO",
     "SPCE",
     "FPS",
-    "STRV"
+    "STRV",
+    "ANDR",
+    "BOLT",
+    "ANTH",
+    "COHR",
+    "KLAR",
+    "CHYM",
+    "CRCL",
+    "CALM",
+    "XE"
   ],
   "pipeline": [
     {
@@ -142,20 +151,6 @@
       "window": "TBD"
     },
     {
-      "ticker": "COAG",
-      "company": "Hemab Therapeutics Holdings",
-      "exchange": "NYSE",
-      "sector": "Pharmaceuticals",
-      "status": "S-1/A filed 2026-04-30",
-      "description": "",
-      "investors": [],
-      "competitors": [],
-      "valLow": 0.1,
-      "valHigh": 0.5,
-      "prob": 55,
-      "window": "TBD"
-    },
-    {
       "ticker": "HLYK",
       "company": "HealthLynked",
       "exchange": "NYSE",
@@ -175,7 +170,7 @@
       "exchange": "NYSE",
       "sector": "—",
       "status": "S-1/A filed 2026-04-30",
-      "description": "Suja Juice is an organic, non-GMO, cold-pressed juice company based in San Diego, California. Suja produces cold-pressed juices, waters and drinking vinegars. It is the largest independent producer of cold-pressed juice sold in the United States.",
+      "description": "Suja Varunee is an Indian former actress who has appeared in Tamil, Kannada, Telugu, and Malayalam language films. She is the winner of BB Jodigal .",
       "investors": [],
       "competitors": [],
       "valLow": 0.1,
@@ -302,20 +297,6 @@
       "company": "DUKE Robotics",
       "exchange": "NYSE",
       "sector": "—",
-      "status": "S-1/A filed 2026-04-27",
-      "description": "",
-      "investors": [],
-      "competitors": [],
-      "valLow": 0.1,
-      "valHigh": 0.5,
-      "prob": 55,
-      "window": "TBD"
-    },
-    {
-      "ticker": "SPTX",
-      "company": "Seaport Therapeutics",
-      "exchange": "NYSE",
-      "sector": "Pharmaceuticals",
       "status": "S-1/A filed 2026-04-27",
       "description": "",
       "investors": [],
