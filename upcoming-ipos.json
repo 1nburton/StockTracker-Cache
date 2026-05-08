@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-07T06:09:52.700Z",
+  "generatedAt": "2026-05-08T05:30:29.451Z",
   "graduated": [
     "BTGO",
     "SPCE",
@@ -16,6 +16,20 @@
     "XE"
   ],
   "pipeline": [
+    {
+      "ticker": "VRHI",
+      "company": "Veri MedTech Holdings",
+      "exchange": "NYSE",
+      "sector": "Technology Services",
+      "status": "S-1/A filed 2026-05-07",
+      "description": "",
+      "investors": [],
+      "competitors": [],
+      "valLow": 0.1,
+      "valHigh": 0.5,
+      "prob": 55,
+      "window": "TBD"
+    },
     {
       "ticker": "LFTO",
       "company": "Liftoff Mobile",
@@ -170,7 +184,7 @@
       "exchange": "NYSE",
       "sector": "—",
       "status": "S-1/A filed 2026-04-30",
-      "description": "Suja Varunee is an Indian former actress who has appeared in Tamil, Kannada, Telugu, and Malayalam language films. She is the winner of BB Jodigal .",
+      "description": "Suja Juice is an organic, non-GMO, cold-pressed juice company based in San Diego, California. Suja produces cold-pressed juices, waters and drinking vinegars. It is the largest independent producer of cold-pressed juice sold in the United States.",
       "investors": [],
       "competitors": [],
       "valLow": 0.1,
@@ -254,7 +268,7 @@
       "exchange": "NYSE",
       "sector": "—",
       "status": "S-1/A filed 2026-04-28",
-      "description": "The Shop Stewards Movement was a movement that brought together shop stewards from across the United Kingdom during the First World War. It originated with the Clyde Workers Committee, the first shop stewards committee in Britain, which campaigned against the imprisonment of three of their members in 1915. Most of the committee members belonged to the Amalgamated Society of Engineers (ASE). In November 1916 the Sheffield Workers' Committee was formed when ASE members there went on strike against",
+      "description": "The Stewards Society is an anonymous, all-male service fraternity, often considered a secret society, at Georgetown University. The name collectively refers to a handful of loosely organizationally tied groups that have existed since the First Stewards Society's founding. The society remained largely unknown until 1988, when revelations of its existence was revealed in the university newspaper, The Hoya, and became national news. The First Steward Society still continued to operate until splitti",
       "investors": [],
       "competitors": [],
       "valLow": 0.1,
@@ -300,23 +314,6 @@
       "status": "S-1/A filed 2026-04-27",
       "description": "",
       "investors": [],
-      "competitors": [],
-      "valLow": 0.1,
-      "valHigh": 0.5,
-      "prob": 55,
-      "window": "TBD"
-    },
-    {
-      "ticker": "SBMT",
-      "company": "SILVER BOW MINING",
-      "exchange": "NYSE",
-      "sector": "Mining",
-      "status": "S-1/A filed 2026-04-24",
-      "description": "Silver Bow Creek is a 26-mile-long (42 km) headwater stream of the Clark Fork (river) originating within the city limits of Butte, Montana, from the confluence of Little Basin and Blacktail Creeks. A former northern tributary, Yankee Doodle Creek, no longer flows directly into Silver Bow Creek as it is now captured by the Berkeley Pit. Silver Bow Creek flows northwest and north through a high mountain valley, passing east of Anaconda, Montana, where it becomes the Clark Fork at the confluence wi",
-      "investors": [
-        "Superfund",
-        "Milltown Reservoir Superfund Site"
-      ],
       "competitors": [],
       "valLow": 0.1,
       "valHigh": 0.5,
