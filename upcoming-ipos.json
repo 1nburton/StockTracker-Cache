@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-08T05:30:29.451Z",
+  "generatedAt": "2026-05-09T05:59:15.518Z",
   "graduated": [
     "BTGO",
     "SPCE",
@@ -16,6 +16,56 @@
     "XE"
   ],
   "pipeline": [
+    {
+      "ticker": "GMRS",
+      "company": "GMR Solutions",
+      "exchange": "NYSE",
+      "sector": "—",
+      "status": "S-1/A filed 2026-05-08",
+      "description": "GMR Group is an Indian multinational conglomerate headquartered in New Delhi. The group was founded in 1978 by Grandhi Mallikarjuna Rao and comprises several companies including GMR Infrastructure, GMR Energy, GMR Airports, and GMR Enterprises. Employing the public-private partnership model, the Group has implemented several infrastructure projects in India. The Group also has a global presence with infrastructure operating assets and projects in several countries including Philippines and Greec",
+      "investors": [
+        "public-private partnership",
+        "Delhi Capitals",
+        "JSW Group",
+        "Dubai Capitals",
+        "Category:GMR Group"
+      ],
+      "competitors": [],
+      "valLow": 0.1,
+      "valHigh": 0.5,
+      "prob": 55,
+      "window": "TBD"
+    },
+    {
+      "ticker": "FRVO",
+      "company": "Fervo Energy Co",
+      "exchange": "NYSE",
+      "sector": "Utilities",
+      "status": "S-1/A filed 2026-05-08",
+      "description": "Fervo Energy is a geothermal company based in Houston, Texas, that generates electricity through enhanced geothermal systems (EGS). Fervo Energy was co-founded in 2017 by CEO Tim Latimer, a mechanical engineer who worked as a drilling engineer at BHP until 2015, and CTO Jack Norbeck.",
+      "investors": [
+        "B Capital"
+      ],
+      "competitors": [],
+      "valLow": 0.1,
+      "valHigh": 0.5,
+      "prob": 55,
+      "window": "TBD"
+    },
+    {
+      "ticker": "RKAM",
+      "company": "ROKIT America",
+      "exchange": "NYSE",
+      "sector": "Pharmaceuticals",
+      "status": "S-1/A filed 2026-05-08",
+      "description": "",
+      "investors": [],
+      "competitors": [],
+      "valLow": 0.1,
+      "valHigh": 0.5,
+      "prob": 55,
+      "window": "TBD"
+    },
     {
       "ticker": "VRHI",
       "company": "Veri MedTech Holdings",
@@ -38,22 +88,6 @@
       "status": "S-1/A filed 2026-05-04",
       "description": "",
       "investors": [],
-      "competitors": [],
-      "valLow": 0.1,
-      "valHigh": 0.5,
-      "prob": 55,
-      "window": "TBD"
-    },
-    {
-      "ticker": "FRVO",
-      "company": "Fervo Energy Co",
-      "exchange": "NYSE",
-      "sector": "Utilities",
-      "status": "S-1/A filed 2026-05-04",
-      "description": "Fervo Energy is a geothermal company based in Houston, Texas, that generates electricity through enhanced geothermal systems (EGS). Fervo Energy was co-founded in 2017 by CEO Tim Latimer, a mechanical engineer who worked as a drilling engineer at BHP until 2015, and CTO Jack Norbeck.",
-      "investors": [
-        "B Capital"
-      ],
       "competitors": [],
       "valLow": 0.1,
       "valHigh": 0.5,
@@ -109,40 +143,6 @@
       "sector": "—",
       "status": "S-1/A filed 2026-05-04",
       "description": "",
-      "investors": [],
-      "competitors": [],
-      "valLow": 0.1,
-      "valHigh": 0.5,
-      "prob": 55,
-      "window": "TBD"
-    },
-    {
-      "ticker": "GMRS",
-      "company": "GMR Solutions",
-      "exchange": "NYSE",
-      "sector": "—",
-      "status": "S-1/A filed 2026-05-04",
-      "description": "GMR Group is an Indian multinational conglomerate headquartered in New Delhi. The group was founded in 1978 by Grandhi Mallikarjuna Rao and comprises several companies including GMR Infrastructure, GMR Energy, GMR Airports, and GMR Enterprises. Employing the public-private partnership model, the Group has implemented several infrastructure projects in India. The Group also has a global presence with infrastructure operating assets and projects in several countries including Philippines and Greec",
-      "investors": [
-        "public-private partnership",
-        "Delhi Capitals",
-        "JSW Group",
-        "Dubai Capitals",
-        "Category:GMR Group"
-      ],
-      "competitors": [],
-      "valLow": 0.1,
-      "valHigh": 0.5,
-      "prob": 55,
-      "window": "TBD"
-    },
-    {
-      "ticker": "HAWK",
-      "company": "HawkEye 360",
-      "exchange": "NYSE",
-      "sector": "Technology Services",
-      "status": "S-1/A filed 2026-05-01",
-      "description": "HawkEye 360 is an American geospatial analytics company headquartered in Herndon, Virginia. The company specializes in the collection and analysis of radio frequency (RF) signal location data using a constellation of satellites.",
       "investors": [],
       "competitors": [],
       "valLow": 0.1,
@@ -268,7 +268,7 @@
       "exchange": "NYSE",
       "sector": "—",
       "status": "S-1/A filed 2026-04-28",
-      "description": "The Stewards Society is an anonymous, all-male service fraternity, often considered a secret society, at Georgetown University. The name collectively refers to a handful of loosely organizationally tied groups that have existed since the First Stewards Society's founding. The society remained largely unknown until 1988, when revelations of its existence was revealed in the university newspaper, The Hoya, and became national news. The First Steward Society still continued to operate until splitti",
+      "description": "The Shop Stewards Movement was a movement that brought together shop stewards from across the United Kingdom during the First World War. It originated with the Clyde Workers Committee, the first shop stewards committee in Britain, which campaigned against the imprisonment of three of their members in 1915. Most of the committee members belonged to the Amalgamated Society of Engineers (ASE). In November 1916 the Sheffield Workers' Committee was formed when ASE members there went on strike against",
       "investors": [],
       "competitors": [],
       "valLow": 0.1,
