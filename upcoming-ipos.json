@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-11T06:38:44.245Z",
+  "generatedAt": "2026-05-13T06:26:59.257Z",
   "graduated": [
     "BTGO",
     "SPCE",
@@ -17,11 +17,27 @@
   ],
   "pipeline": [
     {
+      "ticker": "DUKR",
+      "company": "DUKE Robotics",
+      "exchange": "NYSE",
+      "sector": "—",
+      "status": "S-1/A filed 2026-05-12",
+      "description": "Clark Duke is an American actor. He is known for his roles in the films Sex Drive (2008), Kick-Ass (2010), Hot Tub Time Machine (2010), and The Croods (2013), as well as playing Clark Green in The Office, Dale Kettlewell in Greek, and Barry in Two and a Half Men. Duke is also known for his role in I'm Dying Up Here as Ron Shack.",
+      "investors": [
+        "Adventure Time"
+      ],
+      "competitors": [],
+      "valLow": 0.1,
+      "valHigh": 0.5,
+      "prob": 55,
+      "window": "TBD"
+    },
+    {
       "ticker": "GMRS",
       "company": "GMR Solutions",
       "exchange": "NYSE",
       "sector": "—",
-      "status": "S-1/A filed 2026-05-08",
+      "status": "S-1/A filed 2026-05-12",
       "description": "GMR Group is an Indian multinational conglomerate headquartered in New Delhi. The group was founded in 1978 by Grandhi Mallikarjuna Rao and comprises several companies including GMR Infrastructure, GMR Energy, GMR Airports, and GMR Enterprises. Employing the public-private partnership model, the Group has implemented several infrastructure projects in India. The Group also has a global presence with infrastructure operating assets and projects in several countries including Philippines and Greec",
       "investors": [
         "public-private partnership",
@@ -37,15 +53,61 @@
       "window": "TBD"
     },
     {
+      "ticker": "EROK",
+      "company": "EagleRock Land",
+      "exchange": "NYSE",
+      "sector": "—",
+      "status": "S-1/A filed 2026-05-11",
+      "description": "",
+      "investors": [],
+      "competitors": [],
+      "valLow": 0.1,
+      "valHigh": 0.5,
+      "prob": 55,
+      "window": "TBD"
+    },
+    {
+      "ticker": "LCLN",
+      "company": "Lincoln International",
+      "exchange": "NYSE",
+      "sector": "Investment Management",
+      "status": "S-1/A filed 2026-05-11",
+      "description": "Lincoln International LLC is a multinational independent investment bank and financial services company specializing in advisory services and financings on middle market transactions. The firm works with publicly traded and privately owned companies, financial sponsors, and lenders. The firm provides advisory services including mergers & acquisitions, capital advisory consisting of growth equity, debt and restructuring advisory, valuations and opinions, private funds advisory and joint ventures ",
+      "investors": [
+        "Joint Ventures & Partnering",
+        "independent investment bank",
+        "Category:Investment banks in the United States"
+      ],
+      "competitors": [],
+      "valLow": 0.1,
+      "valHigh": 0.5,
+      "prob": 55,
+      "window": "TBD"
+    },
+    {
       "ticker": "FRVO",
       "company": "Fervo Energy Co",
       "exchange": "NYSE",
       "sector": "Utilities",
-      "status": "S-1/A filed 2026-05-08",
+      "status": "S-1/A filed 2026-05-11",
       "description": "Fervo Energy is a geothermal company based in Houston, Texas, that generates electricity through enhanced geothermal systems (EGS). Fervo Energy was co-founded in 2017 by CEO Tim Latimer, a mechanical engineer who worked as a drilling engineer at BHP until 2015, and CTO Jack Norbeck.",
       "investors": [
         "B Capital"
       ],
+      "competitors": [],
+      "valLow": 0.1,
+      "valHigh": 0.5,
+      "prob": 55,
+      "window": "TBD"
+    },
+    {
+      "ticker": "COPR",
+      "company": "Idaho Copper",
+      "exchange": "NYSE",
+      "sector": "—",
+      "status": "S-1/A filed 2026-05-11",
+      "description": "Idaho Falls is the fourth most populous city in Idaho and the county seat of Bonneville County. It is the state's most populous city outside the Boise metropolitan area. As of the 2020 census, the population of Idaho Falls was 64,818. In the 2010 census, the population of Idaho Falls was 56,813, with a metro population of 133,265. As of the 2020 census, the Idaho Falls Metropolitan Statistical Area had a population of 154,855.",
+      "investors": [],
       "competitors": [],
       "valLow": 0.1,
       "valHigh": 0.5,
@@ -137,12 +199,12 @@
       "window": "TBD"
     },
     {
-      "ticker": "EROK",
-      "company": "EagleRock Land",
+      "ticker": "HAWK",
+      "company": "HawkEye 360",
       "exchange": "NYSE",
-      "sector": "—",
-      "status": "S-1/A filed 2026-05-04",
-      "description": "",
+      "sector": "Technology Services",
+      "status": "S-1/A filed 2026-05-01",
+      "description": "HawkEye 360 is an American geospatial analytics company headquartered in Herndon, Virginia. The company specializes in the collection and analysis of radio frequency (RF) signal location data using a constellation of satellites.",
       "investors": [],
       "competitors": [],
       "valLow": 0.1,
@@ -184,7 +246,7 @@
       "exchange": "NYSE",
       "sector": "—",
       "status": "S-1/A filed 2026-04-30",
-      "description": "Suja Varunee is an Indian former actress who has appeared in Tamil, Kannada, Telugu, and Malayalam language films. She is the winner of BB Jodigal .",
+      "description": "Suja Juice is an organic, non-GMO, cold-pressed juice company based in San Diego, California. Suja produces cold-pressed juices, waters and drinking vinegars. It is the largest independent producer of cold-pressed juice sold in the United States.",
       "investors": [],
       "competitors": [],
       "valLow": 0.1,
@@ -268,7 +330,7 @@
       "exchange": "NYSE",
       "sector": "—",
       "status": "S-1/A filed 2026-04-28",
-      "description": "The Shop Stewards Movement was a movement that brought together shop stewards from across the United Kingdom during the First World War. It originated with the Clyde Workers Committee, the first shop stewards committee in Britain, which campaigned against the imprisonment of three of their members in 1915. Most of the committee members belonged to the Amalgamated Society of Engineers (ASE). In November 1916 the Sheffield Workers' Committee was formed when ASE members there went on strike against",
+      "description": "The Stewards Society is an anonymous, all-male service fraternity, often considered a secret society, at Georgetown University. The name collectively refers to a handful of loosely organizationally tied groups that have existed since the First Stewards Society's founding. The society remained largely unknown until 1988, when revelations of its existence was revealed in the university newspaper, The Hoya, and became national news. The First Steward Society still continued to operate until splitti",
       "investors": [],
       "competitors": [],
       "valLow": 0.1,
@@ -298,20 +360,6 @@
       "exchange": "NYSE",
       "sector": "Business Services",
       "status": "S-1/A filed 2026-04-28",
-      "description": "",
-      "investors": [],
-      "competitors": [],
-      "valLow": 0.1,
-      "valHigh": 0.5,
-      "prob": 55,
-      "window": "TBD"
-    },
-    {
-      "ticker": "DUKR",
-      "company": "DUKE Robotics",
-      "exchange": "NYSE",
-      "sector": "—",
-      "status": "S-1/A filed 2026-04-27",
       "description": "",
       "investors": [],
       "competitors": [],
