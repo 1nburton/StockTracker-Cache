@@ -1,10 +1,11 @@
 {
-  "generatedAt": "2026-05-13T06:26:59.257Z",
+  "generatedAt": "2026-05-15T06:32:48.160Z",
   "graduated": [
     "BTGO",
     "SPCE",
     "FPS",
     "STRV",
+    "CBRS",
     "ANDR",
     "BOLT",
     "ANTH",
@@ -16,6 +17,38 @@
     "XE"
   ],
   "pipeline": [
+    {
+      "ticker": "LCLN",
+      "company": "Lincoln International",
+      "exchange": "NYSE",
+      "sector": "Investment Management",
+      "status": "S-1/A filed 2026-05-14",
+      "description": "Lincoln International LLC is a multinational independent investment bank and financial services company specializing in advisory services and financings on middle market transactions. The firm works with publicly traded and privately owned companies, financial sponsors, and lenders. The firm provides advisory services including mergers & acquisitions, capital advisory consisting of growth equity, debt and restructuring advisory, valuations and opinions, private funds advisory and joint ventures ",
+      "investors": [
+        "Joint Ventures & Partnering",
+        "independent investment bank",
+        "Category:Investment banks in the United States"
+      ],
+      "competitors": [],
+      "valLow": 0.1,
+      "valHigh": 0.5,
+      "prob": 55,
+      "window": "TBD"
+    },
+    {
+      "ticker": "CRGT",
+      "company": "Cortigent",
+      "exchange": "NYSE",
+      "sector": "—",
+      "status": "S-1/A filed 2026-05-13",
+      "description": "",
+      "investors": [],
+      "competitors": [],
+      "valLow": 0.1,
+      "valHigh": 0.5,
+      "prob": 55,
+      "window": "TBD"
+    },
     {
       "ticker": "DUKR",
       "company": "DUKE Robotics",
@@ -60,24 +93,6 @@
       "status": "S-1/A filed 2026-05-11",
       "description": "",
       "investors": [],
-      "competitors": [],
-      "valLow": 0.1,
-      "valHigh": 0.5,
-      "prob": 55,
-      "window": "TBD"
-    },
-    {
-      "ticker": "LCLN",
-      "company": "Lincoln International",
-      "exchange": "NYSE",
-      "sector": "Investment Management",
-      "status": "S-1/A filed 2026-05-11",
-      "description": "Lincoln International LLC is a multinational independent investment bank and financial services company specializing in advisory services and financings on middle market transactions. The firm works with publicly traded and privately owned companies, financial sponsors, and lenders. The firm provides advisory services including mergers & acquisitions, capital advisory consisting of growth equity, debt and restructuring advisory, valuations and opinions, private funds advisory and joint ventures ",
-      "investors": [
-        "Joint Ventures & Partnering",
-        "independent investment bank",
-        "Category:Investment banks in the United States"
-      ],
       "competitors": [],
       "valLow": 0.1,
       "valHigh": 0.5,
@@ -330,24 +345,8 @@
       "exchange": "NYSE",
       "sector": "—",
       "status": "S-1/A filed 2026-04-28",
-      "description": "The Stewards Society is an anonymous, all-male service fraternity, often considered a secret society, at Georgetown University. The name collectively refers to a handful of loosely organizationally tied groups that have existed since the First Stewards Society's founding. The society remained largely unknown until 1988, when revelations of its existence was revealed in the university newspaper, The Hoya, and became national news. The First Steward Society still continued to operate until splitti",
+      "description": "The Shop Stewards Movement was a movement that brought together shop stewards from across the United Kingdom during the First World War. It originated with the Clyde Workers Committee, the first shop stewards committee in Britain, which campaigned against the imprisonment of three of their members in 1915. Most of the committee members belonged to the Amalgamated Society of Engineers (ASE). In November 1916 the Sheffield Workers' Committee was formed when ASE members there went on strike against",
       "investors": [],
-      "competitors": [],
-      "valLow": 0.1,
-      "valHigh": 0.5,
-      "prob": 55,
-      "window": "TBD"
-    },
-    {
-      "ticker": "REA",
-      "company": "Rare Earths Americas",
-      "exchange": "NYSE",
-      "sector": "—",
-      "status": "S-1/A filed 2026-04-28",
-      "description": "The rare-earth elements (REE), also called rare-earth metals, or rare earths, are a set of 17 nearly indistinguishable lustrous silvery-white soft heavy metals. The 15 lanthanides, along with scandium, and yttrium, are usually included as rare earths. Compounds containing rare-earths have diverse applications in electrical and electronic components, lasers, glass, magnetic materials, and industrial processes. Rare-earths are to be distinguished from critical minerals, which are materials of stra",
-      "investors": [
-        "space group"
-      ],
       "competitors": [],
       "valLow": 0.1,
       "valHigh": 0.5,
