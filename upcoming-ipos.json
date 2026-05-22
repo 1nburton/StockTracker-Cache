@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-21T06:48:50.972Z",
+  "generatedAt": "2026-05-22T06:46:25.470Z",
   "graduated": [
     "BTGO",
     "SPCE",
@@ -19,6 +19,20 @@
   ],
   "pipeline": [
     {
+      "ticker": "WHK",
+      "company": "WhiteHawk Income",
+      "exchange": "NYSE",
+      "sector": "Oil & Gas",
+      "status": "S-1/A filed 2026-05-21",
+      "description": "",
+      "investors": [],
+      "competitors": [],
+      "valLow": 0.1,
+      "valHigh": 0.5,
+      "prob": 55,
+      "window": "TBD"
+    },
+    {
       "ticker": "VXRT",
       "company": "Vaxart",
       "exchange": "NYSE",
@@ -27,24 +41,6 @@
       "description": "Vaxart, Inc. is an American biotechnology company focused on the discovery, development, and commercialization of oral recombinant vaccines administered using temperature-stable tablets that can be stored and shipped without refrigeration, eliminating the need for needle injection. Its development programs for oral vaccine delivery include prophylactic, enteric-coated tablet vaccines for inhibiting norovirus, seasonal influenza, respiratory syncytial virus, and human papillomavirus. It was found",
       "investors": [
         "hedge fund"
-      ],
-      "competitors": [],
-      "valLow": 0.1,
-      "valHigh": 0.5,
-      "prob": 55,
-      "window": "TBD"
-    },
-    {
-      "ticker": "LCLN",
-      "company": "Lincoln International",
-      "exchange": "NYSE",
-      "sector": "Investment Management",
-      "status": "S-1/A filed 2026-05-14",
-      "description": "Lincoln International LLC is a multinational independent investment bank and financial services company specializing in advisory services and financings on middle market transactions. The firm works with publicly traded and privately owned companies, financial sponsors, and lenders. The firm provides advisory services including mergers & acquisitions, capital advisory consisting of growth equity, debt and restructuring advisory, valuations and opinions, private funds advisory and joint ventures ",
-      "investors": [
-        "Joint Ventures & Partnering",
-        "independent investment bank",
-        "Category:Investment banks in the United States"
       ],
       "competitors": [],
       "valLow": 0.1,
@@ -129,20 +125,6 @@
       "sector": "—",
       "status": "S-1/A filed 2026-05-04",
       "description": "",
-      "investors": [],
-      "competitors": [],
-      "valLow": 0.1,
-      "valHigh": 0.5,
-      "prob": 55,
-      "window": "TBD"
-    },
-    {
-      "ticker": "HAWK",
-      "company": "HawkEye 360",
-      "exchange": "NYSE",
-      "sector": "Technology Services",
-      "status": "S-1/A filed 2026-05-01",
-      "description": "HawkEye 360 is an American geospatial analytics company headquartered in Herndon, Virginia. The company specializes in the collection and analysis of radio frequency (RF) signal location data using a constellation of satellites.",
       "investors": [],
       "competitors": [],
       "valLow": 0.1,
