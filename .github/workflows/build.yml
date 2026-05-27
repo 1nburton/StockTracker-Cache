@@ -29,4 +29,5 @@ jobs:
           git config user.name "github-actions[bot]"
           git add fundamentals.json
           git diff --staged --quiet && echo "No changes" || git commit -m "Update fundamentals cache $(date -u +%Y-%m-%d)"
+          git pull --rebase origin main
           git push
