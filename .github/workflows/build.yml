@@ -20,7 +20,7 @@ jobs:
 
       - name: Build fundamentals cache
         env:
-          FINNHUB_KEY: ${{ secrets.FINNHUB_KEY }}
+          FINNHUB_KEY: ${{ secrets.FINNHUB_KEY_1 }}
         run: node scripts/build-cache.js
 
       - name: Commit and push
