@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-27T16:48:42.522Z",
+  "generatedAt": "2026-05-28T06:21:05.853Z",
   "graduated": [
     "BTGO",
     "SPCE",
@@ -12,9 +12,39 @@
     "COHR",
     "KLAR",
     "CHYM",
-    "CRCL"
+    "CRCL",
+    "EXYN",
+    "XE"
   ],
   "pipeline": [
+    {
+      "ticker": "FBDT",
+      "company": "First Breach",
+      "exchange": "NYSE",
+      "sector": "—",
+      "status": "S-1/A filed 2026-05-27",
+      "description": "",
+      "investors": [],
+      "competitors": [],
+      "valLow": 0.1,
+      "valHigh": 0.5,
+      "prob": 55,
+      "window": "TBD"
+    },
+    {
+      "ticker": "EAXR",
+      "company": "Ealixir",
+      "exchange": "NYSE",
+      "sector": "Software",
+      "status": "S-1/A filed 2026-05-27",
+      "description": "",
+      "investors": [],
+      "competitors": [],
+      "valLow": 0.1,
+      "valHigh": 0.5,
+      "prob": 55,
+      "window": "TBD"
+    },
     {
       "ticker": "AADX",
       "company": "Applied Aerospace & Defense",
