@@ -1,0 +1,107 @@
+{
+  "ts": 1780173376564,
+  "vix": 0,
+  "wtiCrude": 0,
+  "tenYrYield": null,
+  "sectors": [
+    {
+      "etf": "XLK",
+      "name": "Technology",
+      "currentWeight": 31.5,
+      "ytdReturn": 29.78,
+      "ytdZScore": 1.9,
+      "heat": "hot",
+      "fhSector": "Technology"
+    },
+    {
+      "etf": "XLF",
+      "name": "Financials",
+      "currentWeight": 13.2,
+      "ytdReturn": -6.39,
+      "ytdZScore": -1.39,
+      "heat": "cool",
+      "fhSector": "Financial Services"
+    },
+    {
+      "etf": "XLV",
+      "name": "Health Care",
+      "currentWeight": 11.8,
+      "ytdReturn": -2.53,
+      "ytdZScore": -1.04,
+      "heat": "cool",
+      "fhSector": "Healthcare"
+    },
+    {
+      "etf": "XLY",
+      "name": "Consumer Discretionary",
+      "currentWeight": 10.1,
+      "ytdReturn": 2.22,
+      "ytdZScore": -0.61,
+      "heat": "cool",
+      "fhSector": "Consumer Cyclical"
+    },
+    {
+      "etf": "XLC",
+      "name": "Communication Services",
+      "currentWeight": 8.9,
+      "ytdReturn": -0.89,
+      "ytdZScore": -0.89,
+      "heat": "cool",
+      "fhSector": "Communication Services"
+    },
+    {
+      "etf": "XLI",
+      "name": "Industrials",
+      "currentWeight": 8.2,
+      "ytdReturn": 12.04,
+      "ytdZScore": 0.28,
+      "heat": "neutral",
+      "fhSector": "Industrials"
+    },
+    {
+      "etf": "XLP",
+      "name": "Consumer Staples",
+      "currentWeight": 5.8,
+      "ytdReturn": 8.69,
+      "ytdZScore": -0.02,
+      "heat": "neutral",
+      "fhSector": "Consumer Defensive"
+    },
+    {
+      "etf": "XLE",
+      "name": "Energy",
+      "currentWeight": 3.9,
+      "ytdReturn": 27.38,
+      "ytdZScore": 1.68,
+      "heat": "hot",
+      "fhSector": "Energy"
+    },
+    {
+      "etf": "XLB",
+      "name": "Materials",
+      "currentWeight": 2.4,
+      "ytdReturn": 13.25,
+      "ytdZScore": 0.39,
+      "heat": "warm",
+      "fhSector": "Basic Materials"
+    },
+    {
+      "etf": "XLRE",
+      "name": "Real Estate",
+      "currentWeight": 2.2,
+      "ytdReturn": 10.06,
+      "ytdZScore": 0.1,
+      "heat": "neutral",
+      "fhSector": "Real Estate"
+    },
+    {
+      "etf": "XLU",
+      "name": "Utilities",
+      "currentWeight": 2,
+      "ytdReturn": 4.54,
+      "ytdZScore": -0.4,
+      "heat": "neutral",
+      "fhSector": "Utilities"
+    }
+  ]
+}
