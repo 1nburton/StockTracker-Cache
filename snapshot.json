@@ -1,107 +1,281 @@
 {
-  "ts": 1780173376564,
-  "vix": 0,
-  "wtiCrude": 0,
-  "tenYrYield": null,
+  "ts": 1780174684716,
+  "asOf": "2026-05-30T20:58:04.716Z",
+  "source": "partial",
   "sectors": [
     {
-      "etf": "XLK",
       "name": "Technology",
+      "etf": "XLK",
       "currentWeight": 31.5,
-      "ytdReturn": 29.78,
-      "ytdZScore": 1.9,
-      "heat": "hot",
-      "fhSector": "Technology"
+      "projectedWeight": 31.5,
+      "weightShift": 0,
+      "ytdReturn": 0,
+      "ytdZScore": 0,
+      "heat": "neutral",
+      "projectedHeat": "neutral",
+      "thesis": "AI investment cycle mid-innings; next leg requires earnings acceleration, not just sentiment.",
+      "topHoldings": [
+        "AAPL",
+        "MSFT",
+        "NVDA",
+        "AVGO",
+        "ORCL"
+      ],
+      "lastPrice": 0
     },
     {
-      "etf": "XLF",
       "name": "Financials",
+      "etf": "XLF",
       "currentWeight": 13.2,
-      "ytdReturn": -6.39,
-      "ytdZScore": -1.39,
-      "heat": "cool",
-      "fhSector": "Financial Services"
+      "projectedWeight": 13.2,
+      "weightShift": 0,
+      "ytdReturn": 0,
+      "ytdZScore": 0,
+      "heat": "neutral",
+      "projectedHeat": "neutral",
+      "thesis": "Balanced outlook; M&A and capital-markets recovery offset by credit normalisation.",
+      "topHoldings": [
+        "BRK.B",
+        "JPM",
+        "V",
+        "MA",
+        "BAC"
+      ],
+      "lastPrice": 0
     },
     {
-      "etf": "XLV",
       "name": "Health Care",
+      "etf": "XLV",
       "currentWeight": 11.8,
-      "ytdReturn": -2.53,
-      "ytdZScore": -1.04,
-      "heat": "cool",
-      "fhSector": "Healthcare"
+      "projectedWeight": 11.8,
+      "weightShift": 0,
+      "ytdReturn": 0,
+      "ytdZScore": 0,
+      "heat": "neutral",
+      "projectedHeat": "neutral",
+      "thesis": "Policy uncertainty (drug pricing) balanced against aging demographics tailwind.",
+      "topHoldings": [
+        "LLY",
+        "UNH",
+        "JNJ",
+        "ABBV",
+        "MRK"
+      ],
+      "lastPrice": 0
     },
     {
-      "etf": "XLY",
       "name": "Consumer Discretionary",
+      "etf": "XLY",
       "currentWeight": 10.1,
-      "ytdReturn": 2.22,
-      "ytdZScore": -0.61,
-      "heat": "cool",
-      "fhSector": "Consumer Cyclical"
+      "projectedWeight": 10.1,
+      "weightShift": 0,
+      "ytdReturn": 0,
+      "ytdZScore": 0,
+      "heat": "neutral",
+      "projectedHeat": "neutral",
+      "thesis": "Labour market softening is a swing factor; sector highly sensitive to consumer confidence.",
+      "topHoldings": [
+        "AMZN",
+        "TSLA",
+        "HD",
+        "MCD",
+        "NKE"
+      ],
+      "lastPrice": 0
     },
     {
-      "etf": "XLC",
       "name": "Communication Services",
+      "etf": "XLC",
       "currentWeight": 8.9,
-      "ytdReturn": -0.89,
-      "ytdZScore": -0.89,
-      "heat": "cool",
-      "fhSector": "Communication Services"
+      "projectedWeight": 8.9,
+      "weightShift": 0,
+      "ytdReturn": 0,
+      "ytdZScore": 0,
+      "heat": "neutral",
+      "projectedHeat": "neutral",
+      "thesis": "Steady compounder; upside gated by regulatory and antitrust headline risk.",
+      "topHoldings": [
+        "META",
+        "GOOGL",
+        "GOOG",
+        "NFLX",
+        "T"
+      ],
+      "lastPrice": 0
     },
     {
-      "etf": "XLI",
       "name": "Industrials",
+      "etf": "XLI",
       "currentWeight": 8.2,
-      "ytdReturn": 12.04,
-      "ytdZScore": 0.28,
+      "projectedWeight": 8.2,
+      "weightShift": 0,
+      "ytdReturn": 0,
+      "ytdZScore": 0,
       "heat": "neutral",
-      "fhSector": "Industrials"
+      "projectedHeat": "neutral",
+      "thesis": "Defence and aerospace sub-sector strong; commercial cycle peaking.",
+      "topHoldings": [
+        "GE",
+        "CAT",
+        "RTX",
+        "HON",
+        "UNP"
+      ],
+      "lastPrice": 0
     },
     {
-      "etf": "XLP",
       "name": "Consumer Staples",
+      "etf": "XLP",
       "currentWeight": 5.8,
-      "ytdReturn": 8.69,
-      "ytdZScore": -0.02,
+      "projectedWeight": 5.8,
+      "weightShift": 0,
+      "ytdReturn": 0,
+      "ytdZScore": 0,
       "heat": "neutral",
-      "fhSector": "Consumer Defensive"
+      "projectedHeat": "neutral",
+      "thesis": "Valuation fair; sector acts as portfolio ballast rather than alpha source.",
+      "topHoldings": [
+        "PG",
+        "KO",
+        "PEP",
+        "COST",
+        "WMT"
+      ],
+      "lastPrice": 0
     },
     {
-      "etf": "XLE",
       "name": "Energy",
+      "etf": "XLE",
       "currentWeight": 3.9,
-      "ytdReturn": 27.38,
-      "ytdZScore": 1.68,
-      "heat": "hot",
-      "fhSector": "Energy"
+      "projectedWeight": 3.9,
+      "weightShift": 0,
+      "ytdReturn": 0,
+      "ytdZScore": 0,
+      "heat": "neutral",
+      "projectedHeat": "neutral",
+      "thesis": "Neutral supply/demand picture; positioning light after last quarter's sell-off.",
+      "topHoldings": [
+        "XOM",
+        "CVX",
+        "COP",
+        "EOG",
+        "SLB"
+      ],
+      "lastPrice": 0
     },
     {
-      "etf": "XLB",
       "name": "Materials",
+      "etf": "XLB",
       "currentWeight": 2.4,
-      "ytdReturn": 13.25,
-      "ytdZScore": 0.39,
-      "heat": "warm",
-      "fhSector": "Basic Materials"
+      "projectedWeight": 2.4,
+      "weightShift": 0,
+      "ytdReturn": 0,
+      "ytdZScore": 0,
+      "heat": "neutral",
+      "projectedHeat": "neutral",
+      "thesis": "Sector tracks global PMI cycle; watch China demand and USD trajectory.",
+      "topHoldings": [
+        "LIN",
+        "APD",
+        "SHW",
+        "FCX",
+        "NUE"
+      ],
+      "lastPrice": 0
     },
     {
-      "etf": "XLRE",
       "name": "Real Estate",
+      "etf": "XLRE",
       "currentWeight": 2.2,
-      "ytdReturn": 10.06,
-      "ytdZScore": 0.1,
+      "projectedWeight": 2.2,
+      "weightShift": 0,
+      "ytdReturn": 0,
+      "ytdZScore": 0,
       "heat": "neutral",
-      "fhSector": "Real Estate"
+      "projectedHeat": "neutral",
+      "thesis": "Waiting for rate clarity; long-duration earnings sensitivity caps near-term upside.",
+      "topHoldings": [
+        "PLD",
+        "AMT",
+        "EQIX",
+        "CCI",
+        "PSA"
+      ],
+      "lastPrice": 0
     },
     {
-      "etf": "XLU",
       "name": "Utilities",
+      "etf": "XLU",
       "currentWeight": 2,
-      "ytdReturn": 4.54,
-      "ytdZScore": -0.4,
+      "projectedWeight": 2,
+      "weightShift": 0,
+      "ytdReturn": 0,
+      "ytdZScore": 0,
       "heat": "neutral",
-      "fhSector": "Utilities"
+      "projectedHeat": "neutral",
+      "thesis": "Power demand tailwind emerging; rate path is the key variable.",
+      "topHoldings": [
+        "NEE",
+        "DUK",
+        "SO",
+        "D",
+        "AEP"
+      ],
+      "lastPrice": 0
     }
-  ]
+  ],
+  "macro": [
+    {
+      "label": "VIX",
+      "value": "0.0",
+      "raw": 0,
+      "trend": "calm",
+      "context": "Complacency — low hedge demand",
+      "drillPrompt": "VIX is at 0.0. How does this volatility level affect sector rotation strategy and defensive positioning?"
+    },
+    {
+      "label": "WTI CRUDE",
+      "value": "$0",
+      "raw": 0,
+      "sub": "/bbl",
+      "trend": "down",
+      "context": "Demand signal weak — watch XLE",
+      "drillPrompt": "WTI crude is at $0/bbl. How should sector positioning in Energy, Industrials, and Consumer Discretionary adjust?"
+    },
+    {
+      "label": "FED FUNDS",
+      "value": "4.25–4.50%",
+      "raw": 4.375,
+      "trend": "hold",
+      "context": "No cuts priced through mid-2026 — higher for longer",
+      "drillPrompt": "How does a Fed funds rate at 4.25–4.50% with no cuts priced through mid-2026 reshape sector positioning between rate-sensitive and quality-growth sectors?"
+    },
+    {
+      "label": "CPI YoY",
+      "value": "2.4%",
+      "raw": 2.4,
+      "trend": "down",
+      "context": "Disinflation on track — services stickier than goods",
+      "drillPrompt": "CPI at 2.4% year-over-year. How should disinflation affect positioning in Consumer Staples, Real Estate, and Utilities vs growth sectors?"
+    },
+    {
+      "label": "ISM MFG",
+      "value": "49.0",
+      "raw": 49,
+      "trend": "flat",
+      "sub": "PMI",
+      "context": "Manufacturing contraction — sub-50 for 3rd month",
+      "drillPrompt": "ISM Manufacturing PMI at 49.0, signaling contraction. Which sectors should rotate in or out given a softening industrial cycle?"
+    },
+    {
+      "label": "USD INDEX",
+      "value": "100.5",
+      "raw": 100.5,
+      "trend": "down",
+      "context": "Dollar weakening — tailwind for international revenue",
+      "drillPrompt": "Dollar index at 100.5 and weakening. How does USD direction affect sector rotation across Technology, Materials, Energy, and multinationals?"
+    }
+  ],
+  "marketState": "Mid-cycle · Balanced rotation · Selective opportunities",
+  "narrative": "The rotation picture shows no sectors running hot and technically extended, while no sectors sit at oversold extremes with mean-reversion potential. Complacency in options markets suggests the current regime favours trimming momentum and rotating into laggards with improving macro sensitivity. The 3–6 month projected weights reflect a broadening of market leadership away from concentrated growth exposures."
 }
