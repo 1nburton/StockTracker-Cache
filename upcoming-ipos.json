@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-01T20:54:42.092Z",
+  "generatedAt": "2026-06-02T04:12:59.966Z",
   "graduated": [
     "BTGO",
     "SPCE",
@@ -74,6 +74,20 @@
       "investors": [
         "allyl group"
       ],
+      "competitors": [],
+      "valLow": 0.1,
+      "valHigh": 0.5,
+      "prob": 55,
+      "window": "TBD"
+    },
+    {
+      "ticker": "ELOX",
+      "company": "Eloxx Pharmaceuticals",
+      "exchange": "NYSE",
+      "sector": "Pharmaceuticals",
+      "status": "S-1/A filed 2026-06-01",
+      "description": "",
+      "investors": [],
       "competitors": [],
       "valLow": 0.1,
       "valHigh": 0.5,
