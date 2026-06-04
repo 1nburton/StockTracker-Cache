@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-03T07:21:59.935Z",
+  "generatedAt": "2026-06-04T07:16:30.255Z",
   "graduated": [
     "BTGO",
     "FPS",
@@ -17,6 +17,40 @@
     "XE"
   ],
   "pipeline": [
+    {
+      "ticker": "SPCX",
+      "company": "SPACE EXPLORATION TECHNOLOGIES",
+      "exchange": "NYSE",
+      "sector": "—",
+      "status": "S-1/A filed 2026-06-03",
+      "description": "Space Exploration Technologies Corporation, doing business as SpaceX, is a private American spaceflight, telecommunications, and artificial intelligence company headquartered at the Starbase development site in Starbase, Texas. Since its founding in 2002, the company has made numerous advances in rocket propulsion, reusable launch vehicles, human spaceflight and satellite constellation technology. As of 2026, SpaceX conducts more orbital launches annually than any other launch provider, includin",
+      "investors": [
+        "Fidelity Investments",
+        "Nexstar Media Group",
+        "Valor Equity Partners"
+      ],
+      "competitors": [],
+      "valLow": 0.1,
+      "valHigh": 0.5,
+      "prob": 55,
+      "window": "TBD"
+    },
+    {
+      "ticker": "RLEA",
+      "company": "Rubber Leaf",
+      "exchange": "NYSE",
+      "sector": "—",
+      "status": "S-1/A filed 2026-06-03",
+      "description": "Rubber, also called India rubber, latex, Amazonian rubber, caucho, or caoutchouc, as initially produced, consists of polymers of the organic compound isoprene, with minor impurities of other organic compounds.",
+      "investors": [
+        "allyl group"
+      ],
+      "competitors": [],
+      "valLow": 0.1,
+      "valHigh": 0.5,
+      "prob": 55,
+      "window": "TBD"
+    },
     {
       "ticker": "FRBT",
       "company": "Forbright",
@@ -65,8 +99,10 @@
       "exchange": "NYSE",
       "sector": "Oil & Gas",
       "status": "S-1/A filed 2026-06-02",
-      "description": "",
-      "investors": [],
+      "description": "Whitehawk is a census-designated place in Plumas County, California, United States. The population was 144 at the 2020 census, up from 113 at the 2010 census.",
+      "investors": [
+        "same-sex partnerships"
+      ],
       "competitors": [],
       "valLow": 0.1,
       "valHigh": 0.5,
@@ -109,40 +145,6 @@
       "status": "S-1/A filed 2026-06-01",
       "description": "Quantinuum is a quantum computing company formed by the merger of Cambridge Quantum and Honeywell Quantum Solutions. The company's H-Series trapped-ion quantum computers set the highest quantum volume to date of 33,554,432 in September 2025. This architecture supports all-to-all qubit connectivity, allowing entangled states to be created between all qubits, and enables a high fidelity of quantum states.",
       "investors": [],
-      "competitors": [],
-      "valLow": 0.1,
-      "valHigh": 0.5,
-      "prob": 55,
-      "window": "TBD"
-    },
-    {
-      "ticker": "SPCX",
-      "company": "SPACE EXPLORATION TECHNOLOGIES",
-      "exchange": "NYSE",
-      "sector": "—",
-      "status": "S-1/A filed 2026-06-01",
-      "description": "Space Exploration Technologies Corporation, doing business as SpaceX, is a private American spaceflight, telecommunications, and artificial intelligence company headquartered at the Starbase development site in Starbase, Texas. Since its founding in 2002, the company has made numerous advances in rocket propulsion, reusable launch vehicles, human spaceflight and satellite constellation technology. As of 2026, SpaceX conducts more orbital launches annually than any other launch provider, includin",
-      "investors": [
-        "Fidelity Investments",
-        "Nexstar Media Group",
-        "Valor Equity Partners"
-      ],
-      "competitors": [],
-      "valLow": 0.1,
-      "valHigh": 0.5,
-      "prob": 55,
-      "window": "TBD"
-    },
-    {
-      "ticker": "RLEA",
-      "company": "Rubber Leaf",
-      "exchange": "NYSE",
-      "sector": "—",
-      "status": "S-1/A filed 2026-06-01",
-      "description": "Rubber, also called India rubber, latex, Amazonian rubber, caucho, or caoutchouc, as initially produced, consists of polymers of the organic compound isoprene, with minor impurities of other organic compounds.",
-      "investors": [
-        "allyl group"
-      ],
       "competitors": [],
       "valLow": 0.1,
       "valHigh": 0.5,
@@ -287,20 +289,6 @@
         "#Group and Duo formation history",
         "Cloud 7 (group)"
       ],
-      "competitors": [],
-      "valLow": 0.1,
-      "valHigh": 0.5,
-      "prob": 55,
-      "window": "TBD"
-    },
-    {
-      "ticker": "AADX",
-      "company": "Applied Aerospace & Defense",
-      "exchange": "NYSE",
-      "sector": "—",
-      "status": "S-1/A filed 2026-05-26",
-      "description": "",
-      "investors": [],
       "competitors": [],
       "valLow": 0.1,
       "valHigh": 0.5,
