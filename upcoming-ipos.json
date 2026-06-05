@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-04T07:16:30.255Z",
+  "generatedAt": "2026-06-05T06:45:55.550Z",
   "graduated": [
     "BTGO",
     "FPS",
@@ -17,6 +17,62 @@
     "XE"
   ],
   "pipeline": [
+    {
+      "ticker": "COPR",
+      "company": "Idaho Copper",
+      "exchange": "NYSE",
+      "sector": "—",
+      "status": "S-1/A filed 2026-06-04",
+      "description": "Idaho Falls is the fourth most populous city in Idaho and the county seat of Bonneville County. It is the state's most populous city outside the Boise metropolitan area. As of the 2020 census, the population of Idaho Falls was 64,818. In the 2010 census, the population of Idaho Falls was 56,813, with a metro population of 133,265. As of the 2020 census, the Idaho Falls Metropolitan Statistical Area had a population of 154,855.",
+      "investors": [],
+      "competitors": [],
+      "valLow": 0.1,
+      "valHigh": 0.5,
+      "prob": 55,
+      "window": "TBD"
+    },
+    {
+      "ticker": "RKAM",
+      "company": "ROKIT America",
+      "exchange": "NYSE",
+      "sector": "Pharmaceuticals",
+      "status": "S-1/A filed 2026-06-04",
+      "description": "",
+      "investors": [],
+      "competitors": [],
+      "valLow": 0.1,
+      "valHigh": 0.5,
+      "prob": 55,
+      "window": "TBD"
+    },
+    {
+      "ticker": "ELOX",
+      "company": "Eloxx Pharmaceuticals",
+      "exchange": "NYSE",
+      "sector": "Pharmaceuticals",
+      "status": "S-1/A filed 2026-06-04",
+      "description": "",
+      "investors": [],
+      "competitors": [],
+      "valLow": 0.1,
+      "valHigh": 0.5,
+      "prob": 55,
+      "window": "TBD"
+    },
+    {
+      "ticker": "PBLS",
+      "company": "Parabilis Medicines",
+      "exchange": "NYSE",
+      "sector": "Pharmaceuticals",
+      "status": "S-1/A filed 2026-06-04",
+      "description": "",
+      "investors": [],
+      "competitors": [],
+      "valLow": 0.1,
+      "valHigh": 0.5,
+      "prob": 55,
+      "window": "TBD"
+    },
     {
       "ticker": "SPCX",
       "company": "SPACE EXPLORATION TECHNOLOGIES",
@@ -99,10 +155,8 @@
       "exchange": "NYSE",
       "sector": "Oil & Gas",
       "status": "S-1/A filed 2026-06-02",
-      "description": "Whitehawk is a census-designated place in Plumas County, California, United States. The population was 144 at the 2020 census, up from 113 at the 2010 census.",
-      "investors": [
-        "same-sex partnerships"
-      ],
+      "description": "",
+      "investors": [],
       "competitors": [],
       "valLow": 0.1,
       "valHigh": 0.5,
@@ -144,20 +198,6 @@
       "sector": "—",
       "status": "S-1/A filed 2026-06-01",
       "description": "Quantinuum is a quantum computing company formed by the merger of Cambridge Quantum and Honeywell Quantum Solutions. The company's H-Series trapped-ion quantum computers set the highest quantum volume to date of 33,554,432 in September 2025. This architecture supports all-to-all qubit connectivity, allowing entangled states to be created between all qubits, and enables a high fidelity of quantum states.",
-      "investors": [],
-      "competitors": [],
-      "valLow": 0.1,
-      "valHigh": 0.5,
-      "prob": 55,
-      "window": "TBD"
-    },
-    {
-      "ticker": "ELOX",
-      "company": "Eloxx Pharmaceuticals",
-      "exchange": "NYSE",
-      "sector": "Pharmaceuticals",
-      "status": "S-1/A filed 2026-06-01",
-      "description": "",
       "investors": [],
       "competitors": [],
       "valLow": 0.1,
@@ -319,20 +359,6 @@
       "investors": [
         "hedge fund"
       ],
-      "competitors": [],
-      "valLow": 0.1,
-      "valHigh": 0.5,
-      "prob": 55,
-      "window": "TBD"
-    },
-    {
-      "ticker": "CRGT",
-      "company": "Cortigent",
-      "exchange": "NYSE",
-      "sector": "—",
-      "status": "S-1/A filed 2026-05-13",
-      "description": "",
-      "investors": [],
       "competitors": [],
       "valLow": 0.1,
       "valHigh": 0.5,
