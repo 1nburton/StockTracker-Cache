@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-05T06:45:55.550Z",
+  "generatedAt": "2026-06-06T06:15:49.632Z",
   "graduated": [
     "BTGO",
     "FPS",
@@ -17,6 +17,34 @@
     "XE"
   ],
   "pipeline": [
+    {
+      "ticker": "EROC",
+      "company": "ERock",
+      "exchange": "NYSE",
+      "sector": "—",
+      "status": "S-1/A filed 2026-06-05",
+      "description": "",
+      "investors": [],
+      "competitors": [],
+      "valLow": 0.1,
+      "valHigh": 0.5,
+      "prob": 55,
+      "window": "TBD"
+    },
+    {
+      "ticker": "WHK",
+      "company": "WhiteHawk Income",
+      "exchange": "NYSE",
+      "sector": "Oil & Gas",
+      "status": "S-1/A filed 2026-06-05",
+      "description": "",
+      "investors": [],
+      "competitors": [],
+      "valLow": 0.1,
+      "valHigh": 0.5,
+      "prob": 55,
+      "window": "TBD"
+    },
     {
       "ticker": "COPR",
       "company": "Idaho Copper",
@@ -150,20 +178,6 @@
       "window": "TBD"
     },
     {
-      "ticker": "WHK",
-      "company": "WhiteHawk Income",
-      "exchange": "NYSE",
-      "sector": "Oil & Gas",
-      "status": "S-1/A filed 2026-06-02",
-      "description": "",
-      "investors": [],
-      "competitors": [],
-      "valLow": 0.1,
-      "valHigh": 0.5,
-      "prob": 55,
-      "window": "TBD"
-    },
-    {
       "ticker": "VRHI",
       "company": "Veri MedTech Holdings",
       "exchange": "NYSE",
@@ -208,20 +222,6 @@
     {
       "ticker": "SFPT",
       "company": "Safepoint Holdings",
-      "exchange": "NYSE",
-      "sector": "—",
-      "status": "S-1/A filed 2026-06-01",
-      "description": "",
-      "investors": [],
-      "competitors": [],
-      "valLow": 0.1,
-      "valHigh": 0.5,
-      "prob": 55,
-      "window": "TBD"
-    },
-    {
-      "ticker": "EROC",
-      "company": "ERock",
       "exchange": "NYSE",
       "sector": "—",
       "status": "S-1/A filed 2026-06-01",
@@ -343,22 +343,6 @@
       "status": "S-1/A filed 2026-05-26",
       "description": "",
       "investors": [],
-      "competitors": [],
-      "valLow": 0.1,
-      "valHigh": 0.5,
-      "prob": 55,
-      "window": "TBD"
-    },
-    {
-      "ticker": "VXRT",
-      "company": "Vaxart",
-      "exchange": "NYSE",
-      "sector": "Pharmaceuticals",
-      "status": "S-1/A filed 2026-05-18",
-      "description": "Vaxart, Inc. is an American biotechnology company focused on the discovery, development, and commercialization of oral recombinant vaccines administered using temperature-stable tablets that can be stored and shipped without refrigeration, eliminating the need for needle injection. Its development programs for oral vaccine delivery include prophylactic, enteric-coated tablet vaccines for inhibiting norovirus, seasonal influenza, respiratory syncytial virus, and human papillomavirus. It was found",
-      "investors": [
-        "hedge fund"
-      ],
       "competitors": [],
       "valLow": 0.1,
       "valHigh": 0.5,
