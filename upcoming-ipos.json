@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-09T06:47:15.911Z",
+  "generatedAt": "2026-06-09T13:28:33.949Z",
   "graduated": [
     "BTGO",
     "FPS",
@@ -17,6 +17,34 @@
     "XE"
   ],
   "pipeline": [
+    {
+      "ticker": "STA",
+      "company": "Starton Holdings",
+      "exchange": "NYSE",
+      "sector": "Pharmaceuticals",
+      "status": "S-1/A filed 2026-06-09",
+      "description": "",
+      "investors": [],
+      "competitors": [],
+      "valLow": 0.1,
+      "valHigh": 0.5,
+      "prob": 55,
+      "window": "TBD"
+    },
+    {
+      "ticker": "PBLS",
+      "company": "Parabilis Medicines",
+      "exchange": "NYSE",
+      "sector": "Pharmaceuticals",
+      "status": "S-1/A filed 2026-06-09",
+      "description": "",
+      "investors": [],
+      "competitors": [],
+      "valLow": 0.1,
+      "valHigh": 0.5,
+      "prob": 55,
+      "window": "TBD"
+    },
     {
       "ticker": "FRBT",
       "company": "Forbright",
@@ -60,20 +88,6 @@
       "window": "TBD"
     },
     {
-      "ticker": "WHK",
-      "company": "WhiteHawk Income",
-      "exchange": "NYSE",
-      "sector": "Oil & Gas",
-      "status": "S-1/A filed 2026-06-05",
-      "description": "",
-      "investors": [],
-      "competitors": [],
-      "valLow": 0.1,
-      "valHigh": 0.5,
-      "prob": 55,
-      "window": "TBD"
-    },
-    {
       "ticker": "COPR",
       "company": "Idaho Copper",
       "exchange": "NYSE",
@@ -104,20 +118,6 @@
     {
       "ticker": "ELOX",
       "company": "Eloxx Pharmaceuticals",
-      "exchange": "NYSE",
-      "sector": "Pharmaceuticals",
-      "status": "S-1/A filed 2026-06-04",
-      "description": "",
-      "investors": [],
-      "competitors": [],
-      "valLow": 0.1,
-      "valHigh": 0.5,
-      "prob": 55,
-      "window": "TBD"
-    },
-    {
-      "ticker": "PBLS",
-      "company": "Parabilis Medicines",
       "exchange": "NYSE",
       "sector": "Pharmaceuticals",
       "status": "S-1/A filed 2026-06-04",
