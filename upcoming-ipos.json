@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-09T13:28:33.949Z",
+  "generatedAt": "2026-06-10T06:56:32.201Z",
   "graduated": [
     "BTGO",
     "FPS",
@@ -46,6 +46,20 @@
       "window": "TBD"
     },
     {
+      "ticker": "VRHI",
+      "company": "Veri MedTech Holdings",
+      "exchange": "NYSE",
+      "sector": "Technology Services",
+      "status": "S-1/A filed 2026-06-09",
+      "description": "",
+      "investors": [],
+      "competitors": [],
+      "valLow": 0.1,
+      "valHigh": 0.5,
+      "prob": 55,
+      "window": "TBD"
+    },
+    {
       "ticker": "FRBT",
       "company": "Forbright",
       "exchange": "NYSE",
@@ -65,8 +79,12 @@
       "exchange": "NYSE",
       "sector": "Banking",
       "status": "S-1/A filed 2026-06-08",
-      "description": "",
-      "investors": [],
+      "description": "First Union Corporation was an American bank holding company that provided commercial and retail banking services in eleven states in the eastern U.S. First Union also provided various other financial services, including mortgage banking, credit card, investment banking, investment advisory, home equity lending, asset-based lending, leasing, insurance, international and securities brokerage services and private equity through First Union Capital Partners, and through other subsidiaries.",
+      "investors": [
+        "First Union Capital Partners",
+        "home equity loan",
+        "Category:Former investment banks of the United States"
+      ],
       "competitors": [],
       "valLow": 0.1,
       "valHigh": 0.5,
@@ -78,6 +96,20 @@
       "company": "ERock",
       "exchange": "NYSE",
       "sector": "—",
+      "status": "S-1/A filed 2026-06-05",
+      "description": "",
+      "investors": [],
+      "competitors": [],
+      "valLow": 0.1,
+      "valHigh": 0.5,
+      "prob": 55,
+      "window": "TBD"
+    },
+    {
+      "ticker": "WHK",
+      "company": "WhiteHawk Income",
+      "exchange": "NYSE",
+      "sector": "Oil & Gas",
       "status": "S-1/A filed 2026-06-05",
       "description": "",
       "investors": [],
@@ -178,34 +210,6 @@
       "window": "TBD"
     },
     {
-      "ticker": "LFTO",
-      "company": "Liftoff Mobile",
-      "exchange": "NYSE",
-      "sector": "Technology Services",
-      "status": "S-1/A filed 2026-06-02",
-      "description": "",
-      "investors": [],
-      "competitors": [],
-      "valLow": 0.1,
-      "valHigh": 0.5,
-      "prob": 55,
-      "window": "TBD"
-    },
-    {
-      "ticker": "VRHI",
-      "company": "Veri MedTech Holdings",
-      "exchange": "NYSE",
-      "sector": "Technology Services",
-      "status": "S-1/A filed 2026-06-02",
-      "description": "",
-      "investors": [],
-      "competitors": [],
-      "valLow": 0.1,
-      "valHigh": 0.5,
-      "prob": 55,
-      "window": "TBD"
-    },
-    {
       "ticker": "SWRD",
       "company": "Stewards",
       "exchange": "NYSE",
@@ -220,36 +224,8 @@
       "window": "TBD"
     },
     {
-      "ticker": "QNT",
-      "company": "Quantinuum",
-      "exchange": "NYSE",
-      "sector": "—",
-      "status": "S-1/A filed 2026-06-01",
-      "description": "Quantinuum is a quantum computing company formed by the merger of Cambridge Quantum and Honeywell Quantum Solutions. The company's H-Series trapped-ion quantum computers set the highest quantum volume to date of 33,554,432 in September 2025. This architecture supports all-to-all qubit connectivity, allowing entangled states to be created between all qubits, and enables a high fidelity of quantum states.",
-      "investors": [],
-      "competitors": [],
-      "valLow": 0.1,
-      "valHigh": 0.5,
-      "prob": 55,
-      "window": "TBD"
-    },
-    {
       "ticker": "SFPT",
       "company": "Safepoint Holdings",
-      "exchange": "NYSE",
-      "sector": "—",
-      "status": "S-1/A filed 2026-06-01",
-      "description": "",
-      "investors": [],
-      "competitors": [],
-      "valLow": 0.1,
-      "valHigh": 0.5,
-      "prob": 55,
-      "window": "TBD"
-    },
-    {
-      "ticker": "INIO",
-      "company": "INNIO Holding GmbH",
       "exchange": "NYSE",
       "sector": "—",
       "status": "S-1/A filed 2026-06-01",
@@ -343,20 +319,6 @@
         "#Group and Duo formation history",
         "Cloud 7 (group)"
       ],
-      "competitors": [],
-      "valLow": 0.1,
-      "valHigh": 0.5,
-      "prob": 55,
-      "window": "TBD"
-    },
-    {
-      "ticker": "SSMR",
-      "company": "Sunshine Silver Mining & Refining Co",
-      "exchange": "NYSE",
-      "sector": "Mining",
-      "status": "S-1/A filed 2026-05-26",
-      "description": "",
-      "investors": [],
       "competitors": [],
       "valLow": 0.1,
       "valHigh": 0.5,
