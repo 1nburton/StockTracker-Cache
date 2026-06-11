@@ -1,16 +1,16 @@
 {
-  "ts": 1781011744504,
-  "asOf": "2026-06-09T13:29:04.504Z",
+  "ts": 1781161922348,
+  "asOf": "2026-06-11T07:12:02.348Z",
   "source": "live",
   "sectors": [
     {
       "name": "Technology",
       "etf": "XLK",
       "currentWeight": 31.5,
-      "projectedWeight": 28.7,
-      "weightShift": -2.8,
-      "ytdReturn": 27.64,
-      "ytdZScore": 1.86,
+      "projectedWeight": 28.9,
+      "weightShift": -2.6,
+      "ytdReturn": 22.4,
+      "ytdZScore": 1.51,
       "heat": "hot",
       "projectedHeat": "warm",
       "thesis": "Extended on AI euphoria; multiple compression risk rises as rate cuts get priced out.",
@@ -21,15 +21,15 @@
         "AVGO",
         "ORCL"
       ],
-      "lastPrice": 184.18
+      "lastPrice": 176.63
     },
     {
       "name": "Financials",
       "etf": "XLF",
       "currentWeight": 13.2,
-      "projectedWeight": 14.1,
-      "weightShift": 0.9,
-      "ytdReturn": -5.39,
+      "projectedWeight": 14.2,
+      "weightShift": 1,
+      "ytdReturn": -4.92,
       "ytdZScore": -1.1,
       "heat": "cool",
       "projectedHeat": "neutral",
@@ -41,16 +41,16 @@
         "MA",
         "BAC"
       ],
-      "lastPrice": 51.97
+      "lastPrice": 52.23
     },
     {
       "name": "Health Care",
       "etf": "XLV",
       "currentWeight": 11.8,
-      "projectedWeight": 12.6,
-      "weightShift": 0.8,
-      "ytdReturn": -1.84,
-      "ytdZScore": -0.78,
+      "projectedWeight": 12.7,
+      "weightShift": 0.9,
+      "ytdReturn": -1.71,
+      "ytdZScore": -0.79,
       "heat": "cool",
       "projectedHeat": "neutral",
       "thesis": "Beaten-down biotech and MedTech sub-sectors offer asymmetric upside into year-end.",
@@ -61,16 +61,16 @@
         "ABBV",
         "MRK"
       ],
-      "lastPrice": 152.65
+      "lastPrice": 152.85
     },
     {
       "name": "Consumer Discretionary",
       "etf": "XLY",
       "currentWeight": 10.1,
-      "projectedWeight": 10.8,
-      "weightShift": 0.7,
-      "ytdReturn": -2.5,
-      "ytdZScore": -0.84,
+      "projectedWeight": 10.9,
+      "weightShift": 0.8,
+      "ytdReturn": -4.11,
+      "ytdZScore": -1.02,
       "heat": "cool",
       "projectedHeat": "neutral",
       "thesis": "Consumer sentiment trough often precedes sector recovery; positioning near multi-year lows.",
@@ -81,16 +81,16 @@
         "MCD",
         "NKE"
       ],
-      "lastPrice": 115.39
+      "lastPrice": 113.49
     },
     {
       "name": "Communication Services",
       "etf": "XLC",
       "currentWeight": 8.9,
-      "projectedWeight": 9.5,
-      "weightShift": 0.6,
-      "ytdReturn": -4.97,
-      "ytdZScore": -1.06,
+      "projectedWeight": 9.6,
+      "weightShift": 0.7,
+      "ytdReturn": -5.04,
+      "ytdZScore": -1.11,
       "heat": "cool",
       "projectedHeat": "neutral",
       "thesis": "Valuation reset has corrected the overshoot; re-rate catalyst is ad-spend inflection.",
@@ -101,16 +101,16 @@
         "NFLX",
         "T"
       ],
-      "lastPrice": 111.09
+      "lastPrice": 111.01
     },
     {
       "name": "Industrials",
       "etf": "XLI",
       "currentWeight": 8.2,
-      "projectedWeight": 8.1,
-      "weightShift": -0.1,
-      "ytdReturn": 9.91,
-      "ytdZScore": 0.27,
+      "projectedWeight": 8.2,
+      "weightShift": 0,
+      "ytdReturn": 7.39,
+      "ytdZScore": 0.08,
       "heat": "neutral",
       "projectedHeat": "neutral",
       "thesis": "Defence and aerospace sub-sector strong; commercial cycle peaking.",
@@ -121,19 +121,19 @@
         "HON",
         "UNP"
       ],
-      "lastPrice": 173.63
+      "lastPrice": 169.66
     },
     {
       "name": "Consumer Staples",
       "etf": "XLP",
       "currentWeight": 5.8,
-      "projectedWeight": 5.8,
-      "weightShift": 0,
-      "ytdReturn": 6.92,
-      "ytdZScore": 0,
-      "heat": "neutral",
-      "projectedHeat": "neutral",
-      "thesis": "Valuation fair; sector acts as portfolio ballast rather than alpha source.",
+      "projectedWeight": 5.6,
+      "weightShift": -0.2,
+      "ytdReturn": 10.04,
+      "ytdZScore": 0.33,
+      "heat": "warm",
+      "projectedHeat": "warm",
+      "thesis": "Pricing power normalising; volume recovery is the next catalyst for re-rating.",
       "topHoldings": [
         "PG",
         "KO",
@@ -141,7 +141,7 @@
         "COST",
         "WMT"
       ],
-      "lastPrice": 83.07
+      "lastPrice": 85.49
     },
     {
       "name": "Energy",
@@ -149,8 +149,8 @@
       "currentWeight": 3.9,
       "projectedWeight": 3.6,
       "weightShift": -0.3,
-      "ytdReturn": 27.78,
-      "ytdZScore": 1.87,
+      "ytdReturn": 27.6,
+      "ytdZScore": 2.01,
       "heat": "hot",
       "projectedHeat": "warm",
       "thesis": "Commodity cycle at peak; supply response and demand destruction headwinds ahead.",
@@ -161,7 +161,7 @@
         "EOG",
         "SLB"
       ],
-      "lastPrice": 58.33
+      "lastPrice": 58.25
     },
     {
       "name": "Materials",
@@ -169,8 +169,8 @@
       "currentWeight": 2.4,
       "projectedWeight": 2.4,
       "weightShift": 0,
-      "ytdReturn": 8.33,
-      "ytdZScore": 0.13,
+      "ytdReturn": 7.55,
+      "ytdZScore": 0.09,
       "heat": "neutral",
       "projectedHeat": "neutral",
       "thesis": "Sector tracks global PMI cycle; watch China demand and USD trajectory.",
@@ -181,19 +181,19 @@
         "FCX",
         "NUE"
       ],
-      "lastPrice": 49.96
+      "lastPrice": 49.6
     },
     {
       "name": "Real Estate",
       "etf": "XLRE",
       "currentWeight": 2.2,
-      "projectedWeight": 2.2,
-      "weightShift": 0,
-      "ytdReturn": 9.04,
-      "ytdZScore": 0.19,
-      "heat": "neutral",
-      "projectedHeat": "neutral",
-      "thesis": "Waiting for rate clarity; long-duration earnings sensitivity caps near-term upside.",
+      "projectedWeight": 2.1,
+      "weightShift": -0.1,
+      "ytdReturn": 11.42,
+      "ytdZScore": 0.46,
+      "heat": "warm",
+      "projectedHeat": "warm",
+      "thesis": "Office drag well-known; industrial and data-centre sub-sectors are growth engines.",
       "topHoldings": [
         "PLD",
         "AMT",
@@ -201,19 +201,19 @@
         "CCI",
         "PSA"
       ],
-      "lastPrice": 44.03
+      "lastPrice": 44.99
     },
     {
       "name": "Utilities",
       "etf": "XLU",
       "currentWeight": 2,
-      "projectedWeight": 2.1,
-      "weightShift": 0.1,
-      "ytdReturn": 0.79,
-      "ytdZScore": -0.54,
-      "heat": "cool",
+      "projectedWeight": 2,
+      "weightShift": 0,
+      "ytdReturn": 1.9,
+      "ytdZScore": -0.45,
+      "heat": "neutral",
       "projectedHeat": "neutral",
-      "thesis": "Asymmetric risk/reward if Fed pivots; accumulate into rate-fear overshoot.",
+      "thesis": "Power demand tailwind emerging; rate path is the key variable.",
       "topHoldings": [
         "NEE",
         "DUK",
@@ -221,7 +221,7 @@
         "D",
         "AEP"
       ],
-      "lastPrice": 43.52
+      "lastPrice": 44
     }
   ],
   "macro": [
