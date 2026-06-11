@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-10T06:56:32.201Z",
+  "generatedAt": "2026-06-11T07:11:39.197Z",
   "graduated": [
     "BTGO",
     "FPS",
@@ -17,6 +17,20 @@
     "XE"
   ],
   "pipeline": [
+    {
+      "ticker": "FISN",
+      "company": "DEEP FISSION",
+      "exchange": "NYSE",
+      "sector": "Utilities",
+      "status": "S-1/A filed 2026-06-10",
+      "description": "",
+      "investors": [],
+      "competitors": [],
+      "valLow": 0.1,
+      "valHigh": 0.5,
+      "prob": 55,
+      "window": "TBD"
+    },
     {
       "ticker": "STA",
       "company": "Starton Holdings",
@@ -79,12 +93,8 @@
       "exchange": "NYSE",
       "sector": "Banking",
       "status": "S-1/A filed 2026-06-08",
-      "description": "First Union Corporation was an American bank holding company that provided commercial and retail banking services in eleven states in the eastern U.S. First Union also provided various other financial services, including mortgage banking, credit card, investment banking, investment advisory, home equity lending, asset-based lending, leasing, insurance, international and securities brokerage services and private equity through First Union Capital Partners, and through other subsidiaries.",
-      "investors": [
-        "First Union Capital Partners",
-        "home equity loan",
-        "Category:Former investment banks of the United States"
-      ],
+      "description": "",
+      "investors": [],
       "competitors": [],
       "valLow": 0.1,
       "valHigh": 0.5,
