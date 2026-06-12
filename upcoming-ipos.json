@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-11T07:11:39.197Z",
+  "generatedAt": "2026-06-12T07:04:46.154Z",
   "graduated": [
     "BTGO",
     "FPS",
@@ -18,6 +18,34 @@
   ],
   "pipeline": [
     {
+      "ticker": "ENT",
+      "company": "ENTRATA",
+      "exchange": "NYSE",
+      "sector": "Software",
+      "status": "S-1/A filed 2026-06-11",
+      "description": "Marydale \"Maymay\" Entrata is a Filipino actress and singer. Having achieved mainstream success across television, music and fashion, she came to prominence after winning the reality show Pinoy Big Brother: Lucky 7. She is the first Filipina to walk at the Arab Fashion Week. Her accolades include a FAMAS Award, an Awit Award, two PMPC Star Awards for Music and a Box Office Entertainment Awards, in addition to a nomination for an MTV Europe Music Award.",
+      "investors": [],
+      "competitors": [],
+      "valLow": 0.1,
+      "valHigh": 0.5,
+      "prob": 55,
+      "window": "TBD"
+    },
+    {
+      "ticker": "KARD",
+      "company": "Kardigan",
+      "exchange": "NYSE",
+      "sector": "Pharmaceuticals",
+      "status": "S-1/A filed 2026-06-11",
+      "description": "",
+      "investors": [],
+      "competitors": [],
+      "valLow": 0.1,
+      "valHigh": 0.5,
+      "prob": 55,
+      "window": "TBD"
+    },
+    {
       "ticker": "FISN",
       "company": "DEEP FISSION",
       "exchange": "NYSE",
@@ -34,20 +62,6 @@
     {
       "ticker": "STA",
       "company": "Starton Holdings",
-      "exchange": "NYSE",
-      "sector": "Pharmaceuticals",
-      "status": "S-1/A filed 2026-06-09",
-      "description": "",
-      "investors": [],
-      "competitors": [],
-      "valLow": 0.1,
-      "valHigh": 0.5,
-      "prob": 55,
-      "window": "TBD"
-    },
-    {
-      "ticker": "PBLS",
-      "company": "Parabilis Medicines",
       "exchange": "NYSE",
       "sector": "Pharmaceuticals",
       "status": "S-1/A filed 2026-06-09",
@@ -93,22 +107,10 @@
       "exchange": "NYSE",
       "sector": "Banking",
       "status": "S-1/A filed 2026-06-08",
-      "description": "",
-      "investors": [],
-      "competitors": [],
-      "valLow": 0.1,
-      "valHigh": 0.5,
-      "prob": 55,
-      "window": "TBD"
-    },
-    {
-      "ticker": "EROC",
-      "company": "ERock",
-      "exchange": "NYSE",
-      "sector": "—",
-      "status": "S-1/A filed 2026-06-05",
-      "description": "",
-      "investors": [],
+      "description": "First Citizens Bancshares, Inc. is a bank holding company based in Raleigh, North Carolina, and one of the largest banks in the United States. Its primary subsidiary is First Citizens Bank, which operates over 500 branches in 23 states. A second subsidiary is Silicon Valley Bank, which operates 39 offices in 15 states.",
+      "investors": [
+        "CIT Group"
+      ],
       "competitors": [],
       "valLow": 0.1,
       "valHigh": 0.5,
@@ -177,7 +179,7 @@
       "exchange": "NYSE",
       "sector": "—",
       "status": "S-1/A filed 2026-06-03",
-      "description": "Space Exploration Technologies Corporation, doing business as SpaceX, is a private American spaceflight, telecommunications, and artificial intelligence company headquartered at the Starbase development site in Starbase, Texas. Since its founding in 2002, the company has made numerous advances in rocket propulsion, reusable launch vehicles, human spaceflight and satellite constellation technology. As of 2026, SpaceX conducts more orbital launches annually than any other launch provider, includin",
+      "description": "Space Exploration Technologies Corporation, doing business as SpaceX, is a public American spaceflight, telecommunications, and artificial intelligence company headquartered at the Starbase development site in Starbase, Texas. Since its founding in 2002, the company has made numerous advances in rocket propulsion, reusable launch vehicles, human spaceflight and satellite constellation technology. As of 2026, SpaceX conducts more orbital launches annually than any other launch provider, including",
       "investors": [
         "Fidelity Investments",
         "Nexstar Media Group",
