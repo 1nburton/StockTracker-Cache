@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-12T07:04:46.154Z",
+  "generatedAt": "2026-06-13T06:44:09.281Z",
   "graduated": [
     "BTGO",
     "FPS",
@@ -17,6 +17,64 @@
     "XE"
   ],
   "pipeline": [
+    {
+      "ticker": "SWRD",
+      "company": "Stewards",
+      "exchange": "NYSE",
+      "sector": "—",
+      "status": "S-1/A filed 2026-06-12",
+      "description": "The Shop Stewards Movement was a movement that brought together shop stewards from across the United Kingdom during the First World War. It originated with the Clyde Workers Committee, the first shop stewards committee in Britain, which campaigned against the imprisonment of three of their members in 1915. Most of the committee members belonged to the Amalgamated Society of Engineers (ASE). In November 1916 the Sheffield Workers' Committee was formed when ASE members there went on strike against",
+      "investors": [],
+      "competitors": [],
+      "valLow": 0.1,
+      "valHigh": 0.5,
+      "prob": 55,
+      "window": "TBD"
+    },
+    {
+      "ticker": "FBDT",
+      "company": "First Breach",
+      "exchange": "NYSE",
+      "sector": "—",
+      "status": "S-1/A filed 2026-06-12",
+      "description": "",
+      "investors": [],
+      "competitors": [],
+      "valLow": 0.1,
+      "valHigh": 0.5,
+      "prob": 55,
+      "window": "TBD"
+    },
+    {
+      "ticker": "CIMG",
+      "company": "CIMG",
+      "exchange": "NYSE",
+      "sector": "—",
+      "status": "S-1/A filed 2026-06-12",
+      "description": "CIMG-FM is a Canadian radio station being licensed to Swift Current, Saskatchewan serving the southwest Saskatchewan area broadcasting at 94.1 FM with a country music format. The station is currently owned and operated by Golden West Broadcasting, which also owns sister stations CKFI-FM and CKSW. The station had been broadcasting since October 20, 1979.",
+      "investors": [],
+      "competitors": [],
+      "valLow": 0.1,
+      "valHigh": 0.5,
+      "prob": 55,
+      "window": "TBD"
+    },
+    {
+      "ticker": "FCBM",
+      "company": "First Carolina Financial Services",
+      "exchange": "NYSE",
+      "sector": "Banking",
+      "status": "S-1/A filed 2026-06-12",
+      "description": "First Citizens Bancshares, Inc. is a bank holding company based in Raleigh, North Carolina, and one of the largest banks in the United States. Its primary subsidiary is First Citizens Bank, which operates over 500 branches in 23 states. A second subsidiary is Silicon Valley Bank, which operates 39 offices in 15 states.",
+      "investors": [
+        "CIT Group"
+      ],
+      "competitors": [],
+      "valLow": 0.1,
+      "valHigh": 0.5,
+      "prob": 55,
+      "window": "TBD"
+    },
     {
       "ticker": "ENT",
       "company": "ENTRATA",
@@ -102,36 +160,6 @@
       "window": "TBD"
     },
     {
-      "ticker": "FCBM",
-      "company": "First Carolina Financial Services",
-      "exchange": "NYSE",
-      "sector": "Banking",
-      "status": "S-1/A filed 2026-06-08",
-      "description": "First Citizens Bancshares, Inc. is a bank holding company based in Raleigh, North Carolina, and one of the largest banks in the United States. Its primary subsidiary is First Citizens Bank, which operates over 500 branches in 23 states. A second subsidiary is Silicon Valley Bank, which operates 39 offices in 15 states.",
-      "investors": [
-        "CIT Group"
-      ],
-      "competitors": [],
-      "valLow": 0.1,
-      "valHigh": 0.5,
-      "prob": 55,
-      "window": "TBD"
-    },
-    {
-      "ticker": "WHK",
-      "company": "WhiteHawk Income",
-      "exchange": "NYSE",
-      "sector": "Oil & Gas",
-      "status": "S-1/A filed 2026-06-05",
-      "description": "",
-      "investors": [],
-      "competitors": [],
-      "valLow": 0.1,
-      "valHigh": 0.5,
-      "prob": 55,
-      "window": "TBD"
-    },
-    {
       "ticker": "COPR",
       "company": "Idaho Copper",
       "exchange": "NYSE",
@@ -179,8 +207,9 @@
       "exchange": "NYSE",
       "sector": "—",
       "status": "S-1/A filed 2026-06-03",
-      "description": "Space Exploration Technologies Corporation, doing business as SpaceX, is a public American spaceflight, telecommunications, and artificial intelligence company headquartered at the Starbase development site in Starbase, Texas. Since its founding in 2002, the company has made numerous advances in rocket propulsion, reusable launch vehicles, human spaceflight and satellite constellation technology. As of 2026, SpaceX conducts more orbital launches annually than any other launch provider, including",
+      "description": "Space Exploration Technologies Corporation, doing business as SpaceX, is an American public spaceflight, telecommunications, and artificial intelligence company headquartered at the Starbase development site in Starbase, Texas. Since its founding in 2002, the company has made numerous advances in rocket propulsion, reusable launch vehicles, human spaceflight and satellite constellation technology. As of 2026, SpaceX conducts more orbital launches annually than any other launch provider, includin",
       "investors": [
+        "joint venture",
         "Fidelity Investments",
         "Nexstar Media Group",
         "Valor Equity Partners"
@@ -201,34 +230,6 @@
       "investors": [
         "allyl group"
       ],
-      "competitors": [],
-      "valLow": 0.1,
-      "valHigh": 0.5,
-      "prob": 55,
-      "window": "TBD"
-    },
-    {
-      "ticker": "CIMG",
-      "company": "CIMG",
-      "exchange": "NYSE",
-      "sector": "—",
-      "status": "S-1/A filed 2026-06-02",
-      "description": "CIMG-FM is a Canadian radio station being licensed to Swift Current, Saskatchewan serving the southwest Saskatchewan area broadcasting at 94.1 FM with a country music format. The station is currently owned and operated by Golden West Broadcasting, which also owns sister stations CKFI-FM and CKSW. The station had been broadcasting since October 20, 1979.",
-      "investors": [],
-      "competitors": [],
-      "valLow": 0.1,
-      "valHigh": 0.5,
-      "prob": 55,
-      "window": "TBD"
-    },
-    {
-      "ticker": "SWRD",
-      "company": "Stewards",
-      "exchange": "NYSE",
-      "sector": "—",
-      "status": "S-1/A filed 2026-06-01",
-      "description": "The Shop Stewards Movement was a movement that brought together shop stewards from across the United Kingdom during the First World War. It originated with the Clyde Workers Committee, the first shop stewards committee in Britain, which campaigned against the imprisonment of three of their members in 1915. Most of the committee members belonged to the Amalgamated Society of Engineers (ASE). In November 1916 the Sheffield Workers' Committee was formed when ASE members there went on strike against",
-      "investors": [],
       "competitors": [],
       "valLow": 0.1,
       "valHigh": 0.5,
@@ -269,20 +270,6 @@
       "exchange": "NYSE",
       "sector": "Pharmaceuticals",
       "status": "S-1/A filed 2026-05-29",
-      "description": "",
-      "investors": [],
-      "competitors": [],
-      "valLow": 0.1,
-      "valHigh": 0.5,
-      "prob": 55,
-      "window": "TBD"
-    },
-    {
-      "ticker": "FBDT",
-      "company": "First Breach",
-      "exchange": "NYSE",
-      "sector": "—",
-      "status": "S-1/A filed 2026-05-27",
       "description": "",
       "investors": [],
       "competitors": [],
