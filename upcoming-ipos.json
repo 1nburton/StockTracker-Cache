@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-14T07:02:32.246Z",
+  "generatedAt": "2026-06-15T07:42:03.047Z",
   "graduated": [
     "BTGO",
     "FPS",
@@ -65,9 +65,11 @@
       "exchange": "NYSE",
       "sector": "Banking",
       "status": "S-1/A filed 2026-06-12",
-      "description": "First Citizens Bancshares, Inc. is a bank holding company based in Raleigh, North Carolina, and one of the largest banks in the United States. Its primary subsidiary is First Citizens Bank, which operates over 500 branches in 23 states. A second subsidiary is Silicon Valley Bank, which operates 39 offices in 15 states.",
+      "description": "First Union Corporation was an American bank holding company that provided commercial and retail banking services in eleven states in the eastern U.S. First Union also provided various other financial services, including mortgage banking, credit card, investment banking, investment advisory, home equity lending, asset-based lending, leasing, insurance, international and securities brokerage services and private equity through First Union Capital Partners, and through other subsidiaries.",
       "investors": [
-        "CIT Group"
+        "First Union Capital Partners",
+        "home equity loan",
+        "Category:Former investment banks of the United States"
       ],
       "competitors": [],
       "valLow": 0.1,
@@ -207,7 +209,7 @@
       "exchange": "NYSE",
       "sector": "—",
       "status": "S-1/A filed 2026-06-03",
-      "description": "Space Exploration Technologies Corporation, doing business as SpaceX, is an American public spaceflight, telecommunications, and artificial intelligence company headquartered at the Starbase development site in Starbase, Texas. Since its founding in 2002, the company has made numerous advances in rocket propulsion, reusable launch vehicles, human spaceflight and satellite constellation technology. As of 2026, SpaceX conducts more orbital launches annually than any other launch provider, includin",
+      "description": "Space Exploration Technologies Corporation, doing business as SpaceX, is an American public spaceflight, telecommunications, and artificial intelligence company headquartered at the Starbase development site in Starbase, Texas. Since its founding in 2002, the company has made numerous advances in rocket propulsion, reusable launch vehicles, human spaceflight, and satellite constellation technology. As of 2026, SpaceX conducts more orbital launches annually than any other launch provider, includi",
       "investors": [
         "joint venture",
         "Fidelity Investments",
