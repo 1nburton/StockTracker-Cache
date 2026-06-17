@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-16T07:48:15.128Z",
+  "generatedAt": "2026-06-17T07:31:27.948Z",
   "graduated": [
     "BTGO",
     "FPS",
@@ -17,6 +17,20 @@
     "XE"
   ],
   "pipeline": [
+    {
+      "ticker": "CTTH",
+      "company": "CTT PHARMACEUTICAL HOLDINGS",
+      "exchange": "NYSE",
+      "sector": "Pharmaceuticals",
+      "status": "S-1/A filed 2026-06-16",
+      "description": "",
+      "investors": [],
+      "competitors": [],
+      "valLow": 0.1,
+      "valHigh": 0.5,
+      "prob": 55,
+      "window": "TBD"
+    },
     {
       "ticker": "BLTH",
       "company": "AMERICAN BATTERY MATERIALS",
@@ -221,11 +235,10 @@
       "exchange": "NYSE",
       "sector": "—",
       "status": "S-1/A filed 2026-06-03",
-      "description": "Space Exploration Technologies Corporation, doing business as SpaceX, is an American public spaceflight, telecommunications, and artificial intelligence company headquartered at the Starbase development site in Starbase, Texas. Since its founding in 2002, the company has made numerous advances in rocket propulsion, reusable launch vehicles, human spaceflight, and satellite constellation technology. As of 2026, SpaceX conducts more orbital launches annually than any other launch provider, includi",
+      "description": "Space Exploration Technologies Corporation, doing business as SpaceX, is an American public spaceflight, telecommunications, and artificial intelligence company headquartered at the Starbase development site in Starbase, Texas. As of 2026, SpaceX conducts more orbital launches annually than any other launch provider, including private competitors and national programs such as the Chinese space program. It is a major government contractor, primarily from NASA and the United States Armed Forces. S",
       "investors": [
         "joint venture",
         "Fidelity Investments",
-        "Nexstar Media Group",
         "Valor Equity Partners",
         "DFJ Growth Fund"
       ],
@@ -280,20 +293,6 @@
       "window": "TBD"
     },
     {
-      "ticker": "CTTH",
-      "company": "CTT PHARMACEUTICAL HOLDINGS",
-      "exchange": "NYSE",
-      "sector": "Pharmaceuticals",
-      "status": "S-1/A filed 2026-05-29",
-      "description": "",
-      "investors": [],
-      "competitors": [],
-      "valLow": 0.1,
-      "valHigh": 0.5,
-      "prob": 55,
-      "window": "TBD"
-    },
-    {
       "ticker": "EAXR",
       "company": "Ealixir",
       "exchange": "NYSE",
@@ -301,24 +300,6 @@
       "status": "S-1/A filed 2026-05-27",
       "description": "",
       "investors": [],
-      "competitors": [],
-      "valLow": 0.1,
-      "valHigh": 0.5,
-      "prob": 55,
-      "window": "TBD"
-    },
-    {
-      "ticker": "CLBZ",
-      "company": "Collab Z",
-      "exchange": "NYSE",
-      "sector": "Real Estate",
-      "status": "S-1/A filed 2026-05-26",
-      "description": "Pinoy Big Brother: Celebrity Collab Edition 2.0 is the fourth celebrity and the nineteenth overall season of the Philippine reality television series Pinoy Big Brother. The season premiered on October 25, 2025, on GMA Network. The cast features teen celebrities from the talent agencies Star Magic and Sparkle GMA Artist Center.",
-      "investors": [
-        "#Group formation history",
-        "#Group and Duo formation history",
-        "Cloud 7 (group)"
-      ],
       "competitors": [],
       "valLow": 0.1,
       "valHigh": 0.5,
