@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-17T07:31:27.948Z",
+  "generatedAt": "2026-06-18T07:13:34.824Z",
   "graduated": [
     "BTGO",
     "FPS",
@@ -17,6 +17,34 @@
     "XE"
   ],
   "pipeline": [
+    {
+      "ticker": "COPR",
+      "company": "Idaho Copper",
+      "exchange": "NYSE",
+      "sector": "—",
+      "status": "S-1/A filed 2026-06-17",
+      "description": "Idaho Falls is the fourth most populous city in Idaho and the county seat of Bonneville County. It is the state's most populous city outside the Boise metropolitan area. As of the 2020 census, the population of Idaho Falls was 64,818. In the 2010 census, the population of Idaho Falls was 56,813, with a metro population of 133,265. As of the 2020 census, the Idaho Falls Metropolitan Statistical Area had a population of 154,855.",
+      "investors": [],
+      "competitors": [],
+      "valLow": 0.1,
+      "valHigh": 0.5,
+      "prob": 55,
+      "window": "TBD"
+    },
+    {
+      "ticker": "CNTM",
+      "company": "ConnectM Technology Solutions",
+      "exchange": "NYSE",
+      "sector": "—",
+      "status": "S-1/A filed 2026-06-17",
+      "description": "",
+      "investors": [],
+      "competitors": [],
+      "valLow": 0.1,
+      "valHigh": 0.5,
+      "prob": 55,
+      "window": "TBD"
+    },
     {
       "ticker": "CTTH",
       "company": "CTT PHARMACEUTICAL HOLDINGS",
@@ -202,20 +230,6 @@
       "window": "TBD"
     },
     {
-      "ticker": "COPR",
-      "company": "Idaho Copper",
-      "exchange": "NYSE",
-      "sector": "—",
-      "status": "S-1/A filed 2026-06-04",
-      "description": "Idaho Falls is the fourth most populous city in Idaho and the county seat of Bonneville County. It is the state's most populous city outside the Boise metropolitan area. As of the 2020 census, the population of Idaho Falls was 64,818. In the 2010 census, the population of Idaho Falls was 56,813, with a metro population of 133,265. As of the 2020 census, the Idaho Falls Metropolitan Statistical Area had a population of 154,855.",
-      "investors": [],
-      "competitors": [],
-      "valLow": 0.1,
-      "valHigh": 0.5,
-      "prob": 55,
-      "window": "TBD"
-    },
-    {
       "ticker": "RKAM",
       "company": "ROKIT America",
       "exchange": "NYSE",
@@ -235,7 +249,7 @@
       "exchange": "NYSE",
       "sector": "—",
       "status": "S-1/A filed 2026-06-03",
-      "description": "Space Exploration Technologies Corporation, doing business as SpaceX, is an American public spaceflight, telecommunications, and artificial intelligence company headquartered at the Starbase development site in Starbase, Texas. As of 2026, SpaceX conducts more orbital launches annually than any other launch provider, including private competitors and national programs such as the Chinese space program. It is a major government contractor, primarily from NASA and the United States Armed Forces. S",
+      "description": "Space Exploration Technologies Corporation, doing business as SpaceX, is an American spaceflight, telecommunications, and artificial intelligence company headquartered at the Starbase development site in Starbase, Texas. The company operates 3 divisions: \"Space\", which conducts more orbital launches annually than any other launch provider, including national programs; \"Connectivity\", which operates Starlink, a communications satellite company; and \"Artificial intelligence\", which operates Grok, ",
       "investors": [
         "joint venture",
         "Fidelity Investments",
@@ -284,20 +298,6 @@
       "exchange": "NYSE",
       "sector": "Healthcare",
       "status": "S-1/A filed 2026-05-29",
-      "description": "",
-      "investors": [],
-      "competitors": [],
-      "valLow": 0.1,
-      "valHigh": 0.5,
-      "prob": 55,
-      "window": "TBD"
-    },
-    {
-      "ticker": "EAXR",
-      "company": "Ealixir",
-      "exchange": "NYSE",
-      "sector": "Software",
-      "status": "S-1/A filed 2026-05-27",
       "description": "",
       "investors": [],
       "competitors": [],
