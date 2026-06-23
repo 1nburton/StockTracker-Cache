@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-22T07:45:52.562Z",
+  "generatedAt": "2026-06-23T06:28:34.414Z",
   "graduated": [
     "BTGO",
     "FPS",
@@ -17,6 +17,62 @@
     "XE"
   ],
   "pipeline": [
+    {
+      "ticker": "LIME",
+      "company": "Neutron Holdings",
+      "exchange": "NYSE",
+      "sector": "Software",
+      "status": "S-1/A filed 2026-06-22",
+      "description": "A neutron star is the gravitationally collapsed core of a massive supergiant star. It results from the supernova explosion of a massive star—combined with gravitational collapse—that compresses the core past white dwarf star density to that of atomic nuclei. Surpassed only by black holes, neutron stars are the second-smallest- and second-densest-known class of stellar objects. Neutron stars have a radius on the order of 10 kilometers and a mass of about 1.4 solar masses (M☉). Stars that collapse",
+      "investors": [],
+      "competitors": [],
+      "valLow": 0.1,
+      "valHigh": 0.5,
+      "prob": 55,
+      "window": "TBD"
+    },
+    {
+      "ticker": "ITG",
+      "company": "ITG, Inc./DE/",
+      "exchange": "NYSE",
+      "sector": "—",
+      "status": "S-1/A filed 2026-06-22",
+      "description": "",
+      "investors": [],
+      "competitors": [],
+      "valLow": 0.1,
+      "valHigh": 0.5,
+      "prob": 55,
+      "window": "TBD"
+    },
+    {
+      "ticker": "SIND",
+      "company": "Sinda Ltd.",
+      "exchange": "NYSE",
+      "sector": "Mining",
+      "status": "S-1/A filed 2026-06-22",
+      "description": "",
+      "investors": [],
+      "competitors": [],
+      "valLow": 0.1,
+      "valHigh": 0.5,
+      "prob": 55,
+      "window": "TBD"
+    },
+    {
+      "ticker": "DPC",
+      "company": "DPC Holdings Ltd",
+      "exchange": "NYSE",
+      "sector": "—",
+      "status": "S-1/A filed 2026-06-22",
+      "description": "",
+      "investors": [],
+      "competitors": [],
+      "valLow": 0.1,
+      "valHigh": 0.5,
+      "prob": 55,
+      "window": "TBD"
+    },
     {
       "ticker": "COPR",
       "company": "Idaho Copper",
@@ -62,20 +118,6 @@
     {
       "ticker": "BLTH",
       "company": "AMERICAN BATTERY MATERIALS",
-      "exchange": "NYSE",
-      "sector": "—",
-      "status": "S-1/A filed 2026-06-15",
-      "description": "",
-      "investors": [],
-      "competitors": [],
-      "valLow": 0.1,
-      "valHigh": 0.5,
-      "prob": 55,
-      "window": "TBD"
-    },
-    {
-      "ticker": "DPC",
-      "company": "DPC Holdings Ltd",
       "exchange": "NYSE",
       "sector": "—",
       "status": "S-1/A filed 2026-06-15",
