@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-23T06:28:34.414Z",
+  "generatedAt": "2026-06-24T06:27:53.304Z",
   "graduated": [
     "BTGO",
     "FPS",
@@ -17,6 +17,34 @@
     "XE"
   ],
   "pipeline": [
+    {
+      "ticker": "CUX",
+      "company": "CopperTech Metals",
+      "exchange": "NYSE",
+      "sector": "—",
+      "status": "S-1/A filed 2026-06-23",
+      "description": "",
+      "investors": [],
+      "competitors": [],
+      "valLow": 0.1,
+      "valHigh": 0.5,
+      "prob": 55,
+      "window": "TBD"
+    },
+    {
+      "ticker": "SIND",
+      "company": "Sinda Ltd.",
+      "exchange": "NYSE",
+      "sector": "Mining",
+      "status": "S-1/A filed 2026-06-23",
+      "description": "",
+      "investors": [],
+      "competitors": [],
+      "valLow": 0.1,
+      "valHigh": 0.5,
+      "prob": 55,
+      "window": "TBD"
+    },
     {
       "ticker": "LIME",
       "company": "Neutron Holdings",
@@ -36,20 +64,6 @@
       "company": "ITG, Inc./DE/",
       "exchange": "NYSE",
       "sector": "—",
-      "status": "S-1/A filed 2026-06-22",
-      "description": "",
-      "investors": [],
-      "competitors": [],
-      "valLow": 0.1,
-      "valHigh": 0.5,
-      "prob": 55,
-      "window": "TBD"
-    },
-    {
-      "ticker": "SIND",
-      "company": "Sinda Ltd.",
-      "exchange": "NYSE",
-      "sector": "Mining",
       "status": "S-1/A filed 2026-06-22",
       "description": "",
       "investors": [],
@@ -202,20 +216,6 @@
       "window": "TBD"
     },
     {
-      "ticker": "KARD",
-      "company": "Kardigan",
-      "exchange": "NYSE",
-      "sector": "Pharmaceuticals",
-      "status": "S-1/A filed 2026-06-11",
-      "description": "",
-      "investors": [],
-      "competitors": [],
-      "valLow": 0.1,
-      "valHigh": 0.5,
-      "prob": 55,
-      "window": "TBD"
-    },
-    {
       "ticker": "FISN",
       "company": "DEEP FISSION",
       "exchange": "NYSE",
@@ -279,25 +279,6 @@
       "status": "S-1/A filed 2026-06-04",
       "description": "",
       "investors": [],
-      "competitors": [],
-      "valLow": 0.1,
-      "valHigh": 0.5,
-      "prob": 55,
-      "window": "TBD"
-    },
-    {
-      "ticker": "SPCX",
-      "company": "SPACE EXPLORATION TECHNOLOGIES",
-      "exchange": "NYSE",
-      "sector": "—",
-      "status": "S-1/A filed 2026-06-03",
-      "description": "Space Exploration Technologies Corporation, doing business as SpaceX, is an American spaceflight, telecommunications, and artificial intelligence company headquartered at the Starbase development site in Starbase, Texas. The company operates 3 divisions: \"Space\", which conducts more orbital launches annually than any other launch provider, including national programs; \"Connectivity\", which operates Starlink, a communications satellite company; and \"Artificial intelligence\", which operates Grok, ",
-      "investors": [
-        "joint venture",
-        "Fidelity Investments",
-        "Valor Equity Partners",
-        "DFJ Growth Fund"
-      ],
       "competitors": [],
       "valLow": 0.1,
       "valHigh": 0.5,
