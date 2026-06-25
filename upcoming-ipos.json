@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-24T06:27:53.304Z",
+  "generatedAt": "2026-06-25T06:29:25.252Z",
   "graduated": [
     "BTGO",
     "FPS",
@@ -18,11 +18,11 @@
   ],
   "pipeline": [
     {
-      "ticker": "CUX",
-      "company": "CopperTech Metals",
+      "ticker": "SIND",
+      "company": "Sinda Ltd.",
       "exchange": "NYSE",
-      "sector": "—",
-      "status": "S-1/A filed 2026-06-23",
+      "sector": "Mining",
+      "status": "S-1/A filed 2026-06-24",
       "description": "",
       "investors": [],
       "competitors": [],
@@ -32,10 +32,10 @@
       "window": "TBD"
     },
     {
-      "ticker": "SIND",
-      "company": "Sinda Ltd.",
+      "ticker": "CUX",
+      "company": "CopperTech Metals",
       "exchange": "NYSE",
-      "sector": "Mining",
+      "sector": "—",
       "status": "S-1/A filed 2026-06-23",
       "description": "",
       "investors": [],
@@ -307,20 +307,6 @@
       "exchange": "NYSE",
       "sector": "—",
       "status": "S-1/A filed 2026-06-01",
-      "description": "",
-      "investors": [],
-      "competitors": [],
-      "valLow": 0.1,
-      "valHigh": 0.5,
-      "prob": 55,
-      "window": "TBD"
-    },
-    {
-      "ticker": "HLYK",
-      "company": "HealthLynked",
-      "exchange": "NYSE",
-      "sector": "Healthcare",
-      "status": "S-1/A filed 2026-05-29",
       "description": "",
       "investors": [],
       "competitors": [],
