@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-25T06:29:25.252Z",
+  "generatedAt": "2026-06-26T06:32:02.400Z",
   "graduated": [
     "BTGO",
     "FPS",
@@ -17,6 +17,34 @@
     "XE"
   ],
   "pipeline": [
+    {
+      "ticker": "ADBT",
+      "company": "Advasa Holdings",
+      "exchange": "NYSE",
+      "sector": "Software",
+      "status": "S-1/A filed 2026-06-25",
+      "description": "",
+      "investors": [],
+      "competitors": [],
+      "valLow": 0.1,
+      "valHigh": 0.5,
+      "prob": 55,
+      "window": "TBD"
+    },
+    {
+      "ticker": "CSQR",
+      "company": "Csquare",
+      "exchange": "NYSE",
+      "sector": "—",
+      "status": "S-1/A filed 2026-06-25",
+      "description": "",
+      "investors": [],
+      "competitors": [],
+      "valLow": 0.1,
+      "valHigh": 0.5,
+      "prob": 55,
+      "window": "TBD"
+    },
     {
       "ticker": "SIND",
       "company": "Sinda Ltd.",
@@ -149,7 +177,7 @@
       "exchange": "NYSE",
       "sector": "—",
       "status": "S-1/A filed 2026-06-12",
-      "description": "The Shop Stewards Movement was a movement that brought together shop stewards from across the United Kingdom during the First World War. It originated with the Clyde Workers Committee, the first shop stewards committee in Britain, which campaigned against the imprisonment of three of their members in 1915. Most of the committee members belonged to the Amalgamated Society of Engineers (ASE). In November 1916 the Sheffield Workers' Committee was formed when ASE members there went on strike against",
+      "description": "During the First World War (1914–1918), the Revolutionary Stewards or Revolutionary Shop Stewards were factory shop stewards who were independent of the official unions and freely chosen by workers in various German industries. They rejected the war policies of the German Empire and the support which parliamentary representatives of the Social Democratic Party (SPD) gave to the policies. They also played a role during the German Revolution of 1918–19.",
       "investors": [],
       "competitors": [],
       "valLow": 0.1,
@@ -191,10 +219,8 @@
       "exchange": "NYSE",
       "sector": "Banking",
       "status": "S-1/A filed 2026-06-12",
-      "description": "First Citizens Bancshares, Inc. is a bank holding company based in Raleigh, North Carolina, and one of the largest banks in the United States. Its primary subsidiary is First Citizens Bank, which operates over 500 branches in 23 states. A second subsidiary is Silicon Valley Bank, which operates 39 offices in 15 states.",
-      "investors": [
-        "CIT Group"
-      ],
+      "description": "",
+      "investors": [],
       "competitors": [],
       "valLow": 0.1,
       "valHigh": 0.5,
@@ -295,20 +321,6 @@
       "investors": [
         "allyl group"
       ],
-      "competitors": [],
-      "valLow": 0.1,
-      "valHigh": 0.5,
-      "prob": 55,
-      "window": "TBD"
-    },
-    {
-      "ticker": "SFPT",
-      "company": "Safepoint Holdings",
-      "exchange": "NYSE",
-      "sector": "—",
-      "status": "S-1/A filed 2026-06-01",
-      "description": "",
-      "investors": [],
       "competitors": [],
       "valLow": 0.1,
       "valHigh": 0.5,
