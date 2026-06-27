@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-26T06:32:02.400Z",
+  "generatedAt": "2026-06-27T06:14:45.985Z",
   "graduated": [
     "BTGO",
     "FPS",
@@ -17,6 +17,34 @@
     "XE"
   ],
   "pipeline": [
+    {
+      "ticker": "COPR",
+      "company": "Idaho Copper",
+      "exchange": "NYSE",
+      "sector": "—",
+      "status": "S-1/A filed 2026-06-26",
+      "description": "Idaho Falls is the fourth most populous city in Idaho and the county seat of Bonneville County. It is the state's most populous city outside the Boise metropolitan area. As of the 2020 census, the population of Idaho Falls was 64,818. In the 2010 census, the population of Idaho Falls was 56,813, with a metro population of 133,265. As of the 2020 census, the Idaho Falls Metropolitan Statistical Area had a population of 154,855.",
+      "investors": [],
+      "competitors": [],
+      "valLow": 0.1,
+      "valHigh": 0.5,
+      "prob": 55,
+      "window": "TBD"
+    },
+    {
+      "ticker": "ITG",
+      "company": "ITG, Inc./DE/",
+      "exchange": "NYSE",
+      "sector": "—",
+      "status": "S-1/A filed 2026-06-26",
+      "description": "",
+      "investors": [],
+      "competitors": [],
+      "valLow": 0.1,
+      "valHigh": 0.5,
+      "prob": 55,
+      "window": "TBD"
+    },
     {
       "ticker": "ADBT",
       "company": "Advasa Holdings",
@@ -88,40 +116,12 @@
       "window": "TBD"
     },
     {
-      "ticker": "ITG",
-      "company": "ITG, Inc./DE/",
-      "exchange": "NYSE",
-      "sector": "—",
-      "status": "S-1/A filed 2026-06-22",
-      "description": "",
-      "investors": [],
-      "competitors": [],
-      "valLow": 0.1,
-      "valHigh": 0.5,
-      "prob": 55,
-      "window": "TBD"
-    },
-    {
       "ticker": "DPC",
       "company": "DPC Holdings Ltd",
       "exchange": "NYSE",
       "sector": "—",
       "status": "S-1/A filed 2026-06-22",
       "description": "",
-      "investors": [],
-      "competitors": [],
-      "valLow": 0.1,
-      "valHigh": 0.5,
-      "prob": 55,
-      "window": "TBD"
-    },
-    {
-      "ticker": "COPR",
-      "company": "Idaho Copper",
-      "exchange": "NYSE",
-      "sector": "—",
-      "status": "S-1/A filed 2026-06-17",
-      "description": "Idaho Falls is the fourth most populous city in Idaho and the county seat of Bonneville County. It is the state's most populous city outside the Boise metropolitan area. As of the 2020 census, the population of Idaho Falls was 64,818. In the 2010 census, the population of Idaho Falls was 56,813, with a metro population of 133,265. As of the 2020 census, the Idaho Falls Metropolitan Statistical Area had a population of 154,855.",
       "investors": [],
       "competitors": [],
       "valLow": 0.1,
@@ -177,7 +177,7 @@
       "exchange": "NYSE",
       "sector": "—",
       "status": "S-1/A filed 2026-06-12",
-      "description": "During the First World War (1914–1918), the Revolutionary Stewards or Revolutionary Shop Stewards were factory shop stewards who were independent of the official unions and freely chosen by workers in various German industries. They rejected the war policies of the German Empire and the support which parliamentary representatives of the Social Democratic Party (SPD) gave to the policies. They also played a role during the German Revolution of 1918–19.",
+      "description": "The Shop Stewards Movement was a movement that brought together shop stewards from across the United Kingdom during the First World War. It originated with the Clyde Workers Committee, the first shop stewards committee in Britain, which campaigned against the imprisonment of three of their members in 1915. Most of the committee members belonged to the Amalgamated Society of Engineers (ASE). In November 1916 the Sheffield Workers' Committee was formed when ASE members there went on strike against",
       "investors": [],
       "competitors": [],
       "valLow": 0.1,
@@ -219,8 +219,12 @@
       "exchange": "NYSE",
       "sector": "Banking",
       "status": "S-1/A filed 2026-06-12",
-      "description": "",
-      "investors": [],
+      "description": "First Union Corporation was an American bank holding company that provided commercial and retail banking services in eleven states in the eastern U.S. First Union also provided various other financial services, including mortgage banking, credit card, investment banking, investment advisory, home equity lending, asset-based lending, leasing, insurance, international and securities brokerage services and private equity through First Union Capital Partners, and through other subsidiaries.",
+      "investors": [
+        "First Union Capital Partners",
+        "home equity loan",
+        "Category:Former investment banks of the United States"
+      ],
       "competitors": [],
       "valLow": 0.1,
       "valHigh": 0.5,
