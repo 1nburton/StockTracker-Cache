@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-27T06:14:45.985Z",
+  "generatedAt": "2026-06-28T06:39:56.743Z",
   "graduated": [
     "BTGO",
     "FPS",
@@ -219,12 +219,8 @@
       "exchange": "NYSE",
       "sector": "Banking",
       "status": "S-1/A filed 2026-06-12",
-      "description": "First Union Corporation was an American bank holding company that provided commercial and retail banking services in eleven states in the eastern U.S. First Union also provided various other financial services, including mortgage banking, credit card, investment banking, investment advisory, home equity lending, asset-based lending, leasing, insurance, international and securities brokerage services and private equity through First Union Capital Partners, and through other subsidiaries.",
-      "investors": [
-        "First Union Capital Partners",
-        "home equity loan",
-        "Category:Former investment banks of the United States"
-      ],
+      "description": "",
+      "investors": [],
       "competitors": [],
       "valLow": 0.1,
       "valHigh": 0.5,
