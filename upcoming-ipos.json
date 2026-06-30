@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-29T07:09:42.018Z",
+  "generatedAt": "2026-06-30T06:33:53.634Z",
   "graduated": [
     "BTGO",
     "FPS",
@@ -17,6 +17,34 @@
     "XE"
   ],
   "pipeline": [
+    {
+      "ticker": "BLTH",
+      "company": "AMERICAN BATTERY MATERIALS",
+      "exchange": "NYSE",
+      "sector": "—",
+      "status": "S-1/A filed 2026-06-29",
+      "description": "",
+      "investors": [],
+      "competitors": [],
+      "valLow": 0.1,
+      "valHigh": 0.5,
+      "prob": 55,
+      "window": "TBD"
+    },
+    {
+      "ticker": "CTTH",
+      "company": "CTT PHARMACEUTICAL HOLDINGS",
+      "exchange": "NYSE",
+      "sector": "Pharmaceuticals",
+      "status": "S-1/A filed 2026-06-29",
+      "description": "",
+      "investors": [],
+      "competitors": [],
+      "valLow": 0.1,
+      "valHigh": 0.5,
+      "prob": 55,
+      "window": "TBD"
+    },
     {
       "ticker": "COPR",
       "company": "Idaho Copper",
@@ -144,40 +172,12 @@
       "window": "TBD"
     },
     {
-      "ticker": "CTTH",
-      "company": "CTT PHARMACEUTICAL HOLDINGS",
-      "exchange": "NYSE",
-      "sector": "Pharmaceuticals",
-      "status": "S-1/A filed 2026-06-16",
-      "description": "",
-      "investors": [],
-      "competitors": [],
-      "valLow": 0.1,
-      "valHigh": 0.5,
-      "prob": 55,
-      "window": "TBD"
-    },
-    {
-      "ticker": "BLTH",
-      "company": "AMERICAN BATTERY MATERIALS",
-      "exchange": "NYSE",
-      "sector": "—",
-      "status": "S-1/A filed 2026-06-15",
-      "description": "",
-      "investors": [],
-      "competitors": [],
-      "valLow": 0.1,
-      "valHigh": 0.5,
-      "prob": 55,
-      "window": "TBD"
-    },
-    {
       "ticker": "SWRD",
       "company": "Stewards",
       "exchange": "NYSE",
       "sector": "—",
       "status": "S-1/A filed 2026-06-12",
-      "description": "The Shop Stewards Movement was a movement that brought together shop stewards from across the United Kingdom during the First World War. It originated with the Clyde Workers Committee, the first shop stewards committee in Britain, which campaigned against the imprisonment of three of their members in 1915. Most of the committee members belonged to the Amalgamated Society of Engineers (ASE). In November 1916 the Sheffield Workers' Committee was formed when ASE members there went on strike against",
+      "description": "During the First World War (1914–1918), the Revolutionary Stewards or Revolutionary Shop Stewards were factory shop stewards who were independent of the official unions and freely chosen by workers in various German industries. They rejected the war policies of the German Empire and the support which parliamentary representatives of the Social Democratic Party (SPD) gave to the policies. They also played a role during the German Revolution of 1918–19.",
       "investors": [],
       "competitors": [],
       "valLow": 0.1,
@@ -219,8 +219,12 @@
       "exchange": "NYSE",
       "sector": "Banking",
       "status": "S-1/A filed 2026-06-12",
-      "description": "",
-      "investors": [],
+      "description": "First Union Corporation was an American bank holding company that provided commercial and retail banking services in eleven states in the eastern U.S. First Union also provided various other financial services, including mortgage banking, credit card, investment banking, investment advisory, home equity lending, asset-based lending, leasing, insurance, international and securities brokerage services and private equity through First Union Capital Partners, and through other subsidiaries.",
+      "investors": [
+        "First Union Capital Partners",
+        "home equity loan",
+        "Category:Former investment banks of the United States"
+      ],
       "competitors": [],
       "valLow": 0.1,
       "valHigh": 0.5,
