@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-01T06:55:04.183Z",
+  "generatedAt": "2026-07-02T06:21:03.284Z",
   "graduated": [
     "BTGO",
     "FPS",
@@ -17,6 +17,48 @@
     "XE"
   ],
   "pipeline": [
+    {
+      "ticker": "SWRD",
+      "company": "Stewards",
+      "exchange": "NYSE",
+      "sector": "—",
+      "status": "S-1/A filed 2026-07-01",
+      "description": "The Shop Stewards Movement was a movement that brought together shop stewards from across the United Kingdom during the First World War. It originated with the Clyde Workers Committee, the first shop stewards committee in Britain, which campaigned against the imprisonment of three of their members in 1915. Most of the committee members belonged to the Amalgamated Society of Engineers (ASE). In November 1916 the Sheffield Workers' Committee was formed when ASE members there went on strike against",
+      "investors": [],
+      "competitors": [],
+      "valLow": 0.1,
+      "valHigh": 0.5,
+      "prob": 55,
+      "window": "TBD"
+    },
+    {
+      "ticker": "VAT",
+      "company": "VARSAL TECH",
+      "exchange": "NYSE",
+      "sector": "—",
+      "status": "S-1/A filed 2026-07-01",
+      "description": "",
+      "investors": [],
+      "competitors": [],
+      "valLow": 0.1,
+      "valHigh": 0.5,
+      "prob": 55,
+      "window": "TBD"
+    },
+    {
+      "ticker": "EMI",
+      "company": "Encore Medical",
+      "exchange": "NYSE",
+      "sector": "—",
+      "status": "S-1/A filed 2026-07-01",
+      "description": "",
+      "investors": [],
+      "competitors": [],
+      "valLow": 0.1,
+      "valHigh": 0.5,
+      "prob": 55,
+      "window": "TBD"
+    },
     {
       "ticker": "COPR",
       "company": "Idaho Copper",
@@ -186,20 +228,6 @@
       "window": "TBD"
     },
     {
-      "ticker": "SWRD",
-      "company": "Stewards",
-      "exchange": "NYSE",
-      "sector": "—",
-      "status": "S-1/A filed 2026-06-12",
-      "description": "The Shop Stewards Movement was a movement that brought together shop stewards from across the United Kingdom during the First World War. It originated with the Clyde Workers Committee, the first shop stewards committee in Britain, which campaigned against the imprisonment of three of their members in 1915. Most of the committee members belonged to the Amalgamated Society of Engineers (ASE). In November 1916 the Sheffield Workers' Committee was formed when ASE members there went on strike against",
-      "investors": [],
-      "competitors": [],
-      "valLow": 0.1,
-      "valHigh": 0.5,
-      "prob": 55,
-      "window": "TBD"
-    },
-    {
       "ticker": "FBDT",
       "company": "First Breach",
       "exchange": "NYSE",
@@ -308,20 +336,6 @@
       "sector": "Banking",
       "status": "S-1/A filed 2026-06-08",
       "description": "Forbright Bank is an FDIC-insured American bank headquartered in Chevy Chase, Maryland. The bank holds over $7 billion in assets. The bank’s offers environmentally conscious online banking and direct lending products. As of 2021, John Delaney leads the company as Executive Chairman.",
-      "investors": [],
-      "competitors": [],
-      "valLow": 0.1,
-      "valHigh": 0.5,
-      "prob": 55,
-      "window": "TBD"
-    },
-    {
-      "ticker": "RKAM",
-      "company": "ROKIT America",
-      "exchange": "NYSE",
-      "sector": "Pharmaceuticals",
-      "status": "S-1/A filed 2026-06-04",
-      "description": "",
       "investors": [],
       "competitors": [],
       "valLow": 0.1,
