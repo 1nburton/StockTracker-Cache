@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-03T06:14:45.140Z",
+  "generatedAt": "2026-07-04T06:07:23.012Z",
   "graduated": [
     "BTGO",
     "FPS",
@@ -23,7 +23,7 @@
       "exchange": "NYSE",
       "sector": "—",
       "status": "S-1/A filed 2026-07-01",
-      "description": "The Shop Stewards Movement was a movement that brought together shop stewards from across the United Kingdom during the First World War. It originated with the Clyde Workers Committee, the first shop stewards committee in Britain, which campaigned against the imprisonment of three of their members in 1915. Most of the committee members belonged to the Amalgamated Society of Engineers (ASE). In November 1916 the Sheffield Workers' Committee was formed when ASE members there went on strike against",
+      "description": "During the First World War (1914–1918), the Revolutionary Stewards or Revolutionary Shop Stewards were factory shop stewards who were independent of the official unions and freely chosen by workers in various German industries. They rejected the war policies of the German Empire and the support which parliamentary representatives of the Social Democratic Party (SPD) gave to the policies. They also played a role during the German Revolution of 1918–19.",
       "investors": [],
       "competitors": [],
       "valLow": 0.1,
@@ -116,20 +116,6 @@
       "window": "TBD"
     },
     {
-      "ticker": "ITG",
-      "company": "ITG, Inc./DE/",
-      "exchange": "NYSE",
-      "sector": "—",
-      "status": "S-1/A filed 2026-06-26",
-      "description": "",
-      "investors": [],
-      "competitors": [],
-      "valLow": 0.1,
-      "valHigh": 0.5,
-      "prob": 55,
-      "window": "TBD"
-    },
-    {
       "ticker": "ADBT",
       "company": "Advasa Holdings",
       "exchange": "NYSE",
@@ -164,20 +150,6 @@
       "sector": "Mining",
       "status": "S-1/A filed 2026-06-24",
       "description": "",
-      "investors": [],
-      "competitors": [],
-      "valLow": 0.1,
-      "valHigh": 0.5,
-      "prob": 55,
-      "window": "TBD"
-    },
-    {
-      "ticker": "LIME",
-      "company": "Neutron Holdings",
-      "exchange": "NYSE",
-      "sector": "Software",
-      "status": "S-1/A filed 2026-06-22",
-      "description": "A neutron star is the gravitationally collapsed core of a massive supergiant star. It results from the supernova explosion of a massive star—combined with gravitational collapse—that compresses the core past white dwarf star density to that of atomic nuclei. Surpassed only by black holes, neutron stars are the second-smallest- and second-densest-known class of stellar objects. Neutron stars have a radius on the order of 10 kilometers and a mass of about 1.4 solar masses (M☉). Stars that collapse",
       "investors": [],
       "competitors": [],
       "valLow": 0.1,
