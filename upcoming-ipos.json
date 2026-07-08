@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-07T06:29:49.620Z",
+  "generatedAt": "2026-07-08T05:42:25.374Z",
   "graduated": [
     "BTGO",
     "FPS",
@@ -17,6 +17,20 @@
     "XE"
   ],
   "pipeline": [
+    {
+      "ticker": "STDN",
+      "company": "Standard Nuclear",
+      "exchange": "NYSE",
+      "sector": "—",
+      "status": "S-1/A filed 2026-07-07",
+      "description": "The caesium standard is a primary frequency standard in which the photon absorption by transitions between the two hyperfine ground states of caesium-133 atoms is used to control the output frequency. The first caesium clock was built by Louis Essen in 1955 at the National Physical Laboratory in the UK and promoted worldwide by Gernot M. R. Winkler of the United States Naval Observatory.",
+      "investors": [],
+      "competitors": [],
+      "valLow": 0.1,
+      "valHigh": 0.5,
+      "prob": 55,
+      "window": "TBD"
+    },
     {
       "ticker": "CSQR",
       "company": "Csquare",
@@ -251,34 +265,6 @@
       "exchange": "NYSE",
       "sector": "Utilities",
       "status": "S-1/A filed 2026-06-10",
-      "description": "",
-      "investors": [],
-      "competitors": [],
-      "valLow": 0.1,
-      "valHigh": 0.5,
-      "prob": 55,
-      "window": "TBD"
-    },
-    {
-      "ticker": "STA",
-      "company": "Starton Holdings",
-      "exchange": "NYSE",
-      "sector": "Pharmaceuticals",
-      "status": "S-1/A filed 2026-06-09",
-      "description": "",
-      "investors": [],
-      "competitors": [],
-      "valLow": 0.1,
-      "valHigh": 0.5,
-      "prob": 55,
-      "window": "TBD"
-    },
-    {
-      "ticker": "VRHI",
-      "company": "Veri MedTech Holdings",
-      "exchange": "NYSE",
-      "sector": "Technology Services",
-      "status": "S-1/A filed 2026-06-09",
       "description": "",
       "investors": [],
       "competitors": [],
