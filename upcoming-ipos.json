@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-08T05:42:25.374Z",
+  "generatedAt": "2026-07-09T06:25:59.588Z",
   "graduated": [
     "BTGO",
     "FPS",
@@ -252,20 +252,6 @@
       "sector": "Software",
       "status": "S-1/A filed 2026-06-11",
       "description": "Marydale \"Maymay\" Entrata is a Filipino actress and singer. Having achieved mainstream success across television, music and fashion, she came to prominence after winning the reality show Pinoy Big Brother: Lucky 7. She is the first Filipina to walk at the Arab Fashion Week. Her accolades include a FAMAS Award, an Awit Award, two PMPC Star Awards for Music and a Box Office Entertainment Awards, in addition to a nomination for an MTV Europe Music Award.",
-      "investors": [],
-      "competitors": [],
-      "valLow": 0.1,
-      "valHigh": 0.5,
-      "prob": 55,
-      "window": "TBD"
-    },
-    {
-      "ticker": "FISN",
-      "company": "DEEP FISSION",
-      "exchange": "NYSE",
-      "sector": "Utilities",
-      "status": "S-1/A filed 2026-06-10",
-      "description": "",
       "investors": [],
       "competitors": [],
       "valLow": 0.1,
