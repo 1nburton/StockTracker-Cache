@@ -1,16 +1,16 @@
 {
-  "ts": 1783321082053,
-  "asOf": "2026-07-06T06:58:02.053Z",
+  "ts": 1784005983333,
+  "asOf": "2026-07-14T05:13:03.333Z",
   "source": "live",
   "sectors": [
     {
       "name": "Technology",
       "etf": "XLK",
       "currentWeight": 31.5,
-      "projectedWeight": 29.1,
-      "weightShift": -2.4,
-      "ytdReturn": 25.15,
-      "ytdZScore": 1.92,
+      "projectedWeight": 28.9,
+      "weightShift": -2.6,
+      "ytdReturn": 25.63,
+      "ytdZScore": 1.81,
       "heat": "hot",
       "projectedHeat": "warm",
       "thesis": "Extended on AI euphoria; multiple compression risk rises as rate cuts get priced out.",
@@ -21,16 +21,16 @@
         "AVGO",
         "ORCL"
       ],
-      "lastPrice": 180.59
+      "lastPrice": 181.28
     },
     {
       "name": "Financials",
       "etf": "XLF",
       "currentWeight": 13.2,
-      "projectedWeight": 14.3,
-      "weightShift": 1.1,
-      "ytdReturn": 1.26,
-      "ytdZScore": -0.88,
+      "projectedWeight": 14.2,
+      "weightShift": 1,
+      "ytdReturn": 2.08,
+      "ytdZScore": -0.75,
       "heat": "cool",
       "projectedHeat": "neutral",
       "thesis": "Sell-off overdone relative to credit fundamentals; re-accumulate on further weakness.",
@@ -41,19 +41,19 @@
         "MA",
         "BAC"
       ],
-      "lastPrice": 55.62
+      "lastPrice": 56.07
     },
     {
       "name": "Health Care",
       "etf": "XLV",
       "currentWeight": 11.8,
-      "projectedWeight": 11.8,
-      "weightShift": 0,
-      "ytdReturn": 5.29,
-      "ytdZScore": -0.4,
-      "heat": "neutral",
+      "projectedWeight": 12.7,
+      "weightShift": 0.9,
+      "ytdReturn": 3.79,
+      "ytdZScore": -0.56,
+      "heat": "cool",
       "projectedHeat": "neutral",
-      "thesis": "Policy uncertainty (drug pricing) balanced against aging demographics tailwind.",
+      "thesis": "Beaten-down biotech and MedTech sub-sectors offer asymmetric upside into year-end.",
       "topHoldings": [
         "LLY",
         "UNH",
@@ -61,16 +61,16 @@
         "ABBV",
         "MRK"
       ],
-      "lastPrice": 163.74
+      "lastPrice": 161.41
     },
     {
       "name": "Consumer Discretionary",
       "etf": "XLY",
       "currentWeight": 10.1,
-      "projectedWeight": 11,
-      "weightShift": 0.9,
-      "ytdReturn": -1.04,
-      "ytdZScore": -1.14,
+      "projectedWeight": 10.9,
+      "weightShift": 0.8,
+      "ytdReturn": -1.95,
+      "ytdZScore": -1.19,
       "heat": "cool",
       "projectedHeat": "neutral",
       "thesis": "Consumer sentiment trough often precedes sector recovery; positioning near multi-year lows.",
@@ -81,7 +81,7 @@
         "MCD",
         "NKE"
       ],
-      "lastPrice": 117.12
+      "lastPrice": 116.04
     },
     {
       "name": "Communication Services",
@@ -89,8 +89,8 @@
       "currentWeight": 8.9,
       "projectedWeight": 9.6,
       "weightShift": 0.7,
-      "ytdReturn": -6.24,
-      "ytdZScore": -1.75,
+      "ytdReturn": -4.54,
+      "ytdZScore": -1.47,
       "heat": "cool",
       "projectedHeat": "neutral",
       "thesis": "Valuation reset has corrected the overshoot; re-rate catalyst is ad-spend inflection.",
@@ -101,16 +101,16 @@
         "NFLX",
         "T"
       ],
-      "lastPrice": 109.6
+      "lastPrice": 111.59
     },
     {
       "name": "Industrials",
       "etf": "XLI",
       "currentWeight": 8.2,
-      "projectedWeight": 8,
-      "weightShift": -0.2,
-      "ytdReturn": 16.41,
-      "ytdZScore": 0.9,
+      "projectedWeight": 7.9,
+      "weightShift": -0.3,
+      "ytdReturn": 14.17,
+      "ytdZScore": 0.57,
       "heat": "warm",
       "projectedHeat": "warm",
       "thesis": "Backlog visibility strong; sector benefits from onshoring themes and grid investment.",
@@ -121,7 +121,7 @@
         "HON",
         "UNP"
       ],
-      "lastPrice": 183.91
+      "lastPrice": 180.37
     },
     {
       "name": "Consumer Staples",
@@ -129,8 +129,8 @@
       "currentWeight": 5.8,
       "projectedWeight": 5.8,
       "weightShift": 0,
-      "ytdReturn": 9.4,
-      "ytdZScore": 0.08,
+      "ytdReturn": 8.88,
+      "ytdZScore": -0.01,
       "heat": "neutral",
       "projectedHeat": "neutral",
       "thesis": "Valuation fair; sector acts as portfolio ballast rather than alpha source.",
@@ -141,19 +141,19 @@
         "COST",
         "WMT"
       ],
-      "lastPrice": 84.99
+      "lastPrice": 84.59
     },
     {
       "name": "Energy",
       "etf": "XLE",
       "currentWeight": 3.9,
-      "projectedWeight": 3.8,
-      "weightShift": -0.1,
-      "ytdReturn": 16.58,
-      "ytdZScore": 0.92,
-      "heat": "warm",
+      "projectedWeight": 3.6,
+      "weightShift": -0.3,
+      "ytdReturn": 24.29,
+      "ytdZScore": 1.67,
+      "heat": "hot",
       "projectedHeat": "warm",
-      "thesis": "Free-cash-flow generation strong; OPEC+ supply discipline is key swing factor.",
+      "thesis": "Commodity cycle at peak; supply response and demand destruction headwinds ahead.",
       "topHoldings": [
         "XOM",
         "CVX",
@@ -161,19 +161,19 @@
         "EOG",
         "SLB"
       ],
-      "lastPrice": 53.22
+      "lastPrice": 56.74
     },
     {
       "name": "Materials",
       "etf": "XLB",
       "currentWeight": 2.4,
-      "projectedWeight": 2.3,
-      "weightShift": -0.1,
-      "ytdReturn": 12.77,
-      "ytdZScore": 0.47,
-      "heat": "warm",
-      "projectedHeat": "warm",
-      "thesis": "Copper demand tied to electrification is a structural tailwind amid near-term cyclicality.",
+      "projectedWeight": 2.4,
+      "weightShift": 0,
+      "ytdReturn": 9.67,
+      "ytdZScore": 0.08,
+      "heat": "neutral",
+      "projectedHeat": "neutral",
+      "thesis": "Sector tracks global PMI cycle; watch China demand and USD trajectory.",
       "topHoldings": [
         "LIN",
         "APD",
@@ -181,7 +181,7 @@
         "FCX",
         "NUE"
       ],
-      "lastPrice": 52.01
+      "lastPrice": 50.58
     },
     {
       "name": "Real Estate",
@@ -189,8 +189,8 @@
       "currentWeight": 2.2,
       "projectedWeight": 2.2,
       "weightShift": 0,
-      "ytdReturn": 10.65,
-      "ytdZScore": 0.22,
+      "ytdReturn": 10.7,
+      "ytdZScore": 0.19,
       "heat": "neutral",
       "projectedHeat": "neutral",
       "thesis": "Waiting for rate clarity; long-duration earnings sensitivity caps near-term upside.",
@@ -201,7 +201,7 @@
         "CCI",
         "PSA"
       ],
-      "lastPrice": 44.68
+      "lastPrice": 44.7
     },
     {
       "name": "Utilities",
@@ -209,8 +209,8 @@
       "currentWeight": 2,
       "projectedWeight": 2,
       "weightShift": 0,
-      "ytdReturn": 5.97,
-      "ytdZScore": -0.32,
+      "ytdReturn": 5.88,
+      "ytdZScore": -0.34,
       "heat": "neutral",
       "projectedHeat": "neutral",
       "thesis": "Power demand tailwind emerging; rate path is the key variable.",
@@ -221,7 +221,7 @@
         "D",
         "AEP"
       ],
-      "lastPrice": 45.76
+      "lastPrice": 45.72
     }
   ],
   "macro": [
@@ -276,6 +276,6 @@
       "drillPrompt": "Dollar index at 100.5 and weakening. How does USD direction affect sector rotation across Technology, Materials, Energy, and multinationals?"
     }
   ],
-  "marketState": "Mid-cycle · Balanced rotation · Selective opportunities",
-  "narrative": "The rotation picture shows Technology running hot and technically extended, while Financials and Consumer Discretionary sit at oversold extremes with mean-reversion potential. Complacency in options markets suggests the current regime favours trimming momentum and rotating into laggards with improving macro sensitivity. The 3–6 month projected weights reflect a broadening of market leadership away from concentrated growth exposures."
+  "marketState": "Oversold broad market · Mean-reversion setup",
+  "narrative": "The rotation picture shows Technology and Energy running hot and technically extended, while Financials and Health Care sit at oversold extremes with mean-reversion potential. Complacency in options markets suggests the current regime favours trimming momentum and rotating into laggards with improving macro sensitivity. The 3–6 month projected weights reflect a broadening of market leadership away from concentrated growth exposures."
 }
