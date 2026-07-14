@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-13T05:59:00.314Z",
+  "generatedAt": "2026-07-14T05:12:49.136Z",
   "graduated": [
     "BTGO",
     "FPS",
@@ -17,6 +17,48 @@
     "XE"
   ],
   "pipeline": [
+    {
+      "ticker": "ADBT",
+      "company": "Advasa Holdings",
+      "exchange": "NYSE",
+      "sector": "Software",
+      "status": "S-1/A filed 2026-07-13",
+      "description": "",
+      "investors": [],
+      "competitors": [],
+      "valLow": 0.1,
+      "valHigh": 0.5,
+      "prob": 55,
+      "window": "TBD"
+    },
+    {
+      "ticker": "STA",
+      "company": "Starton Holdings",
+      "exchange": "NYSE",
+      "sector": "Pharmaceuticals",
+      "status": "S-1/A filed 2026-07-13",
+      "description": "",
+      "investors": [],
+      "competitors": [],
+      "valLow": 0.1,
+      "valHigh": 0.5,
+      "prob": 55,
+      "window": "TBD"
+    },
+    {
+      "ticker": "CTTH",
+      "company": "CTT PHARMACEUTICAL HOLDINGS",
+      "exchange": "NYSE",
+      "sector": "Pharmaceuticals",
+      "status": "S-1/A filed 2026-07-13",
+      "description": "",
+      "investors": [],
+      "competitors": [],
+      "valLow": 0.1,
+      "valHigh": 0.5,
+      "prob": 55,
+      "window": "TBD"
+    },
     {
       "ticker": "STDN",
       "company": "Standard Nuclear",
@@ -88,20 +130,6 @@
       "window": "TBD"
     },
     {
-      "ticker": "COPR",
-      "company": "Idaho Copper",
-      "exchange": "NYSE",
-      "sector": "—",
-      "status": "S-1/A filed 2026-06-30",
-      "description": "Idaho Falls is the fourth most populous city in Idaho and the county seat of Bonneville County. It is the state's most populous city outside the Boise metropolitan area. As of the 2020 census, the population of Idaho Falls was 64,818. In the 2010 census, the population of Idaho Falls was 56,813, with a metro population of 133,265. As of the 2020 census, the Idaho Falls Metropolitan Statistical Area had a population of 154,855.",
-      "investors": [],
-      "competitors": [],
-      "valLow": 0.1,
-      "valHigh": 0.5,
-      "prob": 55,
-      "window": "TBD"
-    },
-    {
       "ticker": "GYGY",
       "company": "Game Your Game",
       "exchange": "NYSE",
@@ -121,34 +149,6 @@
       "exchange": "NYSE",
       "sector": "—",
       "status": "S-1/A filed 2026-06-29",
-      "description": "",
-      "investors": [],
-      "competitors": [],
-      "valLow": 0.1,
-      "valHigh": 0.5,
-      "prob": 55,
-      "window": "TBD"
-    },
-    {
-      "ticker": "CTTH",
-      "company": "CTT PHARMACEUTICAL HOLDINGS",
-      "exchange": "NYSE",
-      "sector": "Pharmaceuticals",
-      "status": "S-1/A filed 2026-06-29",
-      "description": "",
-      "investors": [],
-      "competitors": [],
-      "valLow": 0.1,
-      "valHigh": 0.5,
-      "prob": 55,
-      "window": "TBD"
-    },
-    {
-      "ticker": "ADBT",
-      "company": "Advasa Holdings",
-      "exchange": "NYSE",
-      "sector": "Software",
-      "status": "S-1/A filed 2026-06-25",
       "description": "",
       "investors": [],
       "competitors": [],
