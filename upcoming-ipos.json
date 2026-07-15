@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-14T05:12:49.136Z",
+  "generatedAt": "2026-07-15T05:11:57.461Z",
   "graduated": [
     "BTGO",
     "FPS",
@@ -17,6 +17,20 @@
     "XE"
   ],
   "pipeline": [
+    {
+      "ticker": "HFUS",
+      "company": "Hartford Creative Group",
+      "exchange": "NYSE",
+      "sector": "Technology Services",
+      "status": "S-1/A filed 2026-07-14",
+      "description": "A circus fire occurred on July 6, 1944, in Hartford, Connecticut, killing at least 167 people and leaving more than 700 injured. It was one of the worst fire disasters in United States history. The fire broke out during an afternoon performance of the Ringling Bros. and Barnum & Bailey Circus that was attended by 6,000 to 8,000 people. It was the deadliest disaster ever recorded in Connecticut.",
+      "investors": [],
+      "competitors": [],
+      "valLow": 0.1,
+      "valHigh": 0.5,
+      "prob": 55,
+      "window": "TBD"
+    },
     {
       "ticker": "ADBT",
       "company": "Advasa Holdings",
@@ -93,7 +107,7 @@
       "exchange": "NYSE",
       "sector": "—",
       "status": "S-1/A filed 2026-07-01",
-      "description": "The Shop Stewards Movement was a movement that brought together shop stewards from across the United Kingdom during the First World War. It originated with the Clyde Workers Committee, the first shop stewards committee in Britain, which campaigned against the imprisonment of three of their members in 1915. Most of the committee members belonged to the Amalgamated Society of Engineers (ASE). In November 1916 the Sheffield Workers' Committee was formed when ASE members there went on strike against",
+      "description": "",
       "investors": [],
       "competitors": [],
       "valLow": 0.1,
@@ -177,20 +191,6 @@
       "exchange": "NYSE",
       "sector": "—",
       "status": "S-1/A filed 2026-06-22",
-      "description": "",
-      "investors": [],
-      "competitors": [],
-      "valLow": 0.1,
-      "valHigh": 0.5,
-      "prob": 55,
-      "window": "TBD"
-    },
-    {
-      "ticker": "CNTM",
-      "company": "ConnectM Technology Solutions",
-      "exchange": "NYSE",
-      "sector": "—",
-      "status": "S-1/A filed 2026-06-17",
       "description": "",
       "investors": [],
       "competitors": [],
