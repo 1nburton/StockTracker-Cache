@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-15T05:11:57.461Z",
+  "generatedAt": "2026-07-16T05:30:41.524Z",
   "graduated": [
     "BTGO",
     "FPS",
@@ -17,6 +17,34 @@
     "XE"
   ],
   "pipeline": [
+    {
+      "ticker": "STDN",
+      "company": "Standard Nuclear",
+      "exchange": "NYSE",
+      "sector": "—",
+      "status": "S-1/A filed 2026-07-15",
+      "description": "The caesium standard is a primary frequency standard in which the photon absorption by transitions between the two hyperfine ground states of caesium-133 atoms is used to control the output frequency. The first caesium clock was built by Louis Essen in 1955 at the National Physical Laboratory in the UK and promoted worldwide by Gernot M. R. Winkler of the United States Naval Observatory.",
+      "investors": [],
+      "competitors": [],
+      "valLow": 0.1,
+      "valHigh": 0.5,
+      "prob": 55,
+      "window": "TBD"
+    },
+    {
+      "ticker": "EMI",
+      "company": "Encore Medical",
+      "exchange": "NYSE",
+      "sector": "—",
+      "status": "S-1/A filed 2026-07-15",
+      "description": "",
+      "investors": [],
+      "competitors": [],
+      "valLow": 0.1,
+      "valHigh": 0.5,
+      "prob": 55,
+      "window": "TBD"
+    },
     {
       "ticker": "HFUS",
       "company": "Hartford Creative Group",
@@ -74,20 +102,6 @@
       "window": "TBD"
     },
     {
-      "ticker": "STDN",
-      "company": "Standard Nuclear",
-      "exchange": "NYSE",
-      "sector": "—",
-      "status": "S-1/A filed 2026-07-07",
-      "description": "The caesium standard is a primary frequency standard in which the photon absorption by transitions between the two hyperfine ground states of caesium-133 atoms is used to control the output frequency. The first caesium clock was built by Louis Essen in 1955 at the National Physical Laboratory in the UK and promoted worldwide by Gernot M. R. Winkler of the United States Naval Observatory.",
-      "investors": [],
-      "competitors": [],
-      "valLow": 0.1,
-      "valHigh": 0.5,
-      "prob": 55,
-      "window": "TBD"
-    },
-    {
       "ticker": "CSQR",
       "company": "Csquare",
       "exchange": "NYSE",
@@ -118,20 +132,6 @@
     {
       "ticker": "VAT",
       "company": "VARSAL TECH",
-      "exchange": "NYSE",
-      "sector": "—",
-      "status": "S-1/A filed 2026-07-01",
-      "description": "",
-      "investors": [],
-      "competitors": [],
-      "valLow": 0.1,
-      "valHigh": 0.5,
-      "prob": 55,
-      "window": "TBD"
-    },
-    {
-      "ticker": "EMI",
-      "company": "Encore Medical",
       "exchange": "NYSE",
       "sector": "—",
       "status": "S-1/A filed 2026-07-01",
