@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-16T05:30:41.524Z",
+  "generatedAt": "2026-07-17T05:34:03.283Z",
   "graduated": [
     "BTGO",
     "FPS",
@@ -14,16 +14,17 @@
     "CRCL",
     "CALM",
     "EXYN",
-    "XE"
+    "XE",
+    "QMLS"
   ],
   "pipeline": [
     {
-      "ticker": "STDN",
-      "company": "Standard Nuclear",
+      "ticker": "BLTH",
+      "company": "AMERICAN BATTERY MATERIALS",
       "exchange": "NYSE",
       "sector": "—",
-      "status": "S-1/A filed 2026-07-15",
-      "description": "The caesium standard is a primary frequency standard in which the photon absorption by transitions between the two hyperfine ground states of caesium-133 atoms is used to control the output frequency. The first caesium clock was built by Louis Essen in 1955 at the National Physical Laboratory in the UK and promoted worldwide by Gernot M. R. Winkler of the United States Naval Observatory.",
+      "status": "S-1/A filed 2026-07-16",
+      "description": "",
       "investors": [],
       "competitors": [],
       "valLow": 0.1,
@@ -102,20 +103,6 @@
       "window": "TBD"
     },
     {
-      "ticker": "CSQR",
-      "company": "Csquare",
-      "exchange": "NYSE",
-      "sector": "—",
-      "status": "S-1/A filed 2026-07-06",
-      "description": "",
-      "investors": [],
-      "competitors": [],
-      "valLow": 0.1,
-      "valHigh": 0.5,
-      "prob": 55,
-      "window": "TBD"
-    },
-    {
       "ticker": "SWRD",
       "company": "Stewards",
       "exchange": "NYSE",
@@ -158,39 +145,11 @@
       "window": "TBD"
     },
     {
-      "ticker": "BLTH",
-      "company": "AMERICAN BATTERY MATERIALS",
-      "exchange": "NYSE",
-      "sector": "—",
-      "status": "S-1/A filed 2026-06-29",
-      "description": "",
-      "investors": [],
-      "competitors": [],
-      "valLow": 0.1,
-      "valHigh": 0.5,
-      "prob": 55,
-      "window": "TBD"
-    },
-    {
       "ticker": "SIND",
       "company": "Sinda Ltd.",
       "exchange": "NYSE",
       "sector": "Mining",
       "status": "S-1/A filed 2026-06-24",
-      "description": "",
-      "investors": [],
-      "competitors": [],
-      "valLow": 0.1,
-      "valHigh": 0.5,
-      "prob": 55,
-      "window": "TBD"
-    },
-    {
-      "ticker": "DPC",
-      "company": "DPC Holdings Ltd",
-      "exchange": "NYSE",
-      "sector": "—",
-      "status": "S-1/A filed 2026-06-22",
       "description": "",
       "investors": [],
       "competitors": [],
