@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-20T05:59:57.405Z",
+  "generatedAt": "2026-07-21T05:41:07.083Z",
   "graduated": [
     "BTGO",
     "FPS",
@@ -18,6 +18,66 @@
     "QMLS"
   ],
   "pipeline": [
+    {
+      "ticker": "GYGY",
+      "company": "Game Your Game",
+      "exchange": "NYSE",
+      "sector": "Software",
+      "status": "S-1/A filed 2026-07-20",
+      "description": "Game Changer is an American comedy panel game show on Dropout created and hosted by Sam Reich which started in 2019. The show follows players, typically three comedians, who participate in a new game every episode, with the players kept unaware of the premise and rules of the game beforehand. According to Polygon, the show \"combines improv comedy, puzzle solving, fierce competition, and a prankster ethos.\" Episodes of Game Changer have led to four spinoff shows on Dropout: Dirty Laundry, Make So",
+      "investors": [],
+      "competitors": [],
+      "valLow": 0.1,
+      "valHigh": 0.5,
+      "prob": 55,
+      "window": "TBD"
+    },
+    {
+      "ticker": "SCTX",
+      "company": "Scribe Therapeutics",
+      "exchange": "NYSE",
+      "sector": "Pharmaceuticals",
+      "status": "S-1/A filed 2026-07-20",
+      "description": "",
+      "investors": [],
+      "competitors": [],
+      "valLow": 0.1,
+      "valHigh": 0.5,
+      "prob": 55,
+      "window": "TBD"
+    },
+    {
+      "ticker": "JMKE",
+      "company": "Jersey Mike's Subs",
+      "exchange": "NYSE",
+      "sector": "—",
+      "status": "S-1/A filed 2026-07-20",
+      "description": "A Sub Above, LLC, doing business as Jersey Mike's Subs, is an American multinational submarine sandwich chain headquartered in Manasquan, New Jersey. The Jersey Mike's franchise has about 3,500 locations, with locations in the United States, Canada, and elsewhere.",
+      "investors": [],
+      "competitors": [],
+      "valLow": 0.1,
+      "valHigh": 0.5,
+      "prob": 55,
+      "window": "TBD"
+    },
+    {
+      "ticker": "REF",
+      "company": "Reformation",
+      "exchange": "NYSE",
+      "sector": "—",
+      "status": "S-1/A filed 2026-07-20",
+      "description": "The Reformation, also known as the Protestant Reformation or the European Reformation, was a major theological movement in Western Christianity in 16th-century Europe that posed a religious and political challenge to the papacy and the authority of the Catholic Church hierarchy. Towards the end of the Renaissance, the Reformation marked the beginning of Protestantism. It is considered one of the events that signified the end of the Middle Ages and the beginning of the early modern period in Euro",
+      "investors": [
+        "Congregation (group of houses)",
+        "human capital",
+        "Orion Publishing Group"
+      ],
+      "competitors": [],
+      "valLow": 0.1,
+      "valHigh": 0.5,
+      "prob": 55,
+      "window": "TBD"
+    },
     {
       "ticker": "CRTD",
       "company": "Creatd",
@@ -136,34 +196,6 @@
       "exchange": "NYSE",
       "sector": "—",
       "status": "S-1/A filed 2026-07-01",
-      "description": "",
-      "investors": [],
-      "competitors": [],
-      "valLow": 0.1,
-      "valHigh": 0.5,
-      "prob": 55,
-      "window": "TBD"
-    },
-    {
-      "ticker": "GYGY",
-      "company": "Game Your Game",
-      "exchange": "NYSE",
-      "sector": "Software",
-      "status": "S-1/A filed 2026-06-30",
-      "description": "Game Changer is an American comedy panel game show on Dropout created and hosted by Sam Reich which started in 2019. The show follows players, typically three comedians, who participate in a new game every episode, with the players kept unaware of the premise and rules of the game beforehand. According to Polygon, the show \"combines improv comedy, puzzle solving, fierce competition, and a prankster ethos.\" Episodes of Game Changer have led to four spinoff shows on Dropout: Dirty Laundry, Make So",
-      "investors": [],
-      "competitors": [],
-      "valLow": 0.1,
-      "valHigh": 0.5,
-      "prob": 55,
-      "window": "TBD"
-    },
-    {
-      "ticker": "SIND",
-      "company": "Sinda Ltd.",
-      "exchange": "NYSE",
-      "sector": "Mining",
-      "status": "S-1/A filed 2026-06-24",
       "description": "",
       "investors": [],
       "competitors": [],
