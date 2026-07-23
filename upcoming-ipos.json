@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-22T05:39:34.452Z",
+  "generatedAt": "2026-07-23T05:45:45.890Z",
   "graduated": [
     "BTGO",
     "FPS",
@@ -18,6 +18,34 @@
     "QMLS"
   ],
   "pipeline": [
+    {
+      "ticker": "VAT",
+      "company": "VARSAL TECH",
+      "exchange": "NYSE",
+      "sector": "—",
+      "status": "S-1/A filed 2026-07-22",
+      "description": "",
+      "investors": [],
+      "competitors": [],
+      "valLow": 0.1,
+      "valHigh": 0.5,
+      "prob": 55,
+      "window": "TBD"
+    },
+    {
+      "ticker": "MITI",
+      "company": "Mitesco",
+      "exchange": "NYSE",
+      "sector": "—",
+      "status": "S-1/A filed 2026-07-22",
+      "description": "",
+      "investors": [],
+      "competitors": [],
+      "valLow": 0.1,
+      "valHigh": 0.5,
+      "prob": 55,
+      "window": "TBD"
+    },
     {
       "ticker": "GYGY",
       "company": "Game Your Game",
@@ -179,20 +207,6 @@
     {
       "ticker": "SWRD",
       "company": "Stewards",
-      "exchange": "NYSE",
-      "sector": "—",
-      "status": "S-1/A filed 2026-07-01",
-      "description": "",
-      "investors": [],
-      "competitors": [],
-      "valLow": 0.1,
-      "valHigh": 0.5,
-      "prob": 55,
-      "window": "TBD"
-    },
-    {
-      "ticker": "VAT",
-      "company": "VARSAL TECH",
       "exchange": "NYSE",
       "sector": "—",
       "status": "S-1/A filed 2026-07-01",
