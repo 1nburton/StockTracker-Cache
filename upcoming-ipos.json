@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-23T05:45:45.890Z",
+  "generatedAt": "2026-07-24T05:41:22.598Z",
   "graduated": [
     "BTGO",
     "FPS",
@@ -18,6 +18,52 @@
     "QMLS"
   ],
   "pipeline": [
+    {
+      "ticker": "BLTH",
+      "company": "AMERICAN BATTERY MATERIALS",
+      "exchange": "NYSE",
+      "sector": "—",
+      "status": "S-1/A filed 2026-07-23",
+      "description": "",
+      "investors": [],
+      "competitors": [],
+      "valLow": 0.1,
+      "valHigh": 0.5,
+      "prob": 55,
+      "window": "TBD"
+    },
+    {
+      "ticker": "NARA",
+      "company": "Narragansett Bancorp",
+      "exchange": "NYSE",
+      "sector": "Banking",
+      "status": "S-1/A filed 2026-07-23",
+      "description": "",
+      "investors": [],
+      "competitors": [],
+      "valLow": 0.1,
+      "valHigh": 0.5,
+      "prob": 55,
+      "window": "TBD"
+    },
+    {
+      "ticker": "REF",
+      "company": "Reformation",
+      "exchange": "NYSE",
+      "sector": "—",
+      "status": "S-1/A filed 2026-07-23",
+      "description": "The Reformation, also known as the Protestant Reformation or the European Reformation, was a major theological movement in Western Christianity in 16th-century Europe that posed a religious and political challenge to the papacy and the authority of the Catholic Church hierarchy. Towards the end of the Renaissance, the Reformation marked the beginning of Protestantism. It is considered one of the events that signified the end of the Middle Ages and the beginning of the early modern period in Euro",
+      "investors": [
+        "Congregation (group of houses)",
+        "human capital",
+        "Orion Publishing Group"
+      ],
+      "competitors": [],
+      "valLow": 0.1,
+      "valHigh": 0.5,
+      "prob": 55,
+      "window": "TBD"
+    },
     {
       "ticker": "VAT",
       "company": "VARSAL TECH",
@@ -89,43 +135,11 @@
       "window": "TBD"
     },
     {
-      "ticker": "REF",
-      "company": "Reformation",
-      "exchange": "NYSE",
-      "sector": "—",
-      "status": "S-1/A filed 2026-07-20",
-      "description": "The Reformation, also known as the Protestant Reformation or the European Reformation, was a major theological movement in Western Christianity in 16th-century Europe that posed a religious and political challenge to the papacy and the authority of the Catholic Church hierarchy. Towards the end of the Renaissance, the Reformation marked the beginning of Protestantism. It is considered one of the events that signified the end of the Middle Ages and the beginning of the early modern period in Euro",
-      "investors": [
-        "Congregation (group of houses)",
-        "human capital",
-        "Orion Publishing Group"
-      ],
-      "competitors": [],
-      "valLow": 0.1,
-      "valHigh": 0.5,
-      "prob": 55,
-      "window": "TBD"
-    },
-    {
       "ticker": "CRTD",
       "company": "Creatd",
       "exchange": "NYSE",
       "sector": "—",
       "status": "S-1/A filed 2026-07-17",
-      "description": "",
-      "investors": [],
-      "competitors": [],
-      "valLow": 0.1,
-      "valHigh": 0.5,
-      "prob": 55,
-      "window": "TBD"
-    },
-    {
-      "ticker": "BLTH",
-      "company": "AMERICAN BATTERY MATERIALS",
-      "exchange": "NYSE",
-      "sector": "—",
-      "status": "S-1/A filed 2026-07-16",
       "description": "",
       "investors": [],
       "competitors": [],
@@ -210,7 +224,7 @@
       "exchange": "NYSE",
       "sector": "—",
       "status": "S-1/A filed 2026-07-01",
-      "description": "",
+      "description": "During the First World War (1914–1918), the Revolutionary Stewards or Revolutionary Shop Stewards were factory shop stewards who were independent of the official unions and freely chosen by workers in various German industries. They rejected the war policies of the German Empire and the support which parliamentary representatives of the Social Democratic Party (SPD) gave to the policies. They also played a role during the German Revolution of 1918–19.",
       "investors": [],
       "competitors": [],
       "valLow": 0.1,
