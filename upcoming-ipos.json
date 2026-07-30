@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-29T05:42:44.073Z",
+  "generatedAt": "2026-07-30T05:29:39.915Z",
   "graduated": [
     "BTGO",
     "FPS",
@@ -18,6 +18,34 @@
     "QMLS"
   ],
   "pipeline": [
+    {
+      "ticker": "ATTO",
+      "company": "Attovia Therapeutics",
+      "exchange": "NYSE",
+      "sector": "Pharmaceuticals",
+      "status": "S-1/A filed 2026-07-29",
+      "description": "",
+      "investors": [],
+      "competitors": [],
+      "valLow": 0.1,
+      "valHigh": 0.5,
+      "prob": 55,
+      "window": "TBD"
+    },
+    {
+      "ticker": "VOGX",
+      "company": "Vogenx",
+      "exchange": "NYSE",
+      "sector": "Pharmaceuticals",
+      "status": "S-1/A filed 2026-07-29",
+      "description": "",
+      "investors": [],
+      "competitors": [],
+      "valLow": 0.1,
+      "valHigh": 0.5,
+      "prob": 55,
+      "window": "TBD"
+    },
     {
       "ticker": "APMD",
       "company": "Apnimed",
@@ -141,20 +169,6 @@
       "sector": "Software",
       "status": "S-1/A filed 2026-07-20",
       "description": "Game Changer is an American comedy panel game show on Dropout created and hosted by Sam Reich which started in 2019. The show follows players, typically three comedians, who participate in a new game every episode, with the players kept unaware of the premise and rules of the game beforehand. According to Polygon, the show \"combines improv comedy, puzzle solving, fierce competition, and a prankster ethos.\" Episodes of Game Changer have led to four spinoff shows on Dropout: Dirty Laundry, Make So",
-      "investors": [],
-      "competitors": [],
-      "valLow": 0.1,
-      "valHigh": 0.5,
-      "prob": 55,
-      "window": "TBD"
-    },
-    {
-      "ticker": "SCTX",
-      "company": "Scribe Therapeutics",
-      "exchange": "NYSE",
-      "sector": "Pharmaceuticals",
-      "status": "S-1/A filed 2026-07-20",
-      "description": "",
       "investors": [],
       "competitors": [],
       "valLow": 0.1,
