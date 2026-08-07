@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-06T05:39:04.335Z",
+  "generatedAt": "2026-08-07T04:47:28.312Z",
   "graduated": [
     "BTGO",
     "FPS",
@@ -24,7 +24,7 @@
       "exchange": "NYSE",
       "sector": "Mining",
       "status": "S-1/A filed 2026-08-05",
-      "description": "Cape Verde, also referred to in English by its Portuguese name Cabo Verde, and known officially as the Republic of Cabo Verde, is an archipelagic country in the central Atlantic Ocean, off the coast of West Africa. It consists of ten volcanic islands with a combined land area of about 4,033 square kilometres (1,557 sq mi). These islands lie between 600 and 850 kilometres west of Cap-Vert, the westernmost point of continental Africa, after which they are named. Cape Verde forms part of the Macaro",
+      "description": "Cape Verde, also referred to in English by its Portuguese name Cabo Verde, and known officially as the Republic of Cabo Verde, is an archipelagic country in the eastern Atlantic Ocean, off the coast of West Africa. It consists of ten volcanic islands with a combined land area of about 4,033 square kilometres (1,557 sq mi). These islands lie between 600 and 850 kilometres west of Cap-Vert, the westernmost point of continental Africa, after which they are named. Cape Verde forms part of the Macaro",
       "investors": [
         "International Monetary Fund",
         "File:Praia-Fundação Amílcar Cabral (1).jpg"
@@ -172,20 +172,6 @@
       "exchange": "NYSE",
       "sector": "Pharmaceuticals",
       "status": "S-1/A filed 2026-07-29",
-      "description": "",
-      "investors": [],
-      "competitors": [],
-      "valLow": 0.1,
-      "valHigh": 0.5,
-      "prob": 55,
-      "window": "TBD"
-    },
-    {
-      "ticker": "APMD",
-      "company": "Apnimed",
-      "exchange": "NYSE",
-      "sector": "Pharmaceuticals",
-      "status": "S-1/A filed 2026-07-27",
       "description": "",
       "investors": [],
       "competitors": [],
