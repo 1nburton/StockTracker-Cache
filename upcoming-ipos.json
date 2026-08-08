@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-07T04:47:28.312Z",
+  "generatedAt": "2026-08-08T03:47:06.039Z",
   "graduated": [
     "BTGO",
     "FPS",
@@ -18,6 +18,34 @@
     "QMLS"
   ],
   "pipeline": [
+    {
+      "ticker": "FBDT",
+      "company": "First Breach",
+      "exchange": "NYSE",
+      "sector": "—",
+      "status": "S-1/A filed 2026-08-07",
+      "description": "",
+      "investors": [],
+      "competitors": [],
+      "valLow": 0.1,
+      "valHigh": 0.5,
+      "prob": 55,
+      "window": "TBD"
+    },
+    {
+      "ticker": "BSEM",
+      "company": "BioStem Technologies",
+      "exchange": "NYSE",
+      "sector": "Pharmaceuticals",
+      "status": "S-1/A filed 2026-08-07",
+      "description": "",
+      "investors": [],
+      "competitors": [],
+      "valLow": 0.1,
+      "valHigh": 0.5,
+      "prob": 55,
+      "window": "TBD"
+    },
     {
       "ticker": "VRDR",
       "company": "VERDE RESOURCES",
@@ -84,20 +112,6 @@
       "sector": "—",
       "status": "S-1/A filed 2026-08-03",
       "description": "Jones Soda Co. is a craft soda manufacturer based in Seattle, Washington. The company distributes craft sodas under the Jones Soda brand. Its mainstream soda line is sold across North America in bottles, cans, and on fountain through traditional beverage outlets, restaurants, and alternative accounts.",
-      "investors": [],
-      "competitors": [],
-      "valLow": 0.1,
-      "valHigh": 0.5,
-      "prob": 55,
-      "window": "TBD"
-    },
-    {
-      "ticker": "FBDT",
-      "company": "First Breach",
-      "exchange": "NYSE",
-      "sector": "—",
-      "status": "S-1/A filed 2026-08-03",
-      "description": "",
       "investors": [],
       "competitors": [],
       "valLow": 0.1,
@@ -316,7 +330,7 @@
       "exchange": "NYSE",
       "sector": "—",
       "status": "S-1/A filed 2026-07-20",
-      "description": "Jersey Mike’s Subs Inc., is an American multinational submarine sandwich chain headquartered in Manasquan, New Jersey. The Jersey Mike's franchise has about 3,500 locations, with locations in the United States, Canada, and elsewhere.",
+      "description": "Jersey Mike’s Subs Inc., is an American multinational submarine sandwich chain headquartered in Manasquan, New Jersey. The Jersey Mike's franchise has about 3,000 locations, with locations in the United States, Canada, and elsewhere.",
       "investors": [],
       "competitors": [],
       "valLow": 0.1,
