@@ -1,6 +1,6 @@
 {
-  "ts": 1786421222194,
-  "asOf": "2026-08-11T04:07:02.194Z",
+  "ts": 1786509001732,
+  "asOf": "2026-08-12T04:30:01.732Z",
   "source": "live",
   "sectors": [
     {
@@ -9,8 +9,8 @@
       "currentWeight": 31.5,
       "projectedWeight": 29.1,
       "weightShift": -2.4,
-      "ytdReturn": 29.12,
-      "ytdZScore": 1.64,
+      "ytdReturn": 28.96,
+      "ytdZScore": 1.57,
       "heat": "hot",
       "projectedHeat": "warm",
       "thesis": "Extended on AI euphoria; multiple compression risk rises as rate cuts get priced out.",
@@ -21,7 +21,7 @@
         "AVGO",
         "ORCL"
       ],
-      "lastPrice": 186.32
+      "lastPrice": 186.09
     },
     {
       "name": "Financials",
@@ -29,7 +29,7 @@
       "currentWeight": 13.2,
       "projectedWeight": 14.3,
       "weightShift": 1.1,
-      "ytdReturn": 5.24,
+      "ytdReturn": 5.22,
       "ytdZScore": -0.54,
       "heat": "cool",
       "projectedHeat": "neutral",
@@ -41,7 +41,7 @@
         "MA",
         "BAC"
       ],
-      "lastPrice": 57.81
+      "lastPrice": 57.8
     },
     {
       "name": "Health Care",
@@ -49,8 +49,8 @@
       "currentWeight": 11.8,
       "projectedWeight": 11.8,
       "weightShift": 0,
-      "ytdReturn": 8.31,
-      "ytdZScore": -0.26,
+      "ytdReturn": 8.04,
+      "ytdZScore": -0.29,
       "heat": "neutral",
       "projectedHeat": "neutral",
       "thesis": "Policy uncertainty (drug pricing) balanced against aging demographics tailwind.",
@@ -61,7 +61,7 @@
         "ABBV",
         "MRK"
       ],
-      "lastPrice": 168.44
+      "lastPrice": 168.01
     },
     {
       "name": "Consumer Discretionary",
@@ -69,8 +69,8 @@
       "currentWeight": 10.1,
       "projectedWeight": 11,
       "weightShift": 0.9,
-      "ytdReturn": 1.12,
-      "ytdZScore": -0.92,
+      "ytdReturn": 0.75,
+      "ytdZScore": -0.93,
       "heat": "cool",
       "projectedHeat": "neutral",
       "thesis": "Consumer sentiment trough often precedes sector recovery; positioning near multi-year lows.",
@@ -81,7 +81,7 @@
         "MCD",
         "NKE"
       ],
-      "lastPrice": 119.67
+      "lastPrice": 119.24
     },
     {
       "name": "Communication Services",
@@ -89,8 +89,8 @@
       "currentWeight": 8.9,
       "projectedWeight": 9.6,
       "weightShift": 0.7,
-      "ytdReturn": -4.34,
-      "ytdZScore": -1.42,
+      "ytdReturn": -4.82,
+      "ytdZScore": -1.43,
       "heat": "cool",
       "projectedHeat": "neutral",
       "thesis": "Valuation reset has corrected the overshoot; re-rate catalyst is ad-spend inflection.",
@@ -101,7 +101,7 @@
         "NFLX",
         "T"
       ],
-      "lastPrice": 111.83
+      "lastPrice": 111.27
     },
     {
       "name": "Industrials",
@@ -109,8 +109,8 @@
       "currentWeight": 8.2,
       "projectedWeight": 8,
       "weightShift": -0.2,
-      "ytdReturn": 16.85,
-      "ytdZScore": 0.52,
+      "ytdReturn": 17.55,
+      "ytdZScore": 0.56,
       "heat": "warm",
       "projectedHeat": "warm",
       "thesis": "Backlog visibility strong; sector benefits from onshoring themes and grid investment.",
@@ -121,7 +121,7 @@
         "HON",
         "UNP"
       ],
-      "lastPrice": 184.6
+      "lastPrice": 185.7
     },
     {
       "name": "Consumer Staples",
@@ -129,8 +129,8 @@
       "currentWeight": 5.8,
       "projectedWeight": 5.8,
       "weightShift": 0,
-      "ytdReturn": 9.34,
-      "ytdZScore": -0.16,
+      "ytdReturn": 9.01,
+      "ytdZScore": -0.2,
       "heat": "neutral",
       "projectedHeat": "neutral",
       "thesis": "Valuation fair; sector acts as portfolio ballast rather than alpha source.",
@@ -141,7 +141,7 @@
         "COST",
         "WMT"
       ],
-      "lastPrice": 84.95
+      "lastPrice": 84.69
     },
     {
       "name": "Energy",
@@ -149,8 +149,8 @@
       "currentWeight": 3.9,
       "projectedWeight": 3.6,
       "weightShift": -0.3,
-      "ytdReturn": 31.83,
-      "ytdZScore": 1.89,
+      "ytdReturn": 33.47,
+      "ytdZScore": 1.97,
       "heat": "hot",
       "projectedHeat": "warm",
       "thesis": "Commodity cycle at peak; supply response and demand destruction headwinds ahead.",
@@ -161,7 +161,7 @@
         "EOG",
         "SLB"
       ],
-      "lastPrice": 60.18
+      "lastPrice": 60.93
     },
     {
       "name": "Materials",
@@ -169,8 +169,8 @@
       "currentWeight": 2.4,
       "projectedWeight": 2.3,
       "weightShift": -0.1,
-      "ytdReturn": 15.31,
-      "ytdZScore": 0.38,
+      "ytdReturn": 15.44,
+      "ytdZScore": 0.37,
       "heat": "warm",
       "projectedHeat": "warm",
       "thesis": "Copper demand tied to electrification is a structural tailwind amid near-term cyclicality.",
@@ -181,7 +181,7 @@
         "FCX",
         "NUE"
       ],
-      "lastPrice": 53.18
+      "lastPrice": 53.24
     },
     {
       "name": "Real Estate",
@@ -189,8 +189,8 @@
       "currentWeight": 2.2,
       "projectedWeight": 2.2,
       "weightShift": 0,
-      "ytdReturn": 9.96,
-      "ytdZScore": -0.11,
+      "ytdReturn": 9.16,
+      "ytdZScore": -0.19,
       "heat": "neutral",
       "projectedHeat": "neutral",
       "thesis": "Waiting for rate clarity; long-duration earnings sensitivity caps near-term upside.",
@@ -201,7 +201,7 @@
         "CCI",
         "PSA"
       ],
-      "lastPrice": 44.4
+      "lastPrice": 44.08
     },
     {
       "name": "Utilities",
@@ -209,8 +209,8 @@
       "currentWeight": 2,
       "projectedWeight": 2.2,
       "weightShift": 0.2,
-      "ytdReturn": -0.12,
-      "ytdZScore": -1.03,
+      "ytdReturn": 1.04,
+      "ytdZScore": -0.91,
       "heat": "cool",
       "projectedHeat": "neutral",
       "thesis": "Asymmetric risk/reward if Fed pivots; accumulate into rate-fear overshoot.",
@@ -221,7 +221,7 @@
         "D",
         "AEP"
       ],
-      "lastPrice": 43.13
+      "lastPrice": 43.63
     }
   ],
   "macro": [

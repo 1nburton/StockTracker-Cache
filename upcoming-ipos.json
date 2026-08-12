@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-11T04:06:39.926Z",
+  "generatedAt": "2026-08-12T04:29:47.281Z",
   "graduated": [
     "BTGO",
     "FPS",
@@ -18,6 +18,20 @@
     "QMLS"
   ],
   "pipeline": [
+    {
+      "ticker": "BLTH",
+      "company": "AMERICAN BATTERY MATERIALS",
+      "exchange": "NYSE",
+      "sector": "—",
+      "status": "S-1/A filed 2026-08-11",
+      "description": "",
+      "investors": [],
+      "competitors": [],
+      "valLow": 0.1,
+      "valHigh": 0.5,
+      "prob": 55,
+      "window": "TBD"
+    },
     {
       "ticker": "AASP",
       "company": "Agassi Sports Entertainment",
@@ -120,20 +134,6 @@
       "window": "TBD"
     },
     {
-      "ticker": "ATTO",
-      "company": "Attovia Therapeutics",
-      "exchange": "NYSE",
-      "sector": "Pharmaceuticals",
-      "status": "S-1/A filed 2026-08-04",
-      "description": "",
-      "investors": [],
-      "competitors": [],
-      "valLow": 0.1,
-      "valHigh": 0.5,
-      "prob": 55,
-      "window": "TBD"
-    },
-    {
       "ticker": "LTGO",
       "company": "Latigo Biotherapeutics",
       "exchange": "NYSE",
@@ -190,25 +190,6 @@
       "window": "TBD"
     },
     {
-      "ticker": "BRVE",
-      "company": "Braveheart Bio",
-      "exchange": "NYSE",
-      "sector": "Pharmaceuticals",
-      "status": "S-1/A filed 2026-07-30",
-      "description": "Bravehearts were an American hip hop group from New York City. The group's roster originally included Jungle, Wiz, and Horse. Horse left the group in 2002, and Jungle and Wiz carried on as a duo. Wiz was in turn replaced by Nashawn, Nas's cousin.",
-      "investors": [
-        "Category:African-American musical groups",
-        "Category:Hip-hop groups from New York City",
-        "Category:Musical groups from Queens, New York",
-        "Category:East Coast hip-hop groups"
-      ],
-      "competitors": [],
-      "valLow": 0.1,
-      "valHigh": 0.5,
-      "prob": 55,
-      "window": "TBD"
-    },
-    {
       "ticker": "PWDY",
       "company": "POWERDYNE INTERNATIONAL",
       "exchange": "NYSE",
@@ -242,20 +223,6 @@
       "exchange": "NYSE",
       "sector": "Pharmaceuticals",
       "status": "S-1/A filed 2026-07-24",
-      "description": "",
-      "investors": [],
-      "competitors": [],
-      "valLow": 0.1,
-      "valHigh": 0.5,
-      "prob": 55,
-      "window": "TBD"
-    },
-    {
-      "ticker": "BLTH",
-      "company": "AMERICAN BATTERY MATERIALS",
-      "exchange": "NYSE",
-      "sector": "—",
-      "status": "S-1/A filed 2026-07-23",
       "description": "",
       "investors": [],
       "competitors": [],
@@ -359,20 +326,6 @@
       "sector": "—",
       "status": "S-1/A filed 2026-07-20",
       "description": "Jersey Mike’s Subs Inc., is an American multinational submarine sandwich chain headquartered in Manasquan, New Jersey. The Jersey Mike's franchise has about 3,000 locations, with locations in the United States, Canada, and elsewhere.",
-      "investors": [],
-      "competitors": [],
-      "valLow": 0.1,
-      "valHigh": 0.5,
-      "prob": 55,
-      "window": "TBD"
-    },
-    {
-      "ticker": "HFUS",
-      "company": "Hartford Creative Group",
-      "exchange": "NYSE",
-      "sector": "Technology Services",
-      "status": "S-1/A filed 2026-07-14",
-      "description": "A circus fire occurred on July 6, 1944, in Hartford, Connecticut, killing at least 167 people and leaving more than 700 injured. It was one of the worst fire disasters in United States history. The fire broke out during an afternoon performance of the Ringling Bros. and Barnum & Bailey Circus that was attended by 6,000 to 8,000 people. It was the deadliest disaster ever recorded in Connecticut.",
       "investors": [],
       "competitors": [],
       "valLow": 0.1,
