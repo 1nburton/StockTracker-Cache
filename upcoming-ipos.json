@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-17T03:22:42.225Z",
+  "generatedAt": "2026-08-18T03:18:09.026Z",
   "graduated": [
     "BTGO",
     "FPS",
@@ -18,6 +18,36 @@
     "QMLS"
   ],
   "pipeline": [
+    {
+      "ticker": "VAT",
+      "company": "VARSAL TECH",
+      "exchange": "NYSE",
+      "sector": "—",
+      "status": "S-1/A filed 2026-08-17",
+      "description": "",
+      "investors": [],
+      "competitors": [],
+      "valLow": 0.1,
+      "valHigh": 0.5,
+      "prob": 55,
+      "window": "TBD"
+    },
+    {
+      "ticker": "RLEA",
+      "company": "Rubber Leaf",
+      "exchange": "NYSE",
+      "sector": "—",
+      "status": "S-1/A filed 2026-08-17",
+      "description": "Rubber, also called India rubber, latex, Amazonian rubber, caucho, or caoutchouc, as initially produced, consists of polymers of the organic compound isoprene, with minor impurities of other organic compounds.",
+      "investors": [
+        "allyl group"
+      ],
+      "competitors": [],
+      "valLow": 0.1,
+      "valHigh": 0.5,
+      "prob": 55,
+      "window": "TBD"
+    },
     {
       "ticker": "FCCN",
       "company": "SPECTRAL CAPITAL",
@@ -257,20 +287,6 @@
         "human capital",
         "Orion Publishing Group"
       ],
-      "competitors": [],
-      "valLow": 0.1,
-      "valHigh": 0.5,
-      "prob": 55,
-      "window": "TBD"
-    },
-    {
-      "ticker": "VAT",
-      "company": "VARSAL TECH",
-      "exchange": "NYSE",
-      "sector": "—",
-      "status": "S-1/A filed 2026-07-22",
-      "description": "",
-      "investors": [],
       "competitors": [],
       "valLow": 0.1,
       "valHigh": 0.5,
