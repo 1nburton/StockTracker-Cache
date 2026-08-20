@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-19T03:19:18.499Z",
+  "generatedAt": "2026-08-20T03:18:03.378Z",
   "graduated": [
     "BTGO",
     "FPS",
@@ -83,20 +83,6 @@
       "sector": "—",
       "status": "S-1/A filed 2026-08-10",
       "description": "Andre Kirk Agassi is an American former professional tennis player. He was ranked as the world No. 1 in men's singles by the Association of Tennis Professionals (ATP) for 101 weeks, including as the year-end No. 1 in 1999. Agassi won 60 ATP Tour-level singles titles, including eight majors, an Olympic gold medal, the 1990 ATP Tour World Championships, and 17 Masters titles, and he was part of the winning United States Davis Cup teams in 1990, 1992 and 1995. Agassi is one of nine men to complete ",
-      "investors": [],
-      "competitors": [],
-      "valLow": 0.1,
-      "valHigh": 0.5,
-      "prob": 55,
-      "window": "TBD"
-    },
-    {
-      "ticker": "VOGX",
-      "company": "Vogenx",
-      "exchange": "NYSE",
-      "sector": "Pharmaceuticals",
-      "status": "S-1/A filed 2026-08-10",
-      "description": "",
       "investors": [],
       "competitors": [],
       "valLow": 0.1,
