@@ -1,16 +1,16 @@
 {
-  "ts": 1786936981955,
-  "asOf": "2026-08-17T03:23:01.955Z",
+  "ts": 1787282700975,
+  "asOf": "2026-08-21T03:25:00.975Z",
   "source": "live",
   "sectors": [
     {
       "name": "Technology",
       "etf": "XLK",
       "currentWeight": 31.5,
-      "projectedWeight": 29.1,
-      "weightShift": -2.4,
-      "ytdReturn": 31.68,
-      "ytdZScore": 1.66,
+      "projectedWeight": 29,
+      "weightShift": -2.5,
+      "ytdReturn": 27.26,
+      "ytdZScore": 1.27,
       "heat": "hot",
       "projectedHeat": "warm",
       "thesis": "Extended on AI euphoria; multiple compression risk rises as rate cuts get priced out.",
@@ -21,7 +21,7 @@
         "AVGO",
         "ORCL"
       ],
-      "lastPrice": 190.01
+      "lastPrice": 183.64
     },
     {
       "name": "Financials",
@@ -29,8 +29,8 @@
       "currentWeight": 13.2,
       "projectedWeight": 14.3,
       "weightShift": 1.1,
-      "ytdReturn": 5.88,
-      "ytdZScore": -0.54,
+      "ytdReturn": 4.64,
+      "ytdZScore": -0.63,
       "heat": "cool",
       "projectedHeat": "neutral",
       "thesis": "Sell-off overdone relative to credit fundamentals; re-accumulate on further weakness.",
@@ -41,7 +41,7 @@
         "MA",
         "BAC"
       ],
-      "lastPrice": 58.16
+      "lastPrice": 57.48
     },
     {
       "name": "Health Care",
@@ -49,8 +49,8 @@
       "currentWeight": 11.8,
       "projectedWeight": 11.8,
       "weightShift": 0,
-      "ytdReturn": 7.63,
-      "ytdZScore": -0.39,
+      "ytdReturn": 12.97,
+      "ytdZScore": 0.07,
       "heat": "neutral",
       "projectedHeat": "neutral",
       "thesis": "Policy uncertainty (drug pricing) balanced against aging demographics tailwind.",
@@ -61,7 +61,7 @@
         "ABBV",
         "MRK"
       ],
-      "lastPrice": 167.37
+      "lastPrice": 175.68
     },
     {
       "name": "Consumer Discretionary",
@@ -69,8 +69,8 @@
       "currentWeight": 10.1,
       "projectedWeight": 10.9,
       "weightShift": 0.8,
-      "ytdReturn": -0.13,
-      "ytdZScore": -1.06,
+      "ytdReturn": 0.2,
+      "ytdZScore": -1,
       "heat": "cool",
       "projectedHeat": "neutral",
       "thesis": "Consumer sentiment trough often precedes sector recovery; positioning near multi-year lows.",
@@ -81,7 +81,7 @@
         "MCD",
         "NKE"
       ],
-      "lastPrice": 118.2
+      "lastPrice": 118.59
     },
     {
       "name": "Communication Services",
@@ -89,8 +89,8 @@
       "currentWeight": 8.9,
       "projectedWeight": 9.6,
       "weightShift": 0.7,
-      "ytdReturn": -3.38,
-      "ytdZScore": -1.33,
+      "ytdReturn": -4.77,
+      "ytdZScore": -1.42,
       "heat": "cool",
       "projectedHeat": "neutral",
       "thesis": "Valuation reset has corrected the overshoot; re-rate catalyst is ad-spend inflection.",
@@ -101,19 +101,19 @@
         "NFLX",
         "T"
       ],
-      "lastPrice": 112.95
+      "lastPrice": 111.32
     },
     {
       "name": "Industrials",
       "etf": "XLI",
       "currentWeight": 8.2,
-      "projectedWeight": 8,
-      "weightShift": -0.2,
-      "ytdReturn": 18.06,
-      "ytdZScore": 0.49,
-      "heat": "warm",
-      "projectedHeat": "warm",
-      "thesis": "Backlog visibility strong; sector benefits from onshoring themes and grid investment.",
+      "projectedWeight": 8.2,
+      "weightShift": 0,
+      "ytdReturn": 15.17,
+      "ytdZScore": 0.26,
+      "heat": "neutral",
+      "projectedHeat": "neutral",
+      "thesis": "Defence and aerospace sub-sector strong; commercial cycle peaking.",
       "topHoldings": [
         "GE",
         "CAT",
@@ -121,7 +121,7 @@
         "HON",
         "UNP"
       ],
-      "lastPrice": 186.51
+      "lastPrice": 181.95
     },
     {
       "name": "Consumer Staples",
@@ -129,8 +129,8 @@
       "currentWeight": 5.8,
       "projectedWeight": 5.8,
       "weightShift": 0,
-      "ytdReturn": 10.81,
-      "ytdZScore": -0.12,
+      "ytdReturn": 11.39,
+      "ytdZScore": -0.06,
       "heat": "neutral",
       "projectedHeat": "neutral",
       "thesis": "Valuation fair; sector acts as portfolio ballast rather than alpha source.",
@@ -141,7 +141,7 @@
         "COST",
         "WMT"
       ],
-      "lastPrice": 86.09
+      "lastPrice": 86.54
     },
     {
       "name": "Energy",
@@ -149,8 +149,8 @@
       "currentWeight": 3.9,
       "projectedWeight": 3.6,
       "weightShift": -0.3,
-      "ytdReturn": 35.62,
-      "ytdZScore": 1.99,
+      "ytdReturn": 39.28,
+      "ytdZScore": 2.27,
       "heat": "hot",
       "projectedHeat": "warm",
       "thesis": "Commodity cycle at peak; supply response and demand destruction headwinds ahead.",
@@ -161,7 +161,7 @@
         "EOG",
         "SLB"
       ],
-      "lastPrice": 61.91
+      "lastPrice": 63.58
     },
     {
       "name": "Materials",
@@ -169,8 +169,8 @@
       "currentWeight": 2.4,
       "projectedWeight": 2.4,
       "weightShift": 0,
-      "ytdReturn": 13.92,
-      "ytdZScore": 0.14,
+      "ytdReturn": 13.88,
+      "ytdZScore": 0.15,
       "heat": "neutral",
       "projectedHeat": "neutral",
       "thesis": "Sector tracks global PMI cycle; watch China demand and USD trajectory.",
@@ -181,7 +181,7 @@
         "FCX",
         "NUE"
       ],
-      "lastPrice": 52.54
+      "lastPrice": 52.52
     },
     {
       "name": "Real Estate",
@@ -189,8 +189,8 @@
       "currentWeight": 2.2,
       "projectedWeight": 2.2,
       "weightShift": 0,
-      "ytdReturn": 12.11,
-      "ytdZScore": -0.01,
+      "ytdReturn": 11.42,
+      "ytdZScore": -0.06,
       "heat": "neutral",
       "projectedHeat": "neutral",
       "thesis": "Waiting for rate clarity; long-duration earnings sensitivity caps near-term upside.",
@@ -201,7 +201,7 @@
         "CCI",
         "PSA"
       ],
-      "lastPrice": 45.27
+      "lastPrice": 44.99
     },
     {
       "name": "Utilities",
@@ -209,8 +209,8 @@
       "currentWeight": 2,
       "projectedWeight": 2.2,
       "weightShift": 0.2,
-      "ytdReturn": 2.62,
-      "ytdZScore": -0.82,
+      "ytdReturn": 1.95,
+      "ytdZScore": -0.85,
       "heat": "cool",
       "projectedHeat": "neutral",
       "thesis": "Asymmetric risk/reward if Fed pivots; accumulate into rate-fear overshoot.",
@@ -221,7 +221,7 @@
         "D",
         "AEP"
       ],
-      "lastPrice": 44.31
+      "lastPrice": 44.02
     }
   ],
   "macro": [
