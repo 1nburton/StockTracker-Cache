@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-24T03:24:29.205Z",
+  "generatedAt": "2026-08-25T03:20:50.181Z",
   "graduated": [
     "BTGO",
     "FPS",
@@ -18,6 +18,20 @@
     "QMLS"
   ],
   "pipeline": [
+    {
+      "ticker": "HNUC",
+      "company": "Holtec Nuclear",
+      "exchange": "NYSE",
+      "sector": "—",
+      "status": "S-1/A filed 2026-08-24",
+      "description": "Holtec International is an American supplier of equipment and systems for the energy industry. Founded in Mount Laurel, New Jersey in 1986, Holtec International is a privately held technology company with domestic operation centers in New Jersey, Florida, Ohio and Pennsylvania and worldwide in Brazil, India Japan, Mexico, Poland, South Africa, Spain, U.K. and Ukraine. It specializes in the design and manufacture of parts for nuclear reactors. The company sells equipment to manage spent nuclear f",
+      "investors": [],
+      "competitors": [],
+      "valLow": 0.1,
+      "valHigh": 0.5,
+      "prob": 55,
+      "window": "TBD"
+    },
     {
       "ticker": "VAT",
       "company": "VARSAL TECH",
@@ -197,34 +211,6 @@
       "exchange": "NYSE",
       "sector": "Technology Services",
       "status": "S-1/A filed 2026-07-30",
-      "description": "",
-      "investors": [],
-      "competitors": [],
-      "valLow": 0.1,
-      "valHigh": 0.5,
-      "prob": 55,
-      "window": "TBD"
-    },
-    {
-      "ticker": "EVOH",
-      "company": "EvoAir Holdings",
-      "exchange": "NYSE",
-      "sector": "—",
-      "status": "S-1/A filed 2026-07-24",
-      "description": "",
-      "investors": [],
-      "competitors": [],
-      "valLow": 0.1,
-      "valHigh": 0.5,
-      "prob": 55,
-      "window": "TBD"
-    },
-    {
-      "ticker": "CTTH",
-      "company": "CTT PHARMACEUTICAL HOLDINGS",
-      "exchange": "NYSE",
-      "sector": "Pharmaceuticals",
-      "status": "S-1/A filed 2026-07-24",
       "description": "",
       "investors": [],
       "competitors": [],
