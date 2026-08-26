@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-25T13:49:05.272Z",
+  "generatedAt": "2026-08-26T03:26:25.860Z",
   "graduated": [
     "BTGO",
     "FPS",
@@ -124,20 +124,6 @@
       "exchange": "NYSE",
       "sector": "—",
       "status": "S-1/A filed 2026-08-10",
-      "description": "",
-      "investors": [],
-      "competitors": [],
-      "valLow": 0.1,
-      "valHigh": 0.5,
-      "prob": 55,
-      "window": "TBD"
-    },
-    {
-      "ticker": "FBDT",
-      "company": "First Breach",
-      "exchange": "NYSE",
-      "sector": "—",
-      "status": "S-1/A filed 2026-08-07",
       "description": "",
       "investors": [],
       "competitors": [],
