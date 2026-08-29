@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-28T14:16:29.112Z",
+  "generatedAt": "2026-08-29T09:03:23.356Z",
   "graduated": [
     "BTGO",
     "FPS",
@@ -18,6 +18,20 @@
     "QMLS"
   ],
   "pipeline": [
+    {
+      "ticker": "SEQC",
+      "company": "SeeQC",
+      "exchange": "NYSE",
+      "sector": "Technology Services",
+      "status": "S-1/A filed 2026-08-28",
+      "description": "SEEQC is an American quantum computing company developing digital quantum computing systems based on superconducting integrated circuits. The company specializes in combining quantum processors with cryogenic digital control electronics. Headquartered in Westchester New York, SEEQC has partnered with NVIDIA, IBM, Booz Allen Ventures, and the United Kingdom's Quantum Computing Centre.",
+      "investors": [],
+      "competitors": [],
+      "valLow": 0.1,
+      "valHigh": 0.5,
+      "prob": 55,
+      "window": "TBD"
+    },
     {
       "ticker": "QDMI",
       "company": "QDM International",
