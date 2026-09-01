@@ -1,14 +1,53 @@
 {
-  "generatedAt": "2026-08-31T08:38:08.627Z",
+  "generatedAt": "2026-09-01T07:50:36.902Z",
   "graduated": [
+    "BTGO",
+    "FPS",
     "STRV",
     "CBRS",
     "ANDR",
     "BOLT",
     "ANTH",
-    "EXYN"
+    "COHR",
+    "KLAR",
+    "CHYM",
+    "CRCL",
+    "CALM",
+    "EXYN",
+    "XE",
+    "QMLS"
   ],
   "pipeline": [
+    {
+      "ticker": "MENW",
+      "company": "Tailored Brands, Inc. / DE",
+      "exchange": "NYSE",
+      "sector": "Retail",
+      "status": "S-1/A filed 2026-08-31",
+      "description": "Tailored Brands, Inc. is an American retail holding company for various men's apparel stores, including the Men's Wearhouse and Jos. A. Bank brands. The company is headquartered in Houston, Texas, with additional corporate offices in Dublin, California and New York, New York.",
+      "investors": [
+        "Leonard Green & Partners"
+      ],
+      "competitors": [],
+      "valLow": 0.1,
+      "valHigh": 0.5,
+      "prob": 55,
+      "window": "TBD"
+    },
+    {
+      "ticker": "SYTN",
+      "company": "Syntiant",
+      "exchange": "NYSE",
+      "sector": "Semiconductors",
+      "status": "S-1/A filed 2026-08-31",
+      "description": "",
+      "investors": [],
+      "competitors": [],
+      "valLow": 0.1,
+      "valHigh": 0.5,
+      "prob": 55,
+      "window": "TBD"
+    },
     {
       "ticker": "SEQC",
       "company": "SeeQC",
