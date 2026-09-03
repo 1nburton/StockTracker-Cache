@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-02T07:14:18.754Z",
+  "generatedAt": "2026-09-03T07:16:55.271Z",
   "graduated": [
     "BTGO",
     "FPS",
@@ -68,7 +68,7 @@
       "exchange": "NYSE",
       "sector": "Technology Services",
       "status": "S-1/A filed 2026-08-28",
-      "description": "SEEQC is an American quantum computing company developing digital quantum computing systems based on superconducting integrated circuits. The company specializes in combining quantum processors with cryogenic digital control electronics. Headquartered in Westchester New York, SEEQC has partnered with NVIDIA, IBM, Booz Allen Ventures, and the United Kingdom's Quantum Computing Centre.",
+      "description": "",
       "investors": [],
       "competitors": [],
       "valLow": 0.1,
