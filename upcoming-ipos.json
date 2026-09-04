@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-03T07:16:55.271Z",
+  "generatedAt": "2026-09-04T07:24:12.051Z",
   "graduated": [
     "BTGO",
     "FPS",
@@ -201,20 +201,6 @@
         "International Monetary Fund",
         "File:Praia-Fundação Amílcar Cabral (1).jpg"
       ],
-      "competitors": [],
-      "valLow": 0.1,
-      "valHigh": 0.5,
-      "prob": 55,
-      "window": "TBD"
-    },
-    {
-      "ticker": "LTGO",
-      "company": "Latigo Biotherapeutics",
-      "exchange": "NYSE",
-      "sector": "Pharmaceuticals",
-      "status": "S-1/A filed 2026-08-04",
-      "description": "",
-      "investors": [],
       "competitors": [],
       "valLow": 0.1,
       "valHigh": 0.5,
