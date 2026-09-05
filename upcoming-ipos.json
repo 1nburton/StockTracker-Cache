@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-04T07:24:12.051Z",
+  "generatedAt": "2026-09-05T07:05:59.258Z",
   "graduated": [
     "BTGO",
     "FPS",
@@ -18,6 +18,20 @@
     "QMLS"
   ],
   "pipeline": [
+    {
+      "ticker": "ILXP",
+      "company": "ECOMINAS",
+      "exchange": "NYSE",
+      "sector": "—",
+      "status": "S-1/A filed 2026-09-04",
+      "description": "",
+      "investors": [],
+      "competitors": [],
+      "valLow": 0.1,
+      "valHigh": 0.5,
+      "prob": 55,
+      "window": "TBD"
+    },
     {
       "ticker": "ENT",
       "company": "ENTRATA",
@@ -227,20 +241,6 @@
       "exchange": "NYSE",
       "sector": "Pharmaceuticals",
       "status": "S-1/A filed 2026-08-03",
-      "description": "",
-      "investors": [],
-      "competitors": [],
-      "valLow": 0.1,
-      "valHigh": 0.5,
-      "prob": 55,
-      "window": "TBD"
-    },
-    {
-      "ticker": "CRTD",
-      "company": "Creatd",
-      "exchange": "NYSE",
-      "sector": "—",
-      "status": "S-1/A filed 2026-07-31",
       "description": "",
       "investors": [],
       "competitors": [],
