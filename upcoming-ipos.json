@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-09T07:29:39.147Z",
+  "generatedAt": "2026-09-10T07:25:57.286Z",
   "graduated": [
     "BTGO",
     "FPS",
@@ -215,34 +215,6 @@
         "International Monetary Fund",
         "File:Praia-Fundação Amílcar Cabral (1).jpg"
       ],
-      "competitors": [],
-      "valLow": 0.1,
-      "valHigh": 0.5,
-      "prob": 55,
-      "window": "TBD"
-    },
-    {
-      "ticker": "JSDA",
-      "company": "JONES SODA CO.",
-      "exchange": "NYSE",
-      "sector": "—",
-      "status": "S-1/A filed 2026-08-03",
-      "description": "Jones Soda Co. is a craft soda manufacturer based in Seattle, Washington. The company distributes craft sodas under the Jones Soda brand. Its mainstream soda line is sold across North America in bottles, cans, and on fountain through traditional beverage outlets, restaurants, and alternative accounts.",
-      "investors": [],
-      "competitors": [],
-      "valLow": 0.1,
-      "valHigh": 0.5,
-      "prob": 55,
-      "window": "TBD"
-    },
-    {
-      "ticker": "BLSM",
-      "company": "BlossomHill Therapeutics",
-      "exchange": "NYSE",
-      "sector": "Pharmaceuticals",
-      "status": "S-1/A filed 2026-08-03",
-      "description": "",
-      "investors": [],
       "competitors": [],
       "valLow": 0.1,
       "valHigh": 0.5,
