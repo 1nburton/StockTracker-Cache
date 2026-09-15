@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-14T08:00:20.295Z",
+  "generatedAt": "2026-09-15T07:33:37.583Z",
   "graduated": [
     "BTGO",
     "FPS",
@@ -18,6 +18,48 @@
     "QMLS"
   ],
   "pipeline": [
+    {
+      "ticker": "BMB",
+      "company": "Bamboo Insurance Services",
+      "exchange": "NYSE",
+      "sector": "Insurance",
+      "status": "S-1/A filed 2026-09-14",
+      "description": "The Las Piñas Bamboo Organ in St. Joseph Parish Church in Las Piñas, Philippines, is a 19th-century church organ. It is known for its unique organ pipes; of its 1031 pipes, 902 are made of bamboo. It was completed after six years of work in 1824 by Father Diego Cera, the builder of the town's stone church and its first resident parish priest.",
+      "investors": [],
+      "competitors": [],
+      "valLow": 0.1,
+      "valHigh": 0.5,
+      "prob": 55,
+      "window": "TBD"
+    },
+    {
+      "ticker": "ETRA",
+      "company": "Electra Therapeutics",
+      "exchange": "NYSE",
+      "sector": "Pharmaceuticals",
+      "status": "S-1/A filed 2026-09-14",
+      "description": "",
+      "investors": [],
+      "competitors": [],
+      "valLow": 0.1,
+      "valHigh": 0.5,
+      "prob": 55,
+      "window": "TBD"
+    },
+    {
+      "ticker": "VRHID",
+      "company": "Veri MedTech Holdings",
+      "exchange": "NYSE",
+      "sector": "Technology Services",
+      "status": "S-1/A filed 2026-09-14",
+      "description": "",
+      "investors": [],
+      "competitors": [],
+      "valLow": 0.1,
+      "valHigh": 0.5,
+      "prob": 55,
+      "window": "TBD"
+    },
     {
       "ticker": "ACCV",
       "company": "Accelevation Holdings",
@@ -212,23 +254,6 @@
       "status": "S-1/A filed 2026-08-10",
       "description": "",
       "investors": [],
-      "competitors": [],
-      "valLow": 0.1,
-      "valHigh": 0.5,
-      "prob": 55,
-      "window": "TBD"
-    },
-    {
-      "ticker": "VRDR",
-      "company": "VERDE RESOURCES",
-      "exchange": "NYSE",
-      "sector": "Mining",
-      "status": "S-1/A filed 2026-08-05",
-      "description": "Cape Verde, also referred to in English by its Portuguese name Cabo Verde, and known officially as the Republic of Cabo Verde, is an archipelagic country in the eastern Atlantic Ocean, off the coast of West Africa. It consists of ten volcanic islands with a combined land area of about 4,033 square kilometres (1,557 sq mi). These islands lie between 600 and 850 kilometres west of Cap-Vert, the westernmost point of continental Africa, after which they are named. Cape Verde forms part of the Macaro",
-      "investors": [
-        "International Monetary Fund",
-        "File:Praia-Fundação Amílcar Cabral (1).jpg"
-      ],
       "competitors": [],
       "valLow": 0.1,
       "valHigh": 0.5,
