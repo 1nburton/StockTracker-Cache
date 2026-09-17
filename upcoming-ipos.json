@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-16T07:34:01.393Z",
+  "generatedAt": "2026-09-17T07:29:56.440Z",
   "graduated": [
     "BTGO",
     "FPS",
@@ -18,6 +18,34 @@
     "QMLS"
   ],
   "pipeline": [
+    {
+      "ticker": "NUOX",
+      "company": "NuvOx Therapeutics",
+      "exchange": "NYSE",
+      "sector": "Pharmaceuticals",
+      "status": "S-1/A filed 2026-09-16",
+      "description": "",
+      "investors": [],
+      "competitors": [],
+      "valLow": 0.1,
+      "valHigh": 0.5,
+      "prob": 55,
+      "window": "TBD"
+    },
+    {
+      "ticker": "DROR",
+      "company": "Dror Ortho-Design",
+      "exchange": "NYSE",
+      "sector": "—",
+      "status": "S-1/A filed 2026-09-16",
+      "description": "",
+      "investors": [],
+      "competitors": [],
+      "valLow": 0.1,
+      "valHigh": 0.5,
+      "prob": 55,
+      "window": "TBD"
+    },
     {
       "ticker": "BMB",
       "company": "Bamboo Insurance Services",
@@ -211,34 +239,6 @@
       "sector": "Technology Services",
       "status": "S-1/A filed 2026-08-12",
       "description": "Spectral is a 2016 military science fiction action film co-written and directed by Nic Mathieu. Written with Ian Fried and George Nolfi, the film stars James Badge Dale as DARPA research scientist Mark Clyne, with Max Martini, Emily Mortimer, Clayne Crawford, and Bruce Greenwood in supporting roles.",
-      "investors": [],
-      "competitors": [],
-      "valLow": 0.1,
-      "valHigh": 0.5,
-      "prob": 55,
-      "window": "TBD"
-    },
-    {
-      "ticker": "BLTH",
-      "company": "AMERICAN BATTERY MATERIALS",
-      "exchange": "NYSE",
-      "sector": "—",
-      "status": "S-1/A filed 2026-08-11",
-      "description": "",
-      "investors": [],
-      "competitors": [],
-      "valLow": 0.1,
-      "valHigh": 0.5,
-      "prob": 55,
-      "window": "TBD"
-    },
-    {
-      "ticker": "AASP",
-      "company": "Agassi Sports Entertainment",
-      "exchange": "NYSE",
-      "sector": "—",
-      "status": "S-1/A filed 2026-08-10",
-      "description": "Andre Kirk Agassi is an American former professional tennis player. He was ranked as the world No. 1 in men's singles by the Association of Tennis Professionals (ATP) for 101 weeks, including as the year-end No. 1 in 1999. Agassi won 60 ATP Tour-level singles titles, including eight majors, an Olympic gold medal, the 1990 ATP Tour World Championships, and 17 Masters titles, and he was part of the winning United States Davis Cup teams in 1990, 1992 and 1995. Agassi is one of nine men to complete ",
       "investors": [],
       "competitors": [],
       "valLow": 0.1,
