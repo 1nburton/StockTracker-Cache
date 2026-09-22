@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-21T07:55:37.306Z",
+  "generatedAt": "2026-09-22T07:38:15.432Z",
   "graduated": [
     "BTGO",
     "FPS",
@@ -18,6 +18,84 @@
     "QMLS"
   ],
   "pipeline": [
+    {
+      "ticker": "SBE",
+      "company": "SB Energy",
+      "exchange": "NYSE",
+      "sector": "Utilities",
+      "status": "S-1/A filed 2026-09-21",
+      "description": "",
+      "investors": [],
+      "competitors": [],
+      "valLow": 0.1,
+      "valHigh": 0.5,
+      "prob": 55,
+      "window": "TBD"
+    },
+    {
+      "ticker": "FFPP",
+      "company": "Fast Finance Pay",
+      "exchange": "NYSE",
+      "sector": "Business Services",
+      "status": "S-1/A filed 2026-09-21",
+      "description": "Fast X is a 2023 American action film directed by Louis Leterrier from a screenplay by Dan Mazeau and Justin Lin, both of whom also co-wrote the story with Zach Dean. The sequel to F9 (2021), it is the tenth main installment and the eleventh installment overall in the Fast & Furious franchise. It stars Vin Diesel as Dominic Toretto, alongside Michelle Rodriguez, Tyrese Gibson, Chris \"Ludacris\" Bridges, John Cena, Nathalie Emmanuel, Jordana Brewster, Sung Kang, Scott Eastwood, Daniela Melchior, A",
+      "investors": [
+        "Artist Partner Group",
+        "Saturn Award for Best Action or Adventure Film"
+      ],
+      "competitors": [],
+      "valLow": 0.1,
+      "valHigh": 0.5,
+      "prob": 55,
+      "window": "TBD"
+    },
+    {
+      "ticker": "ILXP",
+      "company": "ECOMINAS",
+      "exchange": "NYSE",
+      "sector": "—",
+      "status": "S-1/A filed 2026-09-21",
+      "description": "",
+      "investors": [],
+      "competitors": [],
+      "valLow": 0.1,
+      "valHigh": 0.5,
+      "prob": 55,
+      "window": "TBD"
+    },
+    {
+      "ticker": "OURA",
+      "company": "Oura",
+      "exchange": "NYSE",
+      "sector": "—",
+      "status": "S-1/A filed 2026-09-21",
+      "description": "Oura Health Ltd is a Finnish health technology company, known for the Oura Ring, a smart ring used to track sleep and physical activity. The company was founded in Oulu in 2013 by Petteri Lahtela, Kari Kivelä, and Markku Koskela. Harpreet Singh Rai was the CEO from 2018 until 2021, when he was replaced on an interim basis by Michael Chapp. In 2022, Tom Hale was appointed CEO. The company is currently headquartered in San Francisco, with other locations in Oulu and Helsinki, Finland, and San Dieg",
+      "investors": [
+        "venture funding",
+        "The Chernin Group",
+        "MSD Capital",
+        "Equinox Group"
+      ],
+      "competitors": [],
+      "valLow": 0.1,
+      "valHigh": 0.5,
+      "prob": 55,
+      "window": "TBD"
+    },
+    {
+      "ticker": "CNTM",
+      "company": "ConnectM Technology Solutions",
+      "exchange": "NYSE",
+      "sector": "—",
+      "status": "S-1/A filed 2026-09-21",
+      "description": "",
+      "investors": [],
+      "competitors": [],
+      "valLow": 0.1,
+      "valHigh": 0.5,
+      "prob": 55,
+      "window": "TBD"
+    },
     {
       "ticker": "GOTV",
       "company": "FullPAC",
@@ -117,20 +195,6 @@
       "window": "TBD"
     },
     {
-      "ticker": "ETRA",
-      "company": "Electra Therapeutics",
-      "exchange": "NYSE",
-      "sector": "Pharmaceuticals",
-      "status": "S-1/A filed 2026-09-14",
-      "description": "",
-      "investors": [],
-      "competitors": [],
-      "valLow": 0.1,
-      "valHigh": 0.5,
-      "prob": 55,
-      "window": "TBD"
-    },
-    {
       "ticker": "ACCV",
       "company": "Accelevation Holdings",
       "exchange": "NYSE",
@@ -165,20 +229,6 @@
       "sector": "—",
       "status": "S-1/A filed 2026-09-08",
       "description": "Holtec International is an American supplier of equipment and systems for the energy industry. Founded in Mount Laurel, New Jersey in 1986, Holtec International is a privately held technology company with domestic operation centers in New Jersey, Florida, Ohio and Pennsylvania and worldwide in Brazil, India Japan, Mexico, Poland, South Africa, Spain, U.K. and Ukraine. It specializes in the design and manufacture of parts for nuclear reactors. The company sells equipment to manage spent nuclear f",
-      "investors": [],
-      "competitors": [],
-      "valLow": 0.1,
-      "valHigh": 0.5,
-      "prob": 55,
-      "window": "TBD"
-    },
-    {
-      "ticker": "ILXP",
-      "company": "ECOMINAS",
-      "exchange": "NYSE",
-      "sector": "—",
-      "status": "S-1/A filed 2026-09-04",
-      "description": "",
       "investors": [],
       "competitors": [],
       "valLow": 0.1,
