@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-22T07:38:15.432Z",
+  "generatedAt": "2026-09-23T07:40:45.916Z",
   "graduated": [
     "BTGO",
     "FPS",
@@ -18,6 +18,48 @@
     "QMLS"
   ],
   "pipeline": [
+    {
+      "ticker": "ACCV",
+      "company": "Accelevation Holdings",
+      "exchange": "NYSE",
+      "sector": "—",
+      "status": "S-1/A filed 2026-09-22",
+      "description": "",
+      "investors": [],
+      "competitors": [],
+      "valLow": 0.1,
+      "valHigh": 0.5,
+      "prob": 55,
+      "window": "TBD"
+    },
+    {
+      "ticker": "SEQC",
+      "company": "SeeQC",
+      "exchange": "NYSE",
+      "sector": "Technology Services",
+      "status": "S-1/A filed 2026-09-22",
+      "description": "",
+      "investors": [],
+      "competitors": [],
+      "valLow": 0.1,
+      "valHigh": 0.5,
+      "prob": 55,
+      "window": "TBD"
+    },
+    {
+      "ticker": "VRHID",
+      "company": "Veri MedTech Holdings",
+      "exchange": "NYSE",
+      "sector": "Technology Services",
+      "status": "S-1/A filed 2026-09-22",
+      "description": "Verisign, Inc. is an American company based in Reston, Virginia, that operates a diverse array of network infrastructure, including two of the Internet's thirteen root nameservers, the authoritative registry for the .com, .net, .web and .name generic top-level domains and the .cc country-code top-level domains, and the back-end systems for the .jobs and .edu sponsored top-level domains.",
+      "investors": [],
+      "competitors": [],
+      "valLow": 0.1,
+      "valHigh": 0.5,
+      "prob": 55,
+      "window": "TBD"
+    },
     {
       "ticker": "SBE",
       "company": "SB Energy",
@@ -125,20 +167,6 @@
       "window": "TBD"
     },
     {
-      "ticker": "VRHID",
-      "company": "Veri MedTech Holdings",
-      "exchange": "NYSE",
-      "sector": "Technology Services",
-      "status": "S-1/A filed 2026-09-18",
-      "description": "Verisign, Inc. is an American company based in Reston, Virginia, that operates a diverse array of network infrastructure, including two of the Internet's thirteen root nameservers, the authoritative registry for the .com, .net, .web and .name generic top-level domains and the .cc country-code top-level domains, and the back-end systems for the .jobs and .edu sponsored top-level domains.",
-      "investors": [],
-      "competitors": [],
-      "valLow": 0.1,
-      "valHigh": 0.5,
-      "prob": 55,
-      "window": "TBD"
-    },
-    {
       "ticker": "NIMU",
       "company": "NON INVASIVE MONITORING SYSTEMS INC /FL/",
       "exchange": "NYSE",
@@ -187,34 +215,6 @@
       "sector": "Insurance",
       "status": "S-1/A filed 2026-09-14",
       "description": "The Las Piñas Bamboo Organ in St. Joseph Parish Church in Las Piñas, Philippines, is a 19th-century church organ. It is known for its unique organ pipes; of its 1031 pipes, 902 are made of bamboo. It was completed after six years of work in 1824 by Father Diego Cera, the builder of the town's stone church and its first resident parish priest.",
-      "investors": [],
-      "competitors": [],
-      "valLow": 0.1,
-      "valHigh": 0.5,
-      "prob": 55,
-      "window": "TBD"
-    },
-    {
-      "ticker": "ACCV",
-      "company": "Accelevation Holdings",
-      "exchange": "NYSE",
-      "sector": "—",
-      "status": "S-1/A filed 2026-09-11",
-      "description": "",
-      "investors": [],
-      "competitors": [],
-      "valLow": 0.1,
-      "valHigh": 0.5,
-      "prob": 55,
-      "window": "TBD"
-    },
-    {
-      "ticker": "SEQC",
-      "company": "SeeQC",
-      "exchange": "NYSE",
-      "sector": "Technology Services",
-      "status": "S-1/A filed 2026-09-11",
-      "description": "",
       "investors": [],
       "competitors": [],
       "valLow": 0.1,
