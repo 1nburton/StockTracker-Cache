@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-23T07:40:45.916Z",
+  "generatedAt": "2026-09-24T07:33:40.805Z",
   "graduated": [
     "BTGO",
     "FPS",
@@ -18,6 +18,48 @@
     "QMLS"
   ],
   "pipeline": [
+    {
+      "ticker": "WELA",
+      "company": "Wella Co",
+      "exchange": "NYSE",
+      "sector": "—",
+      "status": "S-1/A filed 2026-09-23",
+      "description": "Wella is a multinational hair care and cosmetics company headquartered in Geneva, Switzerland. It develops, manufactures, and distributes professional and consumer hair and nail products, including coloring, styling, and hair care lines. Founded in 1880 in Germany by Franz Ströher, the company has undergone multiple ownership transitions. Since 2020, it has operated as an independent entity, majority-owned by private equity firm KKR following its separation from Coty Inc.",
+      "investors": [],
+      "competitors": [],
+      "valLow": 0.1,
+      "valHigh": 0.5,
+      "prob": 55,
+      "window": "TBD"
+    },
+    {
+      "ticker": "CRTD",
+      "company": "Creatd",
+      "exchange": "NYSE",
+      "sector": "—",
+      "status": "S-1/A filed 2026-09-23",
+      "description": "",
+      "investors": [],
+      "competitors": [],
+      "valLow": 0.1,
+      "valHigh": 0.5,
+      "prob": 55,
+      "window": "TBD"
+    },
+    {
+      "ticker": "CNTM",
+      "company": "ConnectM Technology Solutions",
+      "exchange": "NYSE",
+      "sector": "—",
+      "status": "S-1/A filed 2026-09-23",
+      "description": "",
+      "investors": [],
+      "competitors": [],
+      "valLow": 0.1,
+      "valHigh": 0.5,
+      "prob": 55,
+      "window": "TBD"
+    },
     {
       "ticker": "ACCV",
       "company": "Accelevation Holdings",
@@ -52,7 +94,7 @@
       "exchange": "NYSE",
       "sector": "Technology Services",
       "status": "S-1/A filed 2026-09-22",
-      "description": "Verisign, Inc. is an American company based in Reston, Virginia, that operates a diverse array of network infrastructure, including two of the Internet's thirteen root nameservers, the authoritative registry for the .com, .net, .web and .name generic top-level domains and the .cc country-code top-level domains, and the back-end systems for the .jobs and .edu sponsored top-level domains.",
+      "description": "",
       "investors": [],
       "competitors": [],
       "valLow": 0.1,
@@ -118,20 +160,6 @@
         "MSD Capital",
         "Equinox Group"
       ],
-      "competitors": [],
-      "valLow": 0.1,
-      "valHigh": 0.5,
-      "prob": 55,
-      "window": "TBD"
-    },
-    {
-      "ticker": "CNTM",
-      "company": "ConnectM Technology Solutions",
-      "exchange": "NYSE",
-      "sector": "—",
-      "status": "S-1/A filed 2026-09-21",
-      "description": "",
-      "investors": [],
       "competitors": [],
       "valLow": 0.1,
       "valHigh": 0.5,
