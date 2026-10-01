@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-30T08:20:36.537Z",
+  "generatedAt": "2026-10-01T08:58:37.804Z",
   "graduated": [
     "BTGO",
     "FPS",
@@ -11,7 +11,6 @@
     "COHR",
     "KLAR",
     "CHYM",
-    "CRCL",
     "CALM",
     "EXYN",
     "XE",
@@ -316,20 +315,6 @@
       "investors": [
         "Leonard Green & Partners"
       ],
-      "competitors": [],
-      "valLow": 0.1,
-      "valHigh": 0.5,
-      "prob": 55,
-      "window": "TBD"
-    },
-    {
-      "ticker": "SYTN",
-      "company": "Syntiant",
-      "exchange": "NYSE",
-      "sector": "Semiconductors",
-      "status": "S-1/A filed 2026-08-31",
-      "description": "",
-      "investors": [],
       "competitors": [],
       "valLow": 0.1,
       "valHigh": 0.5,
