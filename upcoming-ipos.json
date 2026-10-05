@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-04T08:05:21.176Z",
+  "generatedAt": "2026-10-05T08:45:26.100Z",
   "graduated": [
     "BTGO",
     "FPS",
@@ -136,7 +136,7 @@
       "exchange": "NYSE",
       "sector": "Technology Services",
       "status": "S-1/A filed 2026-09-22",
-      "description": "Verisign, Inc. is an American company based in Reston, Virginia, that operates a diverse array of network infrastructure, including two of the Internet's thirteen root nameservers, the authoritative registry for the .com, .net, .web and .name generic top-level domains and the .cc country-code top-level domains, and the back-end systems for the .jobs and .edu sponsored top-level domains.",
+      "description": "",
       "investors": [],
       "competitors": [],
       "valLow": 0.1,
