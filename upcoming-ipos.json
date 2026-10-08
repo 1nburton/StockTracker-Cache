@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-07T08:28:15.033Z",
+  "generatedAt": "2026-10-08T08:44:01.195Z",
   "graduated": [
     "BTGO",
     "FPS",
@@ -271,20 +271,6 @@
       "sector": "Insurance",
       "status": "S-1/A filed 2026-09-14",
       "description": "The Las Piñas Bamboo Organ in St. Joseph Parish Church in Las Piñas, Philippines, is a 19th-century church organ. It is known for its unique organ pipes; of its 1031 pipes, 902 are made of bamboo. It was completed after six years of work in 1824 by Father Diego Cera, the builder of the town's stone church and its first resident parish priest.",
-      "investors": [],
-      "competitors": [],
-      "valLow": 0.1,
-      "valHigh": 0.5,
-      "prob": 55,
-      "window": "TBD"
-    },
-    {
-      "ticker": "HNUC",
-      "company": "Holtec Nuclear",
-      "exchange": "NYSE",
-      "sector": "—",
-      "status": "S-1/A filed 2026-09-08",
-      "description": "Holtec International is an American supplier of equipment and systems for the energy industry. Founded in Mount Laurel, New Jersey in 1986, Holtec International is a privately held technology company with domestic operation centers in New Jersey, Florida, Ohio and Pennsylvania and worldwide in Brazil, India Japan, Mexico, Poland, South Africa, Spain, U.K. and Ukraine. It specializes in the design and manufacture of parts for nuclear reactors. The company also sells equipment to manage spent nucl",
       "investors": [],
       "competitors": [],
       "valLow": 0.1,
