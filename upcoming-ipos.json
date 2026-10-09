@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-08T08:44:01.195Z",
+  "generatedAt": "2026-10-09T08:47:40.306Z",
   "graduated": [
     "BTGO",
     "FPS",
@@ -18,6 +18,20 @@
     "QMLS"
   ],
   "pipeline": [
+    {
+      "ticker": "AMRO",
+      "company": "Amaero",
+      "exchange": "NYSE",
+      "sector": "—",
+      "status": "S-1/A filed 2026-10-08",
+      "description": "",
+      "investors": [],
+      "competitors": [],
+      "valLow": 0.1,
+      "valHigh": 0.5,
+      "prob": 55,
+      "window": "TBD"
+    },
     {
       "ticker": "NIMU",
       "company": "NON INVASIVE MONITORING SYSTEMS INC /FL/",
