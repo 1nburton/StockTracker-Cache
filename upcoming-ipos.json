@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-15T07:17:32.068Z",
+  "generatedAt": "2026-10-16T07:01:02.094Z",
   "graduated": [
     "BTGO",
     "FPS",
@@ -253,10 +253,11 @@
       "status": "S-1/A filed 2026-09-21",
       "description": "Oura Health Ltd is an international health technology company, known for the Oura Ring, a smart ring used to track sleep and physical activity. The company was founded in Oulu, Finland, in 2013 by Petteri Lahtela, Kari Kivelä, and Markku Koskela.",
       "investors": [
+        "MSD Capital",
         "venture funding",
         "The Chernin Group",
-        "MSD Capital",
-        "Equinox Group"
+        "Equinox Group",
+        "Fidelity Investments"
       ],
       "competitors": [],
       "valLow": 0.1,
