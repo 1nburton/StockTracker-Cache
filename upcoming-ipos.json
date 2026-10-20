@@ -1,21 +1,8 @@
 {
-  "generatedAt": "2026-10-19T07:37:22.340Z",
+  "generatedAt": "2026-10-20T07:28:17.149Z",
   "graduated": [
-    "BTGO",
-    "FPS",
     "STRV",
-    "CBRS",
-    "ANDR",
-    "BOLT",
-    "ANTH",
-    "COHR",
-    "KLAR",
-    "CHYM",
-    "CRCL",
-    "CALM",
-    "EXYN",
-    "XE",
-    "QMLS"
+    "ANDR"
   ],
   "pipeline": [
     {
@@ -201,20 +188,6 @@
       "window": "TBD"
     },
     {
-      "ticker": "SBE",
-      "company": "SB Energy",
-      "exchange": "NYSE",
-      "sector": "Utilities",
-      "status": "S-1/A filed 2026-09-21",
-      "description": "",
-      "investors": [],
-      "competitors": [],
-      "valLow": 0.1,
-      "valHigh": 0.5,
-      "prob": 55,
-      "window": "TBD"
-    },
-    {
       "ticker": "FFPP",
       "company": "Fast Finance Pay",
       "exchange": "NYSE",
@@ -239,26 +212,6 @@
       "status": "S-1/A filed 2026-09-21",
       "description": "",
       "investors": [],
-      "competitors": [],
-      "valLow": 0.1,
-      "valHigh": 0.5,
-      "prob": 55,
-      "window": "TBD"
-    },
-    {
-      "ticker": "OURA",
-      "company": "Oura",
-      "exchange": "NYSE",
-      "sector": "—",
-      "status": "S-1/A filed 2026-09-21",
-      "description": "Oura Health Ltd is an international health technology company, known for the Oura Ring, a smart ring used to track sleep and physical activity. The company was founded in Oulu, Finland, in 2013 by Petteri Lahtela, Kari Kivelä, and Markku Koskela.",
-      "investors": [
-        "MSD Capital",
-        "venture funding",
-        "The Chernin Group",
-        "Equinox Group",
-        "Fidelity Investments"
-      ],
       "competitors": [],
       "valLow": 0.1,
       "valHigh": 0.5,
