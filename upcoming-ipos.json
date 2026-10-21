@@ -1,16 +1,16 @@
 {
-  "generatedAt": "2026-10-20T07:28:17.149Z",
+  "generatedAt": "2026-10-21T07:24:42.544Z",
   "graduated": [
     "STRV",
     "ANDR"
   ],
   "pipeline": [
     {
-      "ticker": "SOBR",
-      "company": "SOBR Safe",
+      "ticker": "NIMU",
+      "company": "NON INVASIVE MONITORING SYSTEMS INC /FL/",
       "exchange": "NYSE",
-      "sector": "—",
-      "status": "S-1/A filed 2026-10-16",
+      "sector": "Defense",
+      "status": "S-1/A filed 2026-10-20",
       "description": "",
       "investors": [],
       "competitors": [],
@@ -20,11 +20,11 @@
       "window": "TBD"
     },
     {
-      "ticker": "NIMU",
-      "company": "NON INVASIVE MONITORING SYSTEMS INC /FL/",
+      "ticker": "SOBR",
+      "company": "SOBR Safe",
       "exchange": "NYSE",
-      "sector": "Defense",
-      "status": "S-1/A filed 2026-10-13",
+      "sector": "—",
+      "status": "S-1/A filed 2026-10-16",
       "description": "",
       "investors": [],
       "competitors": [],
