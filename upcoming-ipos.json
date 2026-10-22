@@ -1,10 +1,28 @@
 {
-  "generatedAt": "2026-10-21T07:24:42.544Z",
+  "generatedAt": "2026-10-22T07:26:48.441Z",
   "graduated": [
     "STRV",
-    "ANDR"
+    "ANDR",
+    "BOLT",
+    "ANTH",
+    "COHR",
+    "CALM"
   ],
   "pipeline": [
+    {
+      "ticker": "EAXR",
+      "company": "Ealixir",
+      "exchange": "NYSE",
+      "sector": "Software",
+      "status": "S-1/A filed 2026-10-21",
+      "description": "",
+      "investors": [],
+      "competitors": [],
+      "valLow": 0.1,
+      "valHigh": 0.5,
+      "prob": 55,
+      "window": "TBD"
+    },
     {
       "ticker": "NIMU",
       "company": "NON INVASIVE MONITORING SYSTEMS INC /FL/",
@@ -210,20 +228,6 @@
       "exchange": "NYSE",
       "sector": "—",
       "status": "S-1/A filed 2026-09-21",
-      "description": "",
-      "investors": [],
-      "competitors": [],
-      "valLow": 0.1,
-      "valHigh": 0.5,
-      "prob": 55,
-      "window": "TBD"
-    },
-    {
-      "ticker": "GOTV",
-      "company": "FullPAC",
-      "exchange": "NYSE",
-      "sector": "Business Services",
-      "status": "S-1/A filed 2026-09-18",
       "description": "",
       "investors": [],
       "competitors": [],
