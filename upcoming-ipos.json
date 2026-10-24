@@ -1,10 +1,40 @@
 {
-  "generatedAt": "2026-10-23T07:18:54.601Z",
+  "generatedAt": "2026-10-24T07:09:22.010Z",
   "graduated": [
     "STRV",
-    "ANDR"
+    "LYCA",
+    "ANDR",
+    "BOLT"
   ],
   "pipeline": [
+    {
+      "ticker": "HFG",
+      "company": "Hometown Financial Group, Inc./MD",
+      "exchange": "NYSE",
+      "sector": "Banking",
+      "status": "S-1/A filed 2026-10-23",
+      "description": "",
+      "investors": [],
+      "competitors": [],
+      "valLow": 0.1,
+      "valHigh": 0.5,
+      "prob": 55,
+      "window": "TBD"
+    },
+    {
+      "ticker": "MFDB",
+      "company": "MFB Bancorp",
+      "exchange": "NYSE",
+      "sector": "—",
+      "status": "S-1/A filed 2026-10-23",
+      "description": "",
+      "investors": [],
+      "competitors": [],
+      "valLow": 0.1,
+      "valHigh": 0.5,
+      "prob": 55,
+      "window": "TBD"
+    },
     {
       "ticker": "EAXR",
       "company": "Ealixir",
@@ -165,51 +195,6 @@
       "exchange": "NYSE",
       "sector": "—",
       "status": "S-1/A filed 2026-09-23",
-      "description": "",
-      "investors": [],
-      "competitors": [],
-      "valLow": 0.1,
-      "valHigh": 0.5,
-      "prob": 55,
-      "window": "TBD"
-    },
-    {
-      "ticker": "VRHID",
-      "company": "Veri MedTech Holdings",
-      "exchange": "NYSE",
-      "sector": "Technology Services",
-      "status": "S-1/A filed 2026-09-22",
-      "description": "Verisign, Inc. is an American company based in Reston, Virginia, that operates a diverse array of network infrastructure, including two of the Internet's thirteen root nameservers, the authoritative registry for the .com, .net, .web and .name generic top-level domains and the .cc country-code top-level domains, and the back-end systems for the .jobs and .edu sponsored top-level domains.",
-      "investors": [],
-      "competitors": [],
-      "valLow": 0.1,
-      "valHigh": 0.5,
-      "prob": 55,
-      "window": "TBD"
-    },
-    {
-      "ticker": "FFPP",
-      "company": "Fast Finance Pay",
-      "exchange": "NYSE",
-      "sector": "Business Services",
-      "status": "S-1/A filed 2026-09-21",
-      "description": "Fast X is a 2023 American action film directed by Louis Leterrier from a screenplay by Dan Mazeau and Justin Lin, both of whom also co-wrote the story with Zach Dean. The sequel to F9 (2021), it is the tenth main installment and the eleventh installment overall in the Fast & Furious franchise. It stars Vin Diesel as Dominic Toretto, alongside Michelle Rodriguez, Tyrese Gibson, Chris \"Ludacris\" Bridges, John Cena, Nathalie Emmanuel, Jordana Brewster, Sung Kang, Scott Eastwood, Daniela Melchior, A",
-      "investors": [
-        "Artist Partner Group",
-        "Saturn Award for Best Action or Adventure Film"
-      ],
-      "competitors": [],
-      "valLow": 0.1,
-      "valHigh": 0.5,
-      "prob": 55,
-      "window": "TBD"
-    },
-    {
-      "ticker": "ILXP",
-      "company": "ECOMINAS",
-      "exchange": "NYSE",
-      "sector": "—",
-      "status": "S-1/A filed 2026-09-21",
       "description": "",
       "investors": [],
       "competitors": [],
