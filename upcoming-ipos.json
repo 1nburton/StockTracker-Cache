@@ -1,11 +1,25 @@
 {
-  "generatedAt": "2026-10-26T07:42:58.205Z",
+  "generatedAt": "2026-10-27T07:38:31.383Z",
   "graduated": [
     "STRV",
     "LYCA",
     "ANDR"
   ],
   "pipeline": [
+    {
+      "ticker": "GBC",
+      "company": "GEORGIA BANKING CO",
+      "exchange": "NYSE",
+      "sector": "Banking",
+      "status": "S-1/A filed 2026-10-26",
+      "description": "",
+      "investors": [],
+      "competitors": [],
+      "valLow": 0.1,
+      "valHigh": 0.5,
+      "prob": 55,
+      "window": "TBD"
+    },
     {
       "ticker": "HFG",
       "company": "Hometown Financial Group, Inc./MD",
@@ -152,48 +166,6 @@
       "exchange": "NYSE",
       "sector": "Software",
       "status": "S-1/A filed 2026-09-24",
-      "description": "",
-      "investors": [],
-      "competitors": [],
-      "valLow": 0.1,
-      "valHigh": 0.5,
-      "prob": 55,
-      "window": "TBD"
-    },
-    {
-      "ticker": "WELA",
-      "company": "Wella Co",
-      "exchange": "NYSE",
-      "sector": "—",
-      "status": "S-1/A filed 2026-09-23",
-      "description": "Wella is a multinational hair care and cosmetics company headquartered in Geneva, Switzerland. It develops, manufactures, and distributes professional and consumer hair and nail products, including coloring, styling, and hair care lines. Founded in 1880 in Germany by Franz Ströher, the company has undergone multiple ownership transitions. Since 2020, it has operated as an independent entity, majority-owned by private equity firm KKR following its separation from Coty Inc.",
-      "investors": [],
-      "competitors": [],
-      "valLow": 0.1,
-      "valHigh": 0.5,
-      "prob": 55,
-      "window": "TBD"
-    },
-    {
-      "ticker": "CRTD",
-      "company": "Creatd",
-      "exchange": "NYSE",
-      "sector": "—",
-      "status": "S-1/A filed 2026-09-23",
-      "description": "",
-      "investors": [],
-      "competitors": [],
-      "valLow": 0.1,
-      "valHigh": 0.5,
-      "prob": 55,
-      "window": "TBD"
-    },
-    {
-      "ticker": "CNTM",
-      "company": "ConnectM Technology Solutions",
-      "exchange": "NYSE",
-      "sector": "—",
-      "status": "S-1/A filed 2026-09-23",
       "description": "",
       "investors": [],
       "competitors": [],
