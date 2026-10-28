@@ -1,11 +1,39 @@
 {
-  "generatedAt": "2026-10-27T07:38:31.383Z",
+  "generatedAt": "2026-10-28T08:11:44.806Z",
   "graduated": [
     "STRV",
     "LYCA",
     "ANDR"
   ],
   "pipeline": [
+    {
+      "ticker": "RGNA",
+      "company": "Regenlab USA",
+      "exchange": "NYSE",
+      "sector": "Pharmaceuticals",
+      "status": "S-1/A filed 2026-10-27",
+      "description": "",
+      "investors": [],
+      "competitors": [],
+      "valLow": 0.1,
+      "valHigh": 0.5,
+      "prob": 55,
+      "window": "TBD"
+    },
+    {
+      "ticker": "FFLY",
+      "company": "FireFly Robotics",
+      "exchange": "NYSE",
+      "sector": "—",
+      "status": "S-1/A filed 2026-10-27",
+      "description": "The Firefly, sometimes referred to as the Firefly EV, is a battery electric supermini car produced by Chinese manufacturer Nio since 2025. It is the first vehicle under the Firefly brand.",
+      "investors": [],
+      "competitors": [],
+      "valLow": 0.1,
+      "valHigh": 0.5,
+      "prob": 55,
+      "window": "TBD"
+    },
     {
       "ticker": "GBC",
       "company": "GEORGIA BANKING CO",
@@ -152,20 +180,6 @@
       "exchange": "NYSE",
       "sector": "—",
       "status": "S-1/A filed 2026-09-28",
-      "description": "",
-      "investors": [],
-      "competitors": [],
-      "valLow": 0.1,
-      "valHigh": 0.5,
-      "prob": 55,
-      "window": "TBD"
-    },
-    {
-      "ticker": "FDCT",
-      "company": "FDCTECH",
-      "exchange": "NYSE",
-      "sector": "Software",
-      "status": "S-1/A filed 2026-09-24",
       "description": "",
       "investors": [],
       "competitors": [],
