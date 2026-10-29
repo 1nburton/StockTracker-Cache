@@ -1,11 +1,25 @@
 {
-  "generatedAt": "2026-10-28T08:11:44.806Z",
+  "generatedAt": "2026-10-29T08:21:50.870Z",
   "graduated": [
     "STRV",
     "LYCA",
     "ANDR"
   ],
   "pipeline": [
+    {
+      "ticker": "GLOH",
+      "company": "Glow Holdings",
+      "exchange": "NYSE",
+      "sector": "Software",
+      "status": "S-1/A filed 2026-10-28",
+      "description": "GLOW is an American television series created by Liz Flahive and Carly Mensch, based on the women's wrestling promotion Gorgeous Ladies of Wrestling (GLOW). The following is a list of characters from the series.",
+      "investors": [],
+      "competitors": [],
+      "valLow": 0.1,
+      "valHigh": 0.5,
+      "prob": 55,
+      "window": "TBD"
+    },
     {
       "ticker": "RGNA",
       "company": "Regenlab USA",
@@ -167,20 +181,6 @@
       "sector": "Technology Services",
       "status": "S-1/A filed 2026-09-28",
       "description": "Spectral is a 2016 military science fiction action film co-written and directed by Nic Mathieu. Written with Ian Fried and George Nolfi, the film stars James Badge Dale as DARPA research scientist Mark Clyne, with Max Martini, Emily Mortimer, Clayne Crawford, and Bruce Greenwood in supporting roles.",
-      "investors": [],
-      "competitors": [],
-      "valLow": 0.1,
-      "valHigh": 0.5,
-      "prob": 55,
-      "window": "TBD"
-    },
-    {
-      "ticker": "EMI",
-      "company": "Encore Medical",
-      "exchange": "NYSE",
-      "sector": "—",
-      "status": "S-1/A filed 2026-09-28",
-      "description": "",
       "investors": [],
       "competitors": [],
       "valLow": 0.1,
