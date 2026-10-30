@@ -1,11 +1,25 @@
 {
-  "generatedAt": "2026-10-29T08:21:50.870Z",
+  "generatedAt": "2026-10-30T08:25:37.614Z",
   "graduated": [
     "STRV",
     "LYCA",
     "ANDR"
   ],
   "pipeline": [
+    {
+      "ticker": "NUOX",
+      "company": "NuvOx Therapeutics",
+      "exchange": "NYSE",
+      "sector": "Pharmaceuticals",
+      "status": "S-1/A filed 2026-10-29",
+      "description": "",
+      "investors": [],
+      "competitors": [],
+      "valLow": 0.1,
+      "valHigh": 0.5,
+      "prob": 55,
+      "window": "TBD"
+    },
     {
       "ticker": "GLOH",
       "company": "Glow Holdings",
@@ -147,40 +161,12 @@
       "window": "TBD"
     },
     {
-      "ticker": "NUOX",
-      "company": "NuvOx Therapeutics",
-      "exchange": "NYSE",
-      "sector": "Pharmaceuticals",
-      "status": "S-1/A filed 2026-10-13",
-      "description": "",
-      "investors": [],
-      "competitors": [],
-      "valLow": 0.1,
-      "valHigh": 0.5,
-      "prob": 55,
-      "window": "TBD"
-    },
-    {
       "ticker": "SEQC",
       "company": "SeeQC",
       "exchange": "NYSE",
       "sector": "Technology Services",
       "status": "S-1/A filed 2026-10-09",
       "description": "",
-      "investors": [],
-      "competitors": [],
-      "valLow": 0.1,
-      "valHigh": 0.5,
-      "prob": 55,
-      "window": "TBD"
-    },
-    {
-      "ticker": "FCCN",
-      "company": "SPECTRAL CAPITAL",
-      "exchange": "NYSE",
-      "sector": "Technology Services",
-      "status": "S-1/A filed 2026-09-28",
-      "description": "Spectral is a 2016 military science fiction action film co-written and directed by Nic Mathieu. Written with Ian Fried and George Nolfi, the film stars James Badge Dale as DARPA research scientist Mark Clyne, with Max Martini, Emily Mortimer, Clayne Crawford, and Bruce Greenwood in supporting roles.",
       "investors": [],
       "competitors": [],
       "valLow": 0.1,
