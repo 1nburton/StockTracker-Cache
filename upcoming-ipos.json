@@ -1,11 +1,25 @@
 {
-  "generatedAt": "2026-10-30T08:25:37.614Z",
+  "generatedAt": "2026-10-31T08:17:27.004Z",
   "graduated": [
     "STRV",
     "LYCA",
     "ANDR"
   ],
   "pipeline": [
+    {
+      "ticker": "IDXG",
+      "company": "INTERPACE BIOSCIENCES",
+      "exchange": "NYSE",
+      "sector": "—",
+      "status": "S-1/A filed 2026-10-30",
+      "description": "",
+      "investors": [],
+      "competitors": [],
+      "valLow": 0.1,
+      "valHigh": 0.5,
+      "prob": 55,
+      "window": "TBD"
+    },
     {
       "ticker": "NUOX",
       "company": "NuvOx Therapeutics",
