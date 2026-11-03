@@ -1,9 +1,13 @@
 {
-  "generatedAt": "2026-11-02T09:10:59.808Z",
+  "generatedAt": "2026-11-03T09:19:28.343Z",
   "graduated": [
     "STRV",
     "LYCA",
-    "ANDR"
+    "ANDR",
+    "BOLT",
+    "ANTH",
+    "COHR",
+    "CALM"
   ],
   "pipeline": [
     {
