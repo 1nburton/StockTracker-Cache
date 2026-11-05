@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-04T08:56:22.548Z",
+  "generatedAt": "2026-11-05T09:18:15.383Z",
   "graduated": [
     "STRV",
     "LYCA",
@@ -152,20 +152,6 @@
       "exchange": "NYSE",
       "sector": "—",
       "status": "S-1/A filed 2026-10-16",
-      "description": "",
-      "investors": [],
-      "competitors": [],
-      "valLow": 0.1,
-      "valHigh": 0.5,
-      "prob": 55,
-      "window": "TBD"
-    },
-    {
-      "ticker": "GCTK",
-      "company": "Glucotrack",
-      "exchange": "NYSE",
-      "sector": "—",
-      "status": "S-1/A filed 2026-10-14",
       "description": "",
       "investors": [],
       "competitors": [],
