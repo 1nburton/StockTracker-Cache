@@ -1,11 +1,39 @@
 {
-  "generatedAt": "2026-11-09T09:32:24.816Z",
+  "generatedAt": "2026-11-10T09:36:39.977Z",
   "graduated": [
     "STRV",
     "LYCA",
     "ANDR"
   ],
   "pipeline": [
+    {
+      "ticker": "RZRA",
+      "company": "Rezera",
+      "exchange": "NYSE",
+      "sector": "Pharmaceuticals",
+      "status": "S-1/A filed 2026-11-09",
+      "description": "",
+      "investors": [],
+      "competitors": [],
+      "valLow": 0.1,
+      "valHigh": 0.5,
+      "prob": 55,
+      "window": "TBD"
+    },
+    {
+      "ticker": "CNTM",
+      "company": "ConnectM Technology Solutions",
+      "exchange": "NYSE",
+      "sector": "—",
+      "status": "S-1/A filed 2026-11-09",
+      "description": "",
+      "investors": [],
+      "competitors": [],
+      "valLow": 0.1,
+      "valHigh": 0.5,
+      "prob": 55,
+      "window": "TBD"
+    },
     {
       "ticker": "SWA",
       "company": "Simwon America",
@@ -119,20 +147,6 @@
       "window": "TBD"
     },
     {
-      "ticker": "RZRA",
-      "company": "Rezera",
-      "exchange": "NYSE",
-      "sector": "Pharmaceuticals",
-      "status": "S-1/A filed 2026-11-05",
-      "description": "",
-      "investors": [],
-      "competitors": [],
-      "valLow": 0.1,
-      "valHigh": 0.5,
-      "prob": 55,
-      "window": "TBD"
-    },
-    {
       "ticker": "IDXG",
       "company": "INTERPACE BIOSCIENCES",
       "exchange": "NYSE",
@@ -194,8 +208,11 @@
       "exchange": "NYSE",
       "sector": "—",
       "status": "S-1/A filed 2026-10-27",
-      "description": "The Firefly, sometimes referred to as the Firefly EV, is a battery electric supermini car produced by Chinese manufacturer Nio since 2025. It is the first vehicle under the Firefly brand.",
-      "investors": [],
+      "description": "Firefly Aerospace, Inc. (Firefly) is an American aerospace firm based in Cedar Park, Texas. Firefly small- and medium-lift launch vehicles for commercial launches to orbit. Firefly's stated purpose is to increase access to space, similar to other private spaceflight companies.",
+      "investors": [
+        "Committee on Foreign Investment in the United States",
+        "Northrop Grumman Space Systems Group"
+      ],
       "competitors": [],
       "valLow": 0.1,
       "valHigh": 0.5,
