@@ -1,11 +1,25 @@
 {
-  "generatedAt": "2026-11-10T09:36:39.977Z",
+  "generatedAt": "2026-11-11T09:10:00.827Z",
   "graduated": [
     "STRV",
     "LYCA",
     "ANDR"
   ],
   "pipeline": [
+    {
+      "ticker": "ANT",
+      "company": "Anthropic, PBC",
+      "exchange": "NYSE",
+      "sector": "Software",
+      "status": "S-1/A filed 2026-11-10",
+      "description": "",
+      "investors": [],
+      "competitors": [],
+      "valLow": 0.1,
+      "valHigh": 0.5,
+      "prob": 55,
+      "window": "TBD"
+    },
     {
       "ticker": "RZRA",
       "company": "Rezera",
@@ -96,7 +110,7 @@
       "exchange": "NYSE",
       "sector": "—",
       "status": "S-1/A filed 2026-11-05",
-      "description": "",
+      "description": "Kara-Lis Coverdale, also known as K-LC, is a Canadian composer, musician, and producer based in Montreal, Quebec. Coverdale's music mixes electronic and traditional instruments, including piano, organ, and keyboard. She released A 480 (2014), Aftertouches (2015), Grafts (2017), From Where You Came (2025), A Series of Actions in a Sphere of Forever (2025), and Changes in Air (2025).",
       "investors": [],
       "competitors": [],
       "valLow": 0.1,
@@ -208,11 +222,8 @@
       "exchange": "NYSE",
       "sector": "—",
       "status": "S-1/A filed 2026-10-27",
-      "description": "Firefly Aerospace, Inc. (Firefly) is an American aerospace firm based in Cedar Park, Texas. Firefly small- and medium-lift launch vehicles for commercial launches to orbit. Firefly's stated purpose is to increase access to space, similar to other private spaceflight companies.",
-      "investors": [
-        "Committee on Foreign Investment in the United States",
-        "Northrop Grumman Space Systems Group"
-      ],
+      "description": "The Firefly, sometimes referred to as the Firefly EV, is a battery electric supermini car produced by Chinese manufacturer Nio since 2025. It is the first vehicle under the Firefly brand.",
+      "investors": [],
       "competitors": [],
       "valLow": 0.1,
       "valHigh": 0.5,
