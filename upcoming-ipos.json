@@ -1,11 +1,27 @@
 {
-  "generatedAt": "2026-11-12T09:36:56.299Z",
+  "generatedAt": "2026-11-13T09:24:27.230Z",
   "graduated": [
     "STRV",
     "LYCA",
-    "ANDR"
+    "ANDR",
+    "COHR",
+    "CALM"
   ],
   "pipeline": [
+    {
+      "ticker": "FFLY",
+      "company": "FireFly Robotics",
+      "exchange": "NYSE",
+      "sector": "—",
+      "status": "S-1/A filed 2026-11-12",
+      "description": "The Firefly, sometimes referred to as the Firefly EV, is a battery electric supermini car produced by Chinese manufacturer Nio since 2025. It is the first vehicle under the Firefly brand.",
+      "investors": [],
+      "competitors": [],
+      "valLow": 0.1,
+      "valHigh": 0.5,
+      "prob": 55,
+      "window": "TBD"
+    },
     {
       "ticker": "ANT",
       "company": "Anthropic, PBC",
@@ -217,12 +233,12 @@
       "window": "TBD"
     },
     {
-      "ticker": "FFLY",
-      "company": "FireFly Robotics",
+      "ticker": "EAXR",
+      "company": "Ealixir",
       "exchange": "NYSE",
-      "sector": "—",
-      "status": "S-1/A filed 2026-10-27",
-      "description": "The Firefly, sometimes referred to as the Firefly EV, is a battery electric supermini car produced by Chinese manufacturer Nio since 2025. It is the first vehicle under the Firefly brand.",
+      "sector": "Software",
+      "status": "S-1/A filed 2026-10-21",
+      "description": "",
       "investors": [],
       "competitors": [],
       "valLow": 0.1,
@@ -231,11 +247,11 @@
       "window": "TBD"
     },
     {
-      "ticker": "EAXR",
-      "company": "Ealixir",
+      "ticker": "GCTK",
+      "company": "Glucotrack",
       "exchange": "NYSE",
-      "sector": "Software",
-      "status": "S-1/A filed 2026-10-21",
+      "sector": "—",
+      "status": "S-1/A filed 2026-10-14",
       "description": "",
       "investors": [],
       "competitors": [],
