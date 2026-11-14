@@ -1,13 +1,26 @@
 {
-  "generatedAt": "2026-11-13T09:24:27.230Z",
+  "generatedAt": "2026-11-14T08:54:43.945Z",
   "graduated": [
     "STRV",
     "LYCA",
-    "ANDR",
-    "COHR",
-    "CALM"
+    "VVVV",
+    "ANDR"
   ],
   "pipeline": [
+    {
+      "ticker": "WELA",
+      "company": "Wella Co",
+      "exchange": "NYSE",
+      "sector": "—",
+      "status": "S-1/A filed 2026-11-13",
+      "description": "Wella is a multinational hair care and cosmetics company headquartered in Geneva, Switzerland. It develops, manufactures, and distributes professional and consumer hair and nail products, including coloring, styling, and hair care lines. Founded in 1880 in Germany by Franz Ströher, the company has undergone multiple ownership transitions. Since 2020, it has operated as an independent entity, majority-owned by private equity firm KKR following its separation from Coty Inc.",
+      "investors": [],
+      "competitors": [],
+      "valLow": 0.1,
+      "valHigh": 0.5,
+      "prob": 55,
+      "window": "TBD"
+    },
     {
       "ticker": "FFLY",
       "company": "FireFly Robotics",
