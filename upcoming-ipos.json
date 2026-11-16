@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-15T09:06:32.901Z",
+  "generatedAt": "2026-11-16T09:19:03.858Z",
   "graduated": [
     "STRV",
     "LYCA",
@@ -27,8 +27,11 @@
       "exchange": "NYSE",
       "sector": "—",
       "status": "S-1/A filed 2026-11-12",
-      "description": "The Firefly, sometimes referred to as the Firefly EV, is a battery electric supermini car produced by Chinese manufacturer Nio since 2025. It is the first vehicle under the Firefly brand.",
-      "investors": [],
+      "description": "Firefly Aerospace, Inc. (Firefly) is an American aerospace firm based in Cedar Park, Texas. Firefly small- and medium-lift launch vehicles for commercial launches to orbit. Firefly's stated purpose is to increase access to space, similar to other private spaceflight companies.",
+      "investors": [
+        "Committee on Foreign Investment in the United States",
+        "Northrop Grumman Space Systems Group"
+      ],
       "competitors": [],
       "valLow": 0.1,
       "valHigh": 0.5,
