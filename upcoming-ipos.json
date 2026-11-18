@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-17T10:31:23.025Z",
+  "generatedAt": "2026-11-18T10:02:45.488Z",
   "graduated": [
     "STRV",
     "LYCA",
@@ -7,6 +7,34 @@
     "ANDR"
   ],
   "pipeline": [
+    {
+      "ticker": "ANT",
+      "company": "Anthropic, PBC",
+      "exchange": "NYSE",
+      "sector": "Software",
+      "status": "S-1/A filed 2026-11-17",
+      "description": "",
+      "investors": [],
+      "competitors": [],
+      "valLow": 0.1,
+      "valHigh": 0.5,
+      "prob": 55,
+      "window": "TBD"
+    },
+    {
+      "ticker": "MXRX",
+      "company": "MED-X",
+      "exchange": "NYSE",
+      "sector": "—",
+      "status": "S-1/A filed 2026-11-17",
+      "description": "",
+      "investors": [],
+      "competitors": [],
+      "valLow": 0.1,
+      "valHigh": 0.5,
+      "prob": 55,
+      "window": "TBD"
+    },
     {
       "ticker": "EMI",
       "company": "Encore Medical",
@@ -46,20 +74,6 @@
         "Committee on Foreign Investment in the United States",
         "Northrop Grumman Space Systems Group"
       ],
-      "competitors": [],
-      "valLow": 0.1,
-      "valHigh": 0.5,
-      "prob": 55,
-      "window": "TBD"
-    },
-    {
-      "ticker": "ANT",
-      "company": "Anthropic, PBC",
-      "exchange": "NYSE",
-      "sector": "Software",
-      "status": "S-1/A filed 2026-11-10",
-      "description": "",
-      "investors": [],
       "competitors": [],
       "valLow": 0.1,
       "valHigh": 0.5,
@@ -179,20 +193,6 @@
       "window": "TBD"
     },
     {
-      "ticker": "MXRX",
-      "company": "MED-X",
-      "exchange": "NYSE",
-      "sector": "—",
-      "status": "S-1/A filed 2026-11-05",
-      "description": "",
-      "investors": [],
-      "competitors": [],
-      "valLow": 0.1,
-      "valHigh": 0.5,
-      "prob": 55,
-      "window": "TBD"
-    },
-    {
       "ticker": "SOBR",
       "company": "SOBR Safe",
       "exchange": "NYSE",
@@ -282,20 +282,6 @@
       "exchange": "NYSE",
       "sector": "—",
       "status": "S-1/A filed 2026-10-14",
-      "description": "",
-      "investors": [],
-      "competitors": [],
-      "valLow": 0.1,
-      "valHigh": 0.5,
-      "prob": 55,
-      "window": "TBD"
-    },
-    {
-      "ticker": "BYOP",
-      "company": "KiNRG",
-      "exchange": "NYSE",
-      "sector": "—",
-      "status": "S-1/A filed 2026-10-13",
       "description": "",
       "investors": [],
       "competitors": [],
