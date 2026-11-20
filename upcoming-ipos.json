@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-19T10:10:36.314Z",
+  "generatedAt": "2026-11-20T09:58:34.653Z",
   "graduated": [
     "STRV",
     "LYCA",
@@ -7,6 +7,20 @@
     "ANDR"
   ],
   "pipeline": [
+    {
+      "ticker": "MXRX",
+      "company": "MED-X",
+      "exchange": "NYSE",
+      "sector": "—",
+      "status": "S-1/A filed 2026-11-19",
+      "description": "",
+      "investors": [],
+      "competitors": [],
+      "valLow": 0.1,
+      "valHigh": 0.5,
+      "prob": 55,
+      "window": "TBD"
+    },
     {
       "ticker": "GLOH",
       "company": "Glow Holdings",
@@ -40,20 +54,6 @@
       "company": "Anthropic, PBC",
       "exchange": "NYSE",
       "sector": "Software",
-      "status": "S-1/A filed 2026-11-17",
-      "description": "",
-      "investors": [],
-      "competitors": [],
-      "valLow": 0.1,
-      "valHigh": 0.5,
-      "prob": 55,
-      "window": "TBD"
-    },
-    {
-      "ticker": "MXRX",
-      "company": "MED-X",
-      "exchange": "NYSE",
-      "sector": "—",
       "status": "S-1/A filed 2026-11-17",
       "description": "",
       "investors": [],
