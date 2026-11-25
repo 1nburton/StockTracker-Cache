@@ -1,10 +1,11 @@
 {
-  "generatedAt": "2026-11-24T12:18:32.625Z",
+  "generatedAt": "2026-11-25T11:09:20.050Z",
   "graduated": [
     "STRV",
     "LYCA",
     "VVVV",
-    "ANDR"
+    "ANDR",
+    "BOLT"
   ],
   "pipeline": [
     {
@@ -13,7 +14,7 @@
       "exchange": "NYSE",
       "sector": "—",
       "status": "S-1/A filed 2026-11-20",
-      "description": "",
+      "description": "Kara-Lis Coverdale, also known as K-LC, is a Canadian composer, musician, and producer based in Montreal, Quebec. Coverdale's music mixes electronic and traditional instruments, including piano, organ, and keyboard. She released A 480 (2014), Aftertouches (2015), Grafts (2017), From Where You Came (2025), A Series of Actions in a Sphere of Forever (2025), and Changes in Air (2025).",
       "investors": [],
       "competitors": [],
       "valLow": 0.1,
@@ -97,8 +98,11 @@
       "exchange": "NYSE",
       "sector": "—",
       "status": "S-1/A filed 2026-11-12",
-      "description": "The Firefly, sometimes referred to as the Firefly EV, is a battery electric supermini car produced by Chinese manufacturer Nio since 2025. It is the first vehicle under the Firefly brand.",
-      "investors": [],
+      "description": "Firefly Aerospace, Inc. (Firefly) is an American aerospace firm based in Cedar Park, Texas. Firefly small- and medium-lift launch vehicles for commercial launches to orbit. Firefly's stated purpose is to increase access to space, similar to other private spaceflight companies.",
+      "investors": [
+        "Committee on Foreign Investment in the United States",
+        "Northrop Grumman Space Systems Group"
+      ],
       "competitors": [],
       "valLow": 0.1,
       "valHigh": 0.5,
